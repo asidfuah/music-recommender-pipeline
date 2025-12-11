@@ -1,0 +1,6502 @@
+[
+  {
+    "user_id": "user_001",
+    "recommendations": [
+      {
+        "song_id": "3312623223",
+        "name": "LV",
+        "artist": "APMOZART",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3312623966",
+        "name": "赢家圈子",
+        "artist": "APMOZART",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.8
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 2.3916
+      },
+      {
+        "song_id": "3312734747",
+        "name": "Pretty",
+        "artist": "王鹤棣",
+        "recommend_score": 2.1796
+      },
+      {
+        "song_id": "2747401481",
+        "name": "炸弹爱",
+        "artist": "africakid",
+        "recommend_score": 2.1469
+      },
+      {
+        "song_id": "3315209589",
+        "name": "街头流行",
+        "artist": "艾洛樱Aluvin",
+        "recommend_score": 2.0979
+      },
+      {
+        "song_id": "2756382547",
+        "name": "局子街",
+        "artist": "零赫兹0HZ",
+        "recommend_score": 2.0816
+      },
+      {
+        "song_id": "2754510819",
+        "name": "那就赚",
+        "artist": "EvilJoker",
+        "recommend_score": 2.0653
+      },
+      {
+        "song_id": "2749440964",
+        "name": "五百",
+        "artist": "宝石Gem",
+        "recommend_score": 2.049
+      }
+    ]
+  },
+  {
+    "user_id": "user_002",
+    "recommendations": [
+      {
+        "song_id": "2756055504",
+        "name": "花",
+        "artist": "海洋Bo",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2754174752",
+        "name": "你给的恨",
+        "artist": "艾志恒Asen",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2754174747",
+        "name": "嘻哈脑壳",
+        "artist": "艾志恒Asen",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2755030698",
+        "name": "懂不？",
+        "artist": "艾志恒Asen",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2754174746",
+        "name": "英雄",
+        "artist": "艾志恒Asen",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2754175476",
+        "name": "Dear Mama",
+        "artist": "艾志恒Asen",
+        "recommend_score": 2.9996
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7999
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2737
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2505
+      }
+    ]
+  },
+  {
+    "user_id": "user_003",
+    "recommendations": [
+      {
+        "song_id": "2727830332",
+        "name": "Sugar On My Tongue",
+        "artist": "Tyler, The Creator",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 0.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 0.3918
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 0.2747
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 0.2505
+      }
+    ]
+  },
+  {
+    "user_id": "user_004",
+    "recommendations": [
+      {
+        "song_id": "2727830332",
+        "name": "Sugar On My Tongue",
+        "artist": "Tyler, The Creator",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 0.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 0.3918
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 0.2747
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 0.2505
+      }
+    ]
+  },
+  {
+    "user_id": "user_005",
+    "recommendations": [
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2748947666",
+        "name": "Remnants (Hikaru and Yoshiki)",
+        "artist": "梅田修一朗",
+        "recommend_score": 2.2422
+      },
+      {
+        "song_id": "2749389579",
+        "name": "Stare In Wonder",
+        "artist": "BE:FIRST",
+        "recommend_score": 2.1131
+      },
+      {
+        "song_id": "2745371115",
+        "name": "To My Savior",
+        "artist": "Zhevincia",
+        "recommend_score": 2.105
+      },
+      {
+        "song_id": "2751940571",
+        "name": "RIDER, RIDER",
+        "artist": "TeddyLoid",
+        "recommend_score": 2.0727
+      },
+      {
+        "song_id": "2751352316",
+        "name": "星の鼓動",
+        "artist": "こはならむ",
+        "recommend_score": 2.0727
+      },
+      {
+        "song_id": "3312019243",
+        "name": "Little Bouquet (Instrumental)",
+        "artist": "Aimer",
+        "recommend_score": 2.0323
+      },
+      {
+        "song_id": "2712336626",
+        "name": "Grow on My Time",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 2.0242
+      },
+      {
+        "song_id": "3312019244",
+        "name": "Pastoral (TV Size)",
+        "artist": "Aimer",
+        "recommend_score": 2.0161
+      },
+      {
+        "song_id": "2743214030",
+        "name": "美梦必须成真",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 2.0161
+      }
+    ]
+  },
+  {
+    "user_id": "user_006",
+    "recommendations": [
+      {
+        "song_id": "3319813693",
+        "name": "健康",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319814570",
+        "name": "东亚焦虑",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319814438",
+        "name": "楚门的世界",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2749440963",
+        "name": "不后悔",
+        "artist": "宝石Gem",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319817890",
+        "name": "身无居所",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "3319814367",
+        "name": "晴天四季",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2108845007",
+        "name": "讴歌",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9993
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7998
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7954
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      }
+    ]
+  },
+  {
+    "user_id": "user_007",
+    "recommendations": [
+      {
+        "song_id": "2727830332",
+        "name": "Sugar On My Tongue",
+        "artist": "Tyler, The Creator",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 0.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 0.3918
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 0.2747
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 0.2505
+      }
+    ]
+  },
+  {
+    "user_id": "user_008",
+    "recommendations": [
+      {
+        "song_id": "2750248383",
+        "name": "Open Eyes(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2725287357",
+        "name": "MANGATA(绝对压制)",
+        "artist": "GTR7",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2742200185",
+        "name": "AMICAMA(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2722510685",
+        "name": "耀斑",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2709812973",
+        "name": "拂晓 Proi Proi",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756019215",
+        "name": "新月的摇篮曲（其一）：伴月同眠 Lullaby of the New Moon (I): Somnias a Luna",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756018761",
+        "name": "晚祷的铃歌 Dzwony na nieszpory",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756019205",
+        "name": "飘曳的眠梦 The Swinging Motion of the Hulls",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756018768",
+        "name": "游步欣愉 Gladsome Ramble",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2757535734",
+        "name": "生活麻辣烫",
+        "artist": "王齐铭WatchMe",
+        "recommend_score": 3.0
+      }
+    ]
+  },
+  {
+    "user_id": "user_009",
+    "recommendations": [
+      {
+        "song_id": "2727830332",
+        "name": "Sugar On My Tongue",
+        "artist": "Tyler, The Creator",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 0.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 0.3918
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 0.2747
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 0.2505
+      }
+    ]
+  },
+  {
+    "user_id": "user_010",
+    "recommendations": [
+      {
+        "song_id": "2712336626",
+        "name": "Grow on My Time",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0242
+      },
+      {
+        "song_id": "2743214030",
+        "name": "美梦必须成真",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0161
+      },
+      {
+        "song_id": "1394617453",
+        "name": "肖邦: 夜曲",
+        "artist": "Noble Music Project",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1442253642",
+        "name": "贝多芬: 《月光奏鸣曲》第一乐章, 作品27-2",
+        "artist": "Noble Music Project",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2736706230",
+        "name": "BATTLEPLAN ARCLIGHT",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2722447989",
+        "name": "致以无名的抗争者",
+        "artist": "鸣潮先约电台",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2751351950",
+        "name": "反常光谱",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2755406555",
+        "name": "Paper Boat",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2723357459",
+        "name": "惊蛰时",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2751351951",
+        "name": "无序频谱",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      }
+    ]
+  },
+  {
+    "user_id": "user_011",
+    "recommendations": [
+      {
+        "song_id": "2754175477",
+        "name": "在雨后醒来",
+        "artist": "艾志恒Asen",
+        "recommend_score": 3.0327
+      },
+      {
+        "song_id": "3319813281",
+        "name": "四月物语",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319813693",
+        "name": "健康",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319814438",
+        "name": "楚门的世界",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2754174747",
+        "name": "嘻哈脑壳",
+        "artist": "艾志恒Asen",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319814367",
+        "name": "晴天四季",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2755030698",
+        "name": "懂不？",
+        "artist": "艾志恒Asen",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2754174746",
+        "name": "英雄",
+        "artist": "艾志恒Asen",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2754175476",
+        "name": "Dear Mama",
+        "artist": "艾志恒Asen",
+        "recommend_score": 2.9997
+      },
+      {
+        "song_id": "2108845007",
+        "name": "讴歌",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9995
+      }
+    ]
+  },
+  {
+    "user_id": "user_012",
+    "recommendations": [
+      {
+        "song_id": "18000639",
+        "name": "Prelude & Fugue No. 1 in C Major, BWV 846:Prelude",
+        "artist": "Glenn Gould",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4928
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2735
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2505
+      },
+      {
+        "song_id": "2748947666",
+        "name": "Remnants (Hikaru and Yoshiki)",
+        "artist": "梅田修一朗",
+        "recommend_score": 2.2423
+      },
+      {
+        "song_id": "2749389579",
+        "name": "Stare In Wonder",
+        "artist": "BE:FIRST",
+        "recommend_score": 2.1131
+      },
+      {
+        "song_id": "3319758074",
+        "name": "南音 (Soulboy 20th Anniversary Edition)",
+        "artist": "HOPICO",
+        "recommend_score": 2.105
+      },
+      {
+        "song_id": "2745371115",
+        "name": "To My Savior",
+        "artist": "Zhevincia",
+        "recommend_score": 2.105
+      }
+    ]
+  },
+  {
+    "user_id": "user_013",
+    "recommendations": [
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7998
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4928
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 2.3918
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2736
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2505
+      },
+      {
+        "song_id": "2748947666",
+        "name": "Remnants (Hikaru and Yoshiki)",
+        "artist": "梅田修一朗",
+        "recommend_score": 2.2423
+      },
+      {
+        "song_id": "3312734747",
+        "name": "Pretty",
+        "artist": "王鹤棣",
+        "recommend_score": 2.1796
+      },
+      {
+        "song_id": "2747401481",
+        "name": "炸弹爱",
+        "artist": "africakid",
+        "recommend_score": 2.1469
+      }
+    ]
+  },
+  {
+    "user_id": "user_014",
+    "recommendations": [
+      {
+        "song_id": "2755067917",
+        "name": "MONTAGEM XONADA 2",
+        "artist": "Lunak",
+        "recommend_score": 3.065
+      },
+      {
+        "song_id": "2709432103",
+        "name": "Falling again",
+        "artist": "Lunak",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319817890",
+        "name": "身无居所",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319813281",
+        "name": "四月物语",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319813693",
+        "name": "健康",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319814570",
+        "name": "东亚焦虑",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319814438",
+        "name": "楚门的世界",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1853542075",
+        "name": "巴赫：十二平均律 C大调前奏曲 No.1",
+        "artist": "纳兰慧心",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2725937943",
+        "name": "UwU Funk",
+        "artist": "Lunak",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2721053223",
+        "name": "PASSO FUNK",
+        "artist": "Lunak",
+        "recommend_score": 2.9998
+      }
+    ]
+  },
+  {
+    "user_id": "user_015",
+    "recommendations": [
+      {
+        "song_id": "2753714636",
+        "name": "登录",
+        "artist": "马思唯",
+        "recommend_score": 3.0322
+      },
+      {
+        "song_id": "1394617453",
+        "name": "肖邦: 夜曲",
+        "artist": "Noble Music Project",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1442253642",
+        "name": "贝多芬: 《月光奏鸣曲》第一乐章, 作品27-2",
+        "artist": "Noble Music Project",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1434268536",
+        "name": "莫扎特: 摇篮曲",
+        "artist": "Noble Music Project",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2753714634",
+        "name": "Hotel Lobby",
+        "artist": "马思唯",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2753714638",
+        "name": "钻石车子票子",
+        "artist": "马思唯",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1394618519",
+        "name": "圣桑: 天鹅",
+        "artist": "Noble Music Project",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "1927617802",
+        "name": "贝多芬命运交响曲（第五交响曲）",
+        "artist": "Wendy Anderson",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "1901862214",
+        "name": "贝多芬 欢乐颂（第九交响曲钢琴版）",
+        "artist": "Wendy Anderson",
+        "recommend_score": 2.9995
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7998
+      }
+    ]
+  },
+  {
+    "user_id": "user_016",
+    "recommendations": [
+      {
+        "song_id": "2738715961",
+        "name": "喝彩",
+        "artist": "回春丹",
+        "recommend_score": 3.1778
+      },
+      {
+        "song_id": "3312019243",
+        "name": "Little Bouquet (Instrumental)",
+        "artist": "Aimer",
+        "recommend_score": 3.0321
+      },
+      {
+        "song_id": "3312019244",
+        "name": "Pastoral (TV Size)",
+        "artist": "Aimer",
+        "recommend_score": 3.0162
+      },
+      {
+        "song_id": "2755971761",
+        "name": "Little Bouquet",
+        "artist": "Aimer",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "3312018325",
+        "name": "Little Bouquet",
+        "artist": "Aimer",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2748705216",
+        "name": "Pastoral",
+        "artist": "Aimer",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2738715965",
+        "name": "鲜花",
+        "artist": "回春丹",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "1295212133",
+        "name": "A小調圓舞曲〈遺作〉waltz In A Minor B.150 Op. Posth",
+        "artist": "Zelimir Panic",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7999
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.796
+      }
+    ]
+  },
+  {
+    "user_id": "user_017",
+    "recommendations": [
+      {
+        "song_id": "2727830332",
+        "name": "Sugar On My Tongue",
+        "artist": "Tyler, The Creator",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 0.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 0.3918
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 0.2747
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 0.2505
+      }
+    ]
+  },
+  {
+    "user_id": "user_018",
+    "recommendations": [
+      {
+        "song_id": "3319813693",
+        "name": "健康",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319814570",
+        "name": "东亚焦虑",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319814438",
+        "name": "楚门的世界",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2719777632",
+        "name": "于深空见证的",
+        "artist": "恋与深空",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319813281",
+        "name": "四月物语",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2724022963",
+        "name": "Behind the Curtain",
+        "artist": "无期迷途",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "3319817890",
+        "name": "身无居所",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2108845007",
+        "name": "讴歌",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.999
+      },
+      {
+        "song_id": "2727830332",
+        "name": "Sugar On My Tongue",
+        "artist": "Tyler, The Creator",
+        "recommend_score": 2.7996
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.7919
+      }
+    ]
+  },
+  {
+    "user_id": "user_019",
+    "recommendations": [
+      {
+        "song_id": "2743214030",
+        "name": "美梦必须成真",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0161
+      },
+      {
+        "song_id": "3319813281",
+        "name": "四月物语",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319813693",
+        "name": "健康",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319814570",
+        "name": "东亚焦虑",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2736706230",
+        "name": "BATTLEPLAN ARCLIGHT",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2751351950",
+        "name": "反常光谱",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2755406555",
+        "name": "Paper Boat",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2723357459",
+        "name": "惊蛰时",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2751351951",
+        "name": "无序频谱",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2757219978",
+        "name": "Against the Rising Tide",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      }
+    ]
+  },
+  {
+    "user_id": "user_020",
+    "recommendations": [
+      {
+        "song_id": "1295212153",
+        "name": "C小調夜曲〈遺作〉nocturne No.21 In C Minor Op. Posth B. 108",
+        "artist": "Zelimir Panic",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2718563207",
+        "name": "喝彩",
+        "artist": "世界之外",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2750248383",
+        "name": "Open Eyes(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2738549556",
+        "name": "Vai Toma(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2723078898",
+        "name": "MANGATA",
+        "artist": "GTR7",
+        "recommend_score": 2.9997
+      },
+      {
+        "song_id": "2729766169",
+        "name": "PRESSURE(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 2.9995
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7998
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7953
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4929
+      }
+    ]
+  },
+  {
+    "user_id": "user_021",
+    "recommendations": [
+      {
+        "song_id": "2727830332",
+        "name": "Sugar On My Tongue",
+        "artist": "Tyler, The Creator",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 0.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 0.3918
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 0.2747
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 0.2505
+      }
+    ]
+  },
+  {
+    "user_id": "user_022",
+    "recommendations": [
+      {
+        "song_id": "2754175477",
+        "name": "在雨后醒来",
+        "artist": "艾志恒Asen",
+        "recommend_score": 3.0327
+      },
+      {
+        "song_id": "2722510685",
+        "name": "耀斑",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2709812973",
+        "name": "拂晓 Proi Proi",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756019205",
+        "name": "飘曳的眠梦 The Swinging Motion of the Hulls",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756018768",
+        "name": "游步欣愉 Gladsome Ramble",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2754174752",
+        "name": "你给的恨",
+        "artist": "艾志恒Asen",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2754174747",
+        "name": "嘻哈脑壳",
+        "artist": "艾志恒Asen",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756018761",
+        "name": "晚祷的铃歌 Dzwony na nieszpory",
+        "artist": "HOYO-MiX",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2756034903",
+        "name": "永夜与破晓的誓刃 To Light the Aeon Dark",
+        "artist": "HOYO-MiX",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2755030698",
+        "name": "懂不？",
+        "artist": "艾志恒Asen",
+        "recommend_score": 2.9999
+      }
+    ]
+  },
+  {
+    "user_id": "user_023",
+    "recommendations": [
+      {
+        "song_id": "3319722018",
+        "name": "废话文学",
+        "artist": "郑润泽",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1926623288",
+        "name": "小胡同",
+        "artist": "郑润泽",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2025186889",
+        "name": "绽放",
+        "artist": "郑润泽",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2123727",
+        "name": "The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 \"Winter\":I. Allegro non molto",
+        "artist": "Anne-Sophie Mutter",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2123708",
+        "name": "The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 \"Summer\":III. Presto",
+        "artist": "Anne-Sophie Mutter",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2018733994",
+        "name": "遐想",
+        "artist": "郑润泽",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "1345571065",
+        "name": "遇见",
+        "artist": "郑润泽",
+        "recommend_score": 2.9996
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.8
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      }
+    ]
+  },
+  {
+    "user_id": "user_024",
+    "recommendations": [
+      {
+        "song_id": "2745413584",
+        "name": "给我",
+        "artist": "犬儒乐队",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2743175270",
+        "name": "《Call the Shot》",
+        "artist": "第五人格",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2744534597",
+        "name": "心房",
+        "artist": "犬儒乐队",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "3319350063",
+        "name": "作曲家专属 EP-《弗雷德里克的协奏曲》",
+        "artist": "第五人格",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "1847916790",
+        "name": "莫扎特：G大调小夜曲",
+        "artist": "纳兰慧心",
+        "recommend_score": 2.9992
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 2.8
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.7919
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2732
+      }
+    ]
+  },
+  {
+    "user_id": "user_025",
+    "recommendations": [
+      {
+        "song_id": "1458558",
+        "name": "An der schönen blauen Donau, Op.314",
+        "artist": "Wiener Philharmoniker",
+        "recommend_score": 2.9997
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7999
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 2.3918
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2737
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2505
+      },
+      {
+        "song_id": "3312734747",
+        "name": "Pretty",
+        "artist": "王鹤棣",
+        "recommend_score": 2.1796
+      },
+      {
+        "song_id": "2747401481",
+        "name": "炸弹爱",
+        "artist": "africakid",
+        "recommend_score": 2.1469
+      },
+      {
+        "song_id": "3319758074",
+        "name": "南音 (Soulboy 20th Anniversary Edition)",
+        "artist": "HOPICO",
+        "recommend_score": 2.105
+      },
+      {
+        "song_id": "3315209589",
+        "name": "街头流行",
+        "artist": "艾洛樱Aluvin",
+        "recommend_score": 2.098
+      }
+    ]
+  },
+  {
+    "user_id": "user_026",
+    "recommendations": [
+      {
+        "song_id": "2750248383",
+        "name": "Open Eyes(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2722447989",
+        "name": "致以无名的抗争者",
+        "artist": "鸣潮先约电台",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2723078898",
+        "name": "MANGATA",
+        "artist": "GTR7",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2725287357",
+        "name": "MANGATA(绝对压制)",
+        "artist": "GTR7",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2742200185",
+        "name": "AMICAMA(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2729766169",
+        "name": "PRESSURE(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 2.9996
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7998
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7955
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      }
+    ]
+  },
+  {
+    "user_id": "user_027",
+    "recommendations": [
+      {
+        "song_id": "2745545554",
+        "name": "DANÇA DO VERÃO",
+        "artist": "sma$her",
+        "recommend_score": 2.9989
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7969
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4928
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2742
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2504
+      },
+      {
+        "song_id": "2741690159",
+        "name": "Montagem Nada phonk",
+        "artist": "F2FZ",
+        "recommend_score": 2.1633
+      },
+      {
+        "song_id": "2746522670",
+        "name": "VAI TOMA TOMA (MENTE MA)",
+        "artist": "7YE",
+        "recommend_score": 2.1469
+      },
+      {
+        "song_id": "3319758074",
+        "name": "南音 (Soulboy 20th Anniversary Edition)",
+        "artist": "HOPICO",
+        "recommend_score": 2.1049
+      },
+      {
+        "song_id": "2743640694",
+        "name": "nobody (make me feel)",
+        "artist": "oskar med k",
+        "recommend_score": 2.0815
+      },
+      {
+        "song_id": "2755067917",
+        "name": "MONTAGEM XONADA 2",
+        "artist": "Lunak",
+        "recommend_score": 2.0652
+      }
+    ]
+  },
+  {
+    "user_id": "user_028",
+    "recommendations": [
+      {
+        "song_id": "2757535735",
+        "name": "五小区",
+        "artist": "王齐铭WatchMe",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2755082611",
+        "name": "One night in 解放碑",
+        "artist": "王齐铭WatchMe",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2757535738",
+        "name": "男子汉",
+        "artist": "王齐铭WatchMe",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2757538156",
+        "name": "老生常谈Freestyle",
+        "artist": "王齐铭WatchMe",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2751267244",
+        "name": "不得了Freestyle",
+        "artist": "王齐铭WatchMe",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2727830332",
+        "name": "Sugar On My Tongue",
+        "artist": "Tyler, The Creator",
+        "recommend_score": 2.8
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.8
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 2.3916
+      },
+      {
+        "song_id": "3312734747",
+        "name": "Pretty",
+        "artist": "王鹤棣",
+        "recommend_score": 2.1796
+      },
+      {
+        "song_id": "2722724910",
+        "name": "What Did I Miss?",
+        "artist": "Drake",
+        "recommend_score": 2.1778
+      }
+    ]
+  },
+  {
+    "user_id": "user_029",
+    "recommendations": [
+      {
+        "song_id": "2754175477",
+        "name": "在雨后醒来",
+        "artist": "艾志恒Asen",
+        "recommend_score": 3.0326
+      },
+      {
+        "song_id": "2712336626",
+        "name": "Grow on My Time",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0241
+      },
+      {
+        "song_id": "2743214030",
+        "name": "美梦必须成真",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0161
+      },
+      {
+        "song_id": "2757219978",
+        "name": "Against the Rising Tide",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2755030698",
+        "name": "懂不？",
+        "artist": "艾志恒Asen",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2754174746",
+        "name": "英雄",
+        "artist": "艾志恒Asen",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2754174752",
+        "name": "你给的恨",
+        "artist": "艾志恒Asen",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2736706230",
+        "name": "BATTLEPLAN ARCLIGHT",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2751351950",
+        "name": "反常光谱",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2751351951",
+        "name": "无序频谱",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 2.9999
+      }
+    ]
+  },
+  {
+    "user_id": "user_030",
+    "recommendations": [
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 3.8
+      },
+      {
+        "song_id": "2738715961",
+        "name": "喝彩",
+        "artist": "回春丹",
+        "recommend_score": 3.1777
+      },
+      {
+        "song_id": "2751940571",
+        "name": "RIDER, RIDER",
+        "artist": "TeddyLoid",
+        "recommend_score": 3.0727
+      },
+      {
+        "song_id": "2712336626",
+        "name": "Grow on My Time",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0242
+      },
+      {
+        "song_id": "2743214030",
+        "name": "美梦必须成真",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0161
+      },
+      {
+        "song_id": "2751940573",
+        "name": "Let's Go!! Rider Kick (TeddyLoid Edit)",
+        "artist": "TeddyLoid",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2736706230",
+        "name": "BATTLEPLAN ARCLIGHT",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2751351950",
+        "name": "反常光谱",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2755406555",
+        "name": "Paper Boat",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2723357459",
+        "name": "惊蛰时",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      }
+    ]
+  },
+  {
+    "user_id": "user_031",
+    "recommendations": [
+      {
+        "song_id": "3319813693",
+        "name": "健康",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319814438",
+        "name": "楚门的世界",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "456094670",
+        "name": "Three Worlds: Music From Woolf Works / Mrs Dalloway:Meeting Again",
+        "artist": "Max Richter",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319813281",
+        "name": "四月物语",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "34619045",
+        "name": "Richter: Dream 1 (before the wind blows it all away)",
+        "artist": "Max Richter",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "1331822743",
+        "name": "Whispers",
+        "artist": "Max Richter",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "3319817890",
+        "name": "身无居所",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "3319814367",
+        "name": "晴天四季",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9997
+      },
+      {
+        "song_id": "2776537",
+        "name": "Hungarian Dance No.5 in G Minor, WoO 1 No.5 - Orchestrated by Martin Schmeling (?-1943) - Hungarian Dance No.5 In G Minor, WoO 1",
+        "artist": "Wiener Philharmoniker",
+        "recommend_score": 2.9996
+      },
+      {
+        "song_id": "1331826172",
+        "name": "She Was Running",
+        "artist": "Max Richter",
+        "recommend_score": 2.9995
+      }
+    ]
+  },
+  {
+    "user_id": "user_032",
+    "recommendations": [
+      {
+        "song_id": "1060914",
+        "name": "Nocturne No. 2 in E Flat Major, Op. 9, No. 2",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060910",
+        "name": "Nocturne No. 1 in B Flat Minor, Op. 9, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060948",
+        "name": "Nocturne No. 13 in C Minor, Op. 48, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060967",
+        "name": "Nocturne No. 19 in E Minor, Op. 72, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060937",
+        "name": "Nocturne No. 10 in A Flat Major, Op. 32, No. 2",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7951
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2733
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2505
+      },
+      {
+        "song_id": "2741690159",
+        "name": "Montagem Nada phonk",
+        "artist": "F2FZ",
+        "recommend_score": 2.1629
+      }
+    ]
+  },
+  {
+    "user_id": "user_033",
+    "recommendations": [
+      {
+        "song_id": "2723078898",
+        "name": "MANGATA",
+        "artist": "GTR7",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2750248383",
+        "name": "Open Eyes(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2738549556",
+        "name": "Vai Toma(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2742200185",
+        "name": "AMICAMA(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2749049796",
+        "name": "愛属性",
+        "artist": "ピノキオピー",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "18001009",
+        "name": "Goldberg Variations, BWV 988:Aria",
+        "artist": "Glenn Gould",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2123708",
+        "name": "The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 \"Summer\":III. Presto",
+        "artist": "Anne-Sophie Mutter",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2729766169",
+        "name": "PRESSURE(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2123727",
+        "name": "The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 \"Winter\":I. Allegro non molto",
+        "artist": "Anne-Sophie Mutter",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.8
+      }
+    ]
+  },
+  {
+    "user_id": "user_034",
+    "recommendations": [
+      {
+        "song_id": "65528",
+        "name": "淘汰",
+        "artist": "陈奕迅",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2709812973",
+        "name": "拂晓 Proi Proi",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756019205",
+        "name": "飘曳的眠梦 The Swinging Motion of the Hulls",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756018768",
+        "name": "游步欣愉 Gladsome Ramble",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1983571247",
+        "name": "小步舞曲（巴赫）",
+        "artist": "nengcd",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2722510685",
+        "name": "耀斑",
+        "artist": "HOYO-MiX",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2756019215",
+        "name": "新月的摇篮曲（其一）：伴月同眠 Lullaby of the New Moon (I): Somnias a Luna",
+        "artist": "HOYO-MiX",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2756018761",
+        "name": "晚祷的铃歌 Dzwony na nieszpory",
+        "artist": "HOYO-MiX",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      }
+    ]
+  },
+  {
+    "user_id": "user_035",
+    "recommendations": [
+      {
+        "song_id": "2751940571",
+        "name": "RIDER, RIDER",
+        "artist": "TeddyLoid",
+        "recommend_score": 3.0727
+      },
+      {
+        "song_id": "254132",
+        "name": "会呼吸的痛",
+        "artist": "梁静茹",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060910",
+        "name": "Nocturne No. 1 in B Flat Minor, Op. 9, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "1060967",
+        "name": "Nocturne No. 19 in E Minor, Op. 72, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2751940573",
+        "name": "Let's Go!! Rider Kick (TeddyLoid Edit)",
+        "artist": "TeddyLoid",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2751940572",
+        "name": "I am Tackle!",
+        "artist": "TeddyLoid",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2751938830",
+        "name": "Legion of Hell",
+        "artist": "TeddyLoid",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "1060948",
+        "name": "Nocturne No. 13 in C Minor, Op. 48, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "1060955",
+        "name": "Nocturne No. 15 in F Minor, Op. 55, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "1060937",
+        "name": "Nocturne No. 10 in A Flat Major, Op. 32, No. 2",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 2.9998
+      }
+    ]
+  },
+  {
+    "user_id": "user_036",
+    "recommendations": [
+      {
+        "song_id": "2727830332",
+        "name": "Sugar On My Tongue",
+        "artist": "Tyler, The Creator",
+        "recommend_score": 2.7999
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7999
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7962
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4927
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 2.3917
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2739
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2505
+      },
+      {
+        "song_id": "2748947666",
+        "name": "Remnants (Hikaru and Yoshiki)",
+        "artist": "梅田修一朗",
+        "recommend_score": 2.2424
+      }
+    ]
+  },
+  {
+    "user_id": "user_037",
+    "recommendations": [
+      {
+        "song_id": "2755067917",
+        "name": "MONTAGEM XONADA 2",
+        "artist": "Lunak",
+        "recommend_score": 3.065
+      },
+      {
+        "song_id": "2725937943",
+        "name": "UwU Funk",
+        "artist": "Lunak",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2721053223",
+        "name": "PASSO FUNK",
+        "artist": "Lunak",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2724791369",
+        "name": "Montagem Nada",
+        "artist": "Lunak",
+        "recommend_score": 2.9996
+      },
+      {
+        "song_id": "2747886054",
+        "name": "MONTAGEM SEM PARA 2",
+        "artist": "Lunak",
+        "recommend_score": 2.9996
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7963
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2739
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2505
+      },
+      {
+        "song_id": "2741690159",
+        "name": "Montagem Nada phonk",
+        "artist": "F2FZ",
+        "recommend_score": 2.1632
+      }
+    ]
+  },
+  {
+    "user_id": "user_038",
+    "recommendations": [
+      {
+        "song_id": "254132",
+        "name": "会呼吸的痛",
+        "artist": "梁静茹",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1910899366",
+        "name": "莫扎特 土耳其进行曲",
+        "artist": "Wendy Anderson",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2749524734",
+        "name": "紧身衣",
+        "artist": "SASIOVERLXRD",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "1901862214",
+        "name": "贝多芬 欢乐颂（第九交响曲钢琴版）",
+        "artist": "Wendy Anderson",
+        "recommend_score": 2.9993
+      },
+      {
+        "song_id": "2749525429",
+        "name": "天生痛苦",
+        "artist": "SASIOVERLXRD",
+        "recommend_score": 2.9989
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7997
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.7919
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 2.3918
+      }
+    ]
+  },
+  {
+    "user_id": "user_039",
+    "recommendations": [
+      {
+        "song_id": "3319813693",
+        "name": "健康",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "3319814570",
+        "name": "东亚焦虑",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "3319814438",
+        "name": "楚门的世界",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2747166493",
+        "name": "JANE DOE",
+        "artist": "米津玄師",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "3319817890",
+        "name": "身无居所",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9997
+      },
+      {
+        "song_id": "3319814367",
+        "name": "晴天四季",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9996
+      },
+      {
+        "song_id": "2108845007",
+        "name": "讴歌",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9989
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.7918
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4929
+      }
+    ]
+  },
+  {
+    "user_id": "user_040",
+    "recommendations": [
+      {
+        "song_id": "1331822743",
+        "name": "Whispers",
+        "artist": "Max Richter",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "26244421",
+        "name": "On the Nature of Daylight",
+        "artist": "Max Richter",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "456094670",
+        "name": "Three Worlds: Music From Woolf Works / Mrs Dalloway:Meeting Again",
+        "artist": "Max Richter",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "34619045",
+        "name": "Richter: Dream 1 (before the wind blows it all away)",
+        "artist": "Max Richter",
+        "recommend_score": 2.9996
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7998
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 2.3918
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2736
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2505
+      },
+      {
+        "song_id": "3312734747",
+        "name": "Pretty",
+        "artist": "王鹤棣",
+        "recommend_score": 2.1796
+      }
+    ]
+  },
+  {
+    "user_id": "user_041",
+    "recommendations": [
+      {
+        "song_id": "65528",
+        "name": "淘汰",
+        "artist": "陈奕迅",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2750248383",
+        "name": "Open Eyes(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2723078898",
+        "name": "MANGATA",
+        "artist": "GTR7",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2738549556",
+        "name": "Vai Toma(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2742200185",
+        "name": "AMICAMA(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2729766169",
+        "name": "PRESSURE(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 2.9996
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7955
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2735
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2505
+      }
+    ]
+  },
+  {
+    "user_id": "user_042",
+    "recommendations": [
+      {
+        "song_id": "2755067917",
+        "name": "MONTAGEM XONADA 2",
+        "artist": "Lunak",
+        "recommend_score": 3.0645
+      },
+      {
+        "song_id": "2745413584",
+        "name": "给我",
+        "artist": "犬儒乐队",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2745413582",
+        "name": "白鸟",
+        "artist": "犬儒乐队",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2709432103",
+        "name": "Falling again",
+        "artist": "Lunak",
+        "recommend_score": 2.9997
+      },
+      {
+        "song_id": "2725937943",
+        "name": "UwU Funk",
+        "artist": "Lunak",
+        "recommend_score": 2.9996
+      },
+      {
+        "song_id": "2724791369",
+        "name": "Montagem Nada",
+        "artist": "Lunak",
+        "recommend_score": 2.9991
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 2.8
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7997
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7949
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 2.3918
+      }
+    ]
+  },
+  {
+    "user_id": "user_043",
+    "recommendations": [
+      {
+        "song_id": "1983571247",
+        "name": "小步舞曲（巴赫）",
+        "artist": "nengcd",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "39869702",
+        "name": "Sonata for 2 pianos in D, K.448:2. Andante",
+        "artist": "Ingrid Haebler",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "18000639",
+        "name": "Prelude & Fugue No. 1 in C Major, BWV 846:Prelude",
+        "artist": "Glenn Gould",
+        "recommend_score": 2.9997
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 2.8
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7997
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.7919
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 2.3918
+      },
+      {
+        "song_id": "2748947666",
+        "name": "Remnants (Hikaru and Yoshiki)",
+        "artist": "梅田修一朗",
+        "recommend_score": 2.2422
+      },
+      {
+        "song_id": "3312734747",
+        "name": "Pretty",
+        "artist": "王鹤棣",
+        "recommend_score": 2.1795
+      }
+    ]
+  },
+  {
+    "user_id": "user_044",
+    "recommendations": [
+      {
+        "song_id": "1060914",
+        "name": "Nocturne No. 2 in E Flat Major, Op. 9, No. 2",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060910",
+        "name": "Nocturne No. 1 in B Flat Minor, Op. 9, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060948",
+        "name": "Nocturne No. 13 in C Minor, Op. 48, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "1060955",
+        "name": "Nocturne No. 15 in F Minor, Op. 55, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "1060937",
+        "name": "Nocturne No. 10 in A Flat Major, Op. 32, No. 2",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "478507889",
+        "name": "卡农（经典钢琴版）",
+        "artist": "dylanf",
+        "recommend_score": 2.0
+      },
+      {
+        "song_id": "1480560252",
+        "name": "舒伯特摇篮曲",
+        "artist": "舒伯特摇篮曲",
+        "recommend_score": 2.0
+      },
+      {
+        "song_id": "1944983536",
+        "name": "贝多芬 钢琴曲《致爱丽丝》",
+        "artist": "天之籁音乐",
+        "recommend_score": 2.0
+      },
+      {
+        "song_id": "1394617453",
+        "name": "肖邦: 夜曲",
+        "artist": "Noble Music Project",
+        "recommend_score": 2.0
+      },
+      {
+        "song_id": "1442253642",
+        "name": "贝多芬: 《月光奏鸣曲》第一乐章, 作品27-2",
+        "artist": "Noble Music Project",
+        "recommend_score": 2.0
+      }
+    ]
+  },
+  {
+    "user_id": "user_045",
+    "recommendations": [
+      {
+        "song_id": "3312019243",
+        "name": "Little Bouquet (Instrumental)",
+        "artist": "Aimer",
+        "recommend_score": 3.0323
+      },
+      {
+        "song_id": "3312019244",
+        "name": "Pastoral (TV Size)",
+        "artist": "Aimer",
+        "recommend_score": 3.0161
+      },
+      {
+        "song_id": "2709812973",
+        "name": "拂晓 Proi Proi",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3312018325",
+        "name": "Little Bouquet",
+        "artist": "Aimer",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2748705216",
+        "name": "Pastoral",
+        "artist": "Aimer",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756019205",
+        "name": "飘曳的眠梦 The Swinging Motion of the Hulls",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756018768",
+        "name": "游步欣愉 Gladsome Ramble",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1926623288",
+        "name": "小胡同",
+        "artist": "郑润泽",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2722510685",
+        "name": "耀斑",
+        "artist": "HOYO-MiX",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2727103300",
+        "name": "太陽が昇らない世界 - A World Where the Sun Never Rises",
+        "artist": "Aimer",
+        "recommend_score": 2.9999
+      }
+    ]
+  },
+  {
+    "user_id": "user_046",
+    "recommendations": [
+      {
+        "song_id": "3319814570",
+        "name": "东亚焦虑",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319814438",
+        "name": "楚门的世界",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319813281",
+        "name": "四月物语",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "3319817890",
+        "name": "身无居所",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "3319814367",
+        "name": "晴天四季",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9997
+      },
+      {
+        "song_id": "2108845007",
+        "name": "讴歌",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.999
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7996
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.7919
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4929
+      }
+    ]
+  },
+  {
+    "user_id": "user_047",
+    "recommendations": [
+      {
+        "song_id": "2727830332",
+        "name": "Sugar On My Tongue",
+        "artist": "Tyler, The Creator",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 0.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 0.3918
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 0.2747
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 0.2505
+      }
+    ]
+  },
+  {
+    "user_id": "user_048",
+    "recommendations": [
+      {
+        "song_id": "1049224",
+        "name": "España Cani",
+        "artist": "André Rieu",
+        "recommend_score": 2.9997
+      },
+      {
+        "song_id": "1049118",
+        "name": "Skaters' Waltz",
+        "artist": "André Rieu",
+        "recommend_score": 2.9996
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.8
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7967
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4928
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 2.3916
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2741
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2504
+      },
+      {
+        "song_id": "3312734747",
+        "name": "Pretty",
+        "artist": "王鹤棣",
+        "recommend_score": 2.1796
+      },
+      {
+        "song_id": "2741690159",
+        "name": "Montagem Nada phonk",
+        "artist": "F2FZ",
+        "recommend_score": 2.1632
+      }
+    ]
+  },
+  {
+    "user_id": "user_049",
+    "recommendations": [
+      {
+        "song_id": "2722510685",
+        "name": "耀斑",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756019215",
+        "name": "新月的摇篮曲（其一）：伴月同眠 Lullaby of the New Moon (I): Somnias a Luna",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756019205",
+        "name": "飘曳的眠梦 The Swinging Motion of the Hulls",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756018768",
+        "name": "游步欣愉 Gladsome Ramble",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756018761",
+        "name": "晚祷的铃歌 Dzwony na nieszpory",
+        "artist": "HOYO-MiX",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2756034903",
+        "name": "永夜与破晓的誓刃 To Light the Aeon Dark",
+        "artist": "HOYO-MiX",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4927
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2738
+      }
+    ]
+  },
+  {
+    "user_id": "user_050",
+    "recommendations": [
+      {
+        "song_id": "2727830332",
+        "name": "Sugar On My Tongue",
+        "artist": "Tyler, The Creator",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 0.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 0.3918
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 0.2747
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 0.2505
+      }
+    ]
+  },
+  {
+    "user_id": "user_051",
+    "recommendations": [
+      {
+        "song_id": "2755067917",
+        "name": "MONTAGEM XONADA 2",
+        "artist": "Lunak",
+        "recommend_score": 3.0647
+      },
+      {
+        "song_id": "3312019243",
+        "name": "Little Bouquet (Instrumental)",
+        "artist": "Aimer",
+        "recommend_score": 3.0322
+      },
+      {
+        "song_id": "3312019244",
+        "name": "Pastoral (TV Size)",
+        "artist": "Aimer",
+        "recommend_score": 3.0161
+      },
+      {
+        "song_id": "3312018325",
+        "name": "Little Bouquet",
+        "artist": "Aimer",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2748705216",
+        "name": "Pastoral",
+        "artist": "Aimer",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2727103300",
+        "name": "太陽が昇らない世界 - A World Where the Sun Never Rises",
+        "artist": "Aimer",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2709432103",
+        "name": "Falling again",
+        "artist": "Lunak",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2725937943",
+        "name": "UwU Funk",
+        "artist": "Lunak",
+        "recommend_score": 2.9997
+      },
+      {
+        "song_id": "2721053223",
+        "name": "PASSO FUNK",
+        "artist": "Lunak",
+        "recommend_score": 2.9995
+      },
+      {
+        "song_id": "2747886054",
+        "name": "MONTAGEM SEM PARA 2",
+        "artist": "Lunak",
+        "recommend_score": 2.9992
+      }
+    ]
+  },
+  {
+    "user_id": "user_052",
+    "recommendations": [
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7961
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4927
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2738
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2505
+      },
+      {
+        "song_id": "2748947666",
+        "name": "Remnants (Hikaru and Yoshiki)",
+        "artist": "梅田修一朗",
+        "recommend_score": 2.2424
+      },
+      {
+        "song_id": "2746522670",
+        "name": "VAI TOMA TOMA (MENTE MA)",
+        "artist": "7YE",
+        "recommend_score": 2.1468
+      },
+      {
+        "song_id": "2749389579",
+        "name": "Stare In Wonder",
+        "artist": "BE:FIRST",
+        "recommend_score": 2.113
+      },
+      {
+        "song_id": "3319758074",
+        "name": "南音 (Soulboy 20th Anniversary Edition)",
+        "artist": "HOPICO",
+        "recommend_score": 2.105
+      }
+    ]
+  },
+  {
+    "user_id": "user_053",
+    "recommendations": [
+      {
+        "song_id": "2749440964",
+        "name": "五百",
+        "artist": "宝石Gem",
+        "recommend_score": 3.0489
+      },
+      {
+        "song_id": "1060914",
+        "name": "Nocturne No. 2 in E Flat Major, Op. 9, No. 2",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060910",
+        "name": "Nocturne No. 1 in B Flat Minor, Op. 9, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060948",
+        "name": "Nocturne No. 13 in C Minor, Op. 48, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060955",
+        "name": "Nocturne No. 15 in F Minor, Op. 55, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060937",
+        "name": "Nocturne No. 10 in A Flat Major, Op. 32, No. 2",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "22006389",
+        "name": "Kinderszenen, Op.15:7. Träumerei",
+        "artist": "Vladimir Horowitz",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7997
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.7919
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4929
+      }
+    ]
+  },
+  {
+    "user_id": "user_054",
+    "recommendations": [
+      {
+        "song_id": "2727830332",
+        "name": "Sugar On My Tongue",
+        "artist": "Tyler, The Creator",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 0.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 0.3918
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 0.2747
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 0.2505
+      }
+    ]
+  },
+  {
+    "user_id": "user_055",
+    "recommendations": [
+      {
+        "song_id": "2727830332",
+        "name": "Sugar On My Tongue",
+        "artist": "Tyler, The Creator",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 0.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 0.3918
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 0.2747
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 0.2505
+      }
+    ]
+  },
+  {
+    "user_id": "user_056",
+    "recommendations": [
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7942
+      },
+      {
+        "song_id": "2741690159",
+        "name": "Montagem Nada phonk",
+        "artist": "F2FZ",
+        "recommend_score": 2.1627
+      },
+      {
+        "song_id": "2746522670",
+        "name": "VAI TOMA TOMA (MENTE MA)",
+        "artist": "7YE",
+        "recommend_score": 2.1463
+      },
+      {
+        "song_id": "2743640694",
+        "name": "nobody (make me feel)",
+        "artist": "oskar med k",
+        "recommend_score": 2.0815
+      },
+      {
+        "song_id": "2755067917",
+        "name": "MONTAGEM XONADA 2",
+        "artist": "Lunak",
+        "recommend_score": 2.0642
+      },
+      {
+        "song_id": "2733800375",
+        "name": "MEMORIZING",
+        "artist": "DJ DELACROIX",
+        "recommend_score": 2.0642
+      },
+      {
+        "song_id": "2752128676",
+        "name": "HOMAGE FUNK",
+        "artist": "KIXIA",
+        "recommend_score": 2.0485
+      },
+      {
+        "song_id": "2755842690",
+        "name": "盐津-她遇见我-Yanjin-She Met Me",
+        "artist": "Sister Gertha Lemone",
+        "recommend_score": 2.0
+      },
+      {
+        "song_id": "3316563802",
+        "name": "Sailing",
+        "artist": "Alan Walker",
+        "recommend_score": 2.0
+      },
+      {
+        "song_id": "2738338863",
+        "name": "Teenage Dreams",
+        "artist": "Lazer Boomerang",
+        "recommend_score": 2.0
+      }
+    ]
+  },
+  {
+    "user_id": "user_057",
+    "recommendations": [
+      {
+        "song_id": "2727830332",
+        "name": "Sugar On My Tongue",
+        "artist": "Tyler, The Creator",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 0.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 0.3918
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 0.2747
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 0.2505
+      }
+    ]
+  },
+  {
+    "user_id": "user_058",
+    "recommendations": [
+      {
+        "song_id": "1944983536",
+        "name": "贝多芬 钢琴曲《致爱丽丝》",
+        "artist": "天之籁音乐",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3312623966",
+        "name": "赢家圈子",
+        "artist": "APMOZART",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3312623232",
+        "name": "Like ovo",
+        "artist": "APMOZART",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3314692780",
+        "name": "カイコ",
+        "artist": "DECO*27",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "1049118",
+        "name": "Skaters' Waltz",
+        "artist": "André Rieu",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "1049224",
+        "name": "España Cani",
+        "artist": "André Rieu",
+        "recommend_score": 2.9994
+      },
+      {
+        "song_id": "2727830332",
+        "name": "Sugar On My Tongue",
+        "artist": "Tyler, The Creator",
+        "recommend_score": 2.7999
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7999
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7961
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      }
+    ]
+  },
+  {
+    "user_id": "user_059",
+    "recommendations": [
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7948
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2732
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2505
+      },
+      {
+        "song_id": "2741690159",
+        "name": "Montagem Nada phonk",
+        "artist": "F2FZ",
+        "recommend_score": 2.1629
+      },
+      {
+        "song_id": "2746522670",
+        "name": "VAI TOMA TOMA (MENTE MA)",
+        "artist": "7YE",
+        "recommend_score": 2.1465
+      },
+      {
+        "song_id": "3319758074",
+        "name": "南音 (Soulboy 20th Anniversary Edition)",
+        "artist": "HOPICO",
+        "recommend_score": 2.105
+      },
+      {
+        "song_id": "2743640694",
+        "name": "nobody (make me feel)",
+        "artist": "oskar med k",
+        "recommend_score": 2.0816
+      },
+      {
+        "song_id": "2755067917",
+        "name": "MONTAGEM XONADA 2",
+        "artist": "Lunak",
+        "recommend_score": 2.0645
+      },
+      {
+        "song_id": "2733800375",
+        "name": "MEMORIZING",
+        "artist": "DJ DELACROIX",
+        "recommend_score": 2.0645
+      }
+    ]
+  },
+  {
+    "user_id": "user_060",
+    "recommendations": [
+      {
+        "song_id": "2712336626",
+        "name": "Grow on My Time",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0242
+      },
+      {
+        "song_id": "2743214030",
+        "name": "美梦必须成真",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0162
+      },
+      {
+        "song_id": "254132",
+        "name": "会呼吸的痛",
+        "artist": "梁静茹",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2736706230",
+        "name": "BATTLEPLAN ARCLIGHT",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2751351950",
+        "name": "反常光谱",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2723357459",
+        "name": "惊蛰时",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2757219978",
+        "name": "Against the Rising Tide",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2736705380",
+        "name": "LEVIATION",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2751379003",
+        "name": "Sealed",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2755406555",
+        "name": "Paper Boat",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 2.9999
+      }
+    ]
+  },
+  {
+    "user_id": "user_061",
+    "recommendations": [
+      {
+        "song_id": "2755067917",
+        "name": "MONTAGEM XONADA 2",
+        "artist": "Lunak",
+        "recommend_score": 3.0648
+      },
+      {
+        "song_id": "2709432103",
+        "name": "Falling again",
+        "artist": "Lunak",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2721053223",
+        "name": "PASSO FUNK",
+        "artist": "Lunak",
+        "recommend_score": 2.9996
+      },
+      {
+        "song_id": "2724791369",
+        "name": "Montagem Nada",
+        "artist": "Lunak",
+        "recommend_score": 2.9994
+      },
+      {
+        "song_id": "2747886054",
+        "name": "MONTAGEM SEM PARA 2",
+        "artist": "Lunak",
+        "recommend_score": 2.9993
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7957
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4928
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2736
+      }
+    ]
+  },
+  {
+    "user_id": "user_062",
+    "recommendations": [
+      {
+        "song_id": "2723078898",
+        "name": "MANGATA",
+        "artist": "GTR7",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2750248383",
+        "name": "Open Eyes(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2738549556",
+        "name": "Vai Toma(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2729766169",
+        "name": "PRESSURE(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7969
+      },
+      {
+        "song_id": "2741690159",
+        "name": "Montagem Nada phonk",
+        "artist": "F2FZ",
+        "recommend_score": 2.1633
+      },
+      {
+        "song_id": "2746522670",
+        "name": "VAI TOMA TOMA (MENTE MA)",
+        "artist": "7YE",
+        "recommend_score": 2.1469
+      },
+      {
+        "song_id": "2743640694",
+        "name": "nobody (make me feel)",
+        "artist": "oskar med k",
+        "recommend_score": 2.0815
+      },
+      {
+        "song_id": "2755067917",
+        "name": "MONTAGEM XONADA 2",
+        "artist": "Lunak",
+        "recommend_score": 2.0652
+      },
+      {
+        "song_id": "2733800375",
+        "name": "MEMORIZING",
+        "artist": "DJ DELACROIX",
+        "recommend_score": 2.0652
+      }
+    ]
+  },
+  {
+    "user_id": "user_063",
+    "recommendations": [
+      {
+        "song_id": "1394617453",
+        "name": "肖邦: 夜曲",
+        "artist": "Noble Music Project",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1442253641",
+        "name": "莫扎特: 土耳其进行曲",
+        "artist": "Noble Music Project",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1442253642",
+        "name": "贝多芬: 《月光奏鸣曲》第一乐章, 作品27-2",
+        "artist": "Noble Music Project",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "1394618519",
+        "name": "圣桑: 天鹅",
+        "artist": "Noble Music Project",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2738
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2505
+      },
+      {
+        "song_id": "3319758074",
+        "name": "南音 (Soulboy 20th Anniversary Edition)",
+        "artist": "HOPICO",
+        "recommend_score": 2.105
+      },
+      {
+        "song_id": "3320401411",
+        "name": "装货 (Live)",
+        "artist": "欧阳娜娜",
+        "recommend_score": 2.0646
+      },
+      {
+        "song_id": "3319722018",
+        "name": "废话文学",
+        "artist": "郑润泽",
+        "recommend_score": 2.0
+      }
+    ]
+  },
+  {
+    "user_id": "user_064",
+    "recommendations": [
+      {
+        "song_id": "27708297",
+        "name": "Waltz No.19 in A minor, Op.posth.",
+        "artist": "Claudio Arrau",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2749524734",
+        "name": "紧身衣",
+        "artist": "SASIOVERLXRD",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2749525429",
+        "name": "天生痛苦",
+        "artist": "SASIOVERLXRD",
+        "recommend_score": 2.9991
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 2.8
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7998
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7954
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 2.3918
+      },
+      {
+        "song_id": "3312734747",
+        "name": "Pretty",
+        "artist": "王鹤棣",
+        "recommend_score": 2.1795
+      },
+      {
+        "song_id": "2738715961",
+        "name": "喝彩",
+        "artist": "回春丹",
+        "recommend_score": 2.1777
+      },
+      {
+        "song_id": "2741690159",
+        "name": "Montagem Nada phonk",
+        "artist": "F2FZ",
+        "recommend_score": 2.163
+      }
+    ]
+  },
+  {
+    "user_id": "user_065",
+    "recommendations": [
+      {
+        "song_id": "2751940571",
+        "name": "RIDER, RIDER",
+        "artist": "TeddyLoid",
+        "recommend_score": 3.0727
+      },
+      {
+        "song_id": "1060910",
+        "name": "Nocturne No. 1 in B Flat Minor, Op. 9, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060948",
+        "name": "Nocturne No. 13 in C Minor, Op. 48, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060967",
+        "name": "Nocturne No. 19 in E Minor, Op. 72, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060955",
+        "name": "Nocturne No. 15 in F Minor, Op. 55, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060937",
+        "name": "Nocturne No. 10 in A Flat Major, Op. 32, No. 2",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2751940573",
+        "name": "Let's Go!! Rider Kick (TeddyLoid Edit)",
+        "artist": "TeddyLoid",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2751938831",
+        "name": "Spider Beat",
+        "artist": "TeddyLoid",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2718563207",
+        "name": "喝彩",
+        "artist": "世界之外",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2751940572",
+        "name": "I am Tackle!",
+        "artist": "TeddyLoid",
+        "recommend_score": 3.0
+      }
+    ]
+  },
+  {
+    "user_id": "user_066",
+    "recommendations": [
+      {
+        "song_id": "1060910",
+        "name": "Nocturne No. 1 in B Flat Minor, Op. 9, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060948",
+        "name": "Nocturne No. 13 in C Minor, Op. 48, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060967",
+        "name": "Nocturne No. 19 in E Minor, Op. 72, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060955",
+        "name": "Nocturne No. 15 in F Minor, Op. 55, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060937",
+        "name": "Nocturne No. 10 in A Flat Major, Op. 32, No. 2",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2727830332",
+        "name": "Sugar On My Tongue",
+        "artist": "Tyler, The Creator",
+        "recommend_score": 2.7996
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2732
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2505
+      },
+      {
+        "song_id": "2722724910",
+        "name": "What Did I Miss?",
+        "artist": "Drake",
+        "recommend_score": 2.1777
+      }
+    ]
+  },
+  {
+    "user_id": "user_067",
+    "recommendations": [
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7949
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2732
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2505
+      },
+      {
+        "song_id": "2741690159",
+        "name": "Montagem Nada phonk",
+        "artist": "F2FZ",
+        "recommend_score": 2.1629
+      },
+      {
+        "song_id": "2746522670",
+        "name": "VAI TOMA TOMA (MENTE MA)",
+        "artist": "7YE",
+        "recommend_score": 2.1465
+      },
+      {
+        "song_id": "3319758074",
+        "name": "南音 (Soulboy 20th Anniversary Edition)",
+        "artist": "HOPICO",
+        "recommend_score": 2.105
+      },
+      {
+        "song_id": "2743640694",
+        "name": "nobody (make me feel)",
+        "artist": "oskar med k",
+        "recommend_score": 2.0816
+      },
+      {
+        "song_id": "2755067917",
+        "name": "MONTAGEM XONADA 2",
+        "artist": "Lunak",
+        "recommend_score": 2.0645
+      },
+      {
+        "song_id": "2733800375",
+        "name": "MEMORIZING",
+        "artist": "DJ DELACROIX",
+        "recommend_score": 2.0645
+      }
+    ]
+  },
+  {
+    "user_id": "user_068",
+    "recommendations": [
+      {
+        "song_id": "2749440964",
+        "name": "五百",
+        "artist": "宝石Gem",
+        "recommend_score": 3.0488
+      },
+      {
+        "song_id": "26244421",
+        "name": "On the Nature of Daylight",
+        "artist": "Max Richter",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "456094670",
+        "name": "Three Worlds: Music From Woolf Works / Mrs Dalloway:Meeting Again",
+        "artist": "Max Richter",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1331822743",
+        "name": "Whispers",
+        "artist": "Max Richter",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2750248383",
+        "name": "Open Eyes(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 2.9997
+      },
+      {
+        "song_id": "2749524734",
+        "name": "紧身衣",
+        "artist": "SASIOVERLXRD",
+        "recommend_score": 2.9996
+      },
+      {
+        "song_id": "2725287357",
+        "name": "MANGATA(绝对压制)",
+        "artist": "GTR7",
+        "recommend_score": 2.9995
+      },
+      {
+        "song_id": "2742200185",
+        "name": "AMICAMA(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 2.9995
+      },
+      {
+        "song_id": "2723078898",
+        "name": "MANGATA",
+        "artist": "GTR7",
+        "recommend_score": 2.9994
+      },
+      {
+        "song_id": "1331826172",
+        "name": "She Was Running",
+        "artist": "Max Richter",
+        "recommend_score": 2.9993
+      }
+    ]
+  },
+  {
+    "user_id": "user_069",
+    "recommendations": [
+      {
+        "song_id": "2751940573",
+        "name": "Let's Go!! Rider Kick (TeddyLoid Edit)",
+        "artist": "TeddyLoid",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2751938831",
+        "name": "Spider Beat",
+        "artist": "TeddyLoid",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2757943684",
+        "name": "It's My Justice",
+        "artist": "TeddyLoid",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2751940572",
+        "name": "I am Tackle!",
+        "artist": "TeddyLoid",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2751938830",
+        "name": "Legion of Hell",
+        "artist": "TeddyLoid",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 2.8
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.795
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.7919
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2748947666",
+        "name": "Remnants (Hikaru and Yoshiki)",
+        "artist": "梅田修一朗",
+        "recommend_score": 2.2422
+      }
+    ]
+  },
+  {
+    "user_id": "user_070",
+    "recommendations": [
+      {
+        "song_id": "3319817890",
+        "name": "身无居所",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319814367",
+        "name": "晴天四季",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319813281",
+        "name": "四月物语",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3312623966",
+        "name": "赢家圈子",
+        "artist": "APMOZART",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3312623232",
+        "name": "Like ovo",
+        "artist": "APMOZART",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319813693",
+        "name": "健康",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "3319814438",
+        "name": "楚门的世界",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2108845007",
+        "name": "讴歌",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9997
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.8
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4928
+      }
+    ]
+  },
+  {
+    "user_id": "user_071",
+    "recommendations": [
+      {
+        "song_id": "2751940571",
+        "name": "RIDER, RIDER",
+        "artist": "TeddyLoid",
+        "recommend_score": 3.0727
+      },
+      {
+        "song_id": "3312019243",
+        "name": "Little Bouquet (Instrumental)",
+        "artist": "Aimer",
+        "recommend_score": 3.0321
+      },
+      {
+        "song_id": "3312019244",
+        "name": "Pastoral (TV Size)",
+        "artist": "Aimer",
+        "recommend_score": 3.0162
+      },
+      {
+        "song_id": "2727103300",
+        "name": "太陽が昇らない世界 - A World Where the Sun Never Rises",
+        "artist": "Aimer",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2745026895",
+        "name": "IRIS OUT",
+        "artist": "米津玄師",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "27708290",
+        "name": "Waltz No.10 in B Minor, Op.69 No.2",
+        "artist": "Claudio Arrau",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "3312018325",
+        "name": "Little Bouquet",
+        "artist": "Aimer",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2748705216",
+        "name": "Pastoral",
+        "artist": "Aimer",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2751940573",
+        "name": "Let's Go!! Rider Kick (TeddyLoid Edit)",
+        "artist": "TeddyLoid",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2751938831",
+        "name": "Spider Beat",
+        "artist": "TeddyLoid",
+        "recommend_score": 2.9999
+      }
+    ]
+  },
+  {
+    "user_id": "user_072",
+    "recommendations": [
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7999
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7962
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 2.3917
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2739
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2505
+      },
+      {
+        "song_id": "3312734747",
+        "name": "Pretty",
+        "artist": "王鹤棣",
+        "recommend_score": 2.1796
+      },
+      {
+        "song_id": "2741690159",
+        "name": "Montagem Nada phonk",
+        "artist": "F2FZ",
+        "recommend_score": 2.1632
+      },
+      {
+        "song_id": "2747401481",
+        "name": "炸弹爱",
+        "artist": "africakid",
+        "recommend_score": 2.1469
+      },
+      {
+        "song_id": "2746522670",
+        "name": "VAI TOMA TOMA (MENTE MA)",
+        "artist": "7YE",
+        "recommend_score": 2.1468
+      }
+    ]
+  },
+  {
+    "user_id": "user_073",
+    "recommendations": [
+      {
+        "song_id": "2727830332",
+        "name": "Sugar On My Tongue",
+        "artist": "Tyler, The Creator",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 0.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 0.3918
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 0.2747
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 0.2505
+      }
+    ]
+  },
+  {
+    "user_id": "user_074",
+    "recommendations": [
+      {
+        "song_id": "39869702",
+        "name": "Sonata for 2 pianos in D, K.448:2. Andante",
+        "artist": "Ingrid Haebler",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7997
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 2.3918
+      },
+      {
+        "song_id": "3312734747",
+        "name": "Pretty",
+        "artist": "王鹤棣",
+        "recommend_score": 2.1795
+      },
+      {
+        "song_id": "2747401481",
+        "name": "炸弹爱",
+        "artist": "africakid",
+        "recommend_score": 2.1468
+      },
+      {
+        "song_id": "3315209589",
+        "name": "街头流行",
+        "artist": "艾洛樱Aluvin",
+        "recommend_score": 2.0979
+      },
+      {
+        "song_id": "2756382547",
+        "name": "局子街",
+        "artist": "零赫兹0HZ",
+        "recommend_score": 2.0816
+      },
+      {
+        "song_id": "2754510819",
+        "name": "那就赚",
+        "artist": "EvilJoker",
+        "recommend_score": 2.0653
+      },
+      {
+        "song_id": "2749440964",
+        "name": "五百",
+        "artist": "宝石Gem",
+        "recommend_score": 2.0489
+      },
+      {
+        "song_id": "2754175477",
+        "name": "在雨后醒来",
+        "artist": "艾志恒Asen",
+        "recommend_score": 2.0326
+      }
+    ]
+  },
+  {
+    "user_id": "user_075",
+    "recommendations": [
+      {
+        "song_id": "2738715961",
+        "name": "喝彩",
+        "artist": "回春丹",
+        "recommend_score": 3.1778
+      },
+      {
+        "song_id": "3319817890",
+        "name": "身无居所",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319814367",
+        "name": "晴天四季",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319813693",
+        "name": "健康",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319814570",
+        "name": "东亚焦虑",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319814438",
+        "name": "楚门的世界",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1442253641",
+        "name": "莫扎特: 土耳其进行曲",
+        "artist": "Noble Music Project",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1394617453",
+        "name": "肖邦: 夜曲",
+        "artist": "Noble Music Project",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "1442253642",
+        "name": "贝多芬: 《月光奏鸣曲》第一乐章, 作品27-2",
+        "artist": "Noble Music Project",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "1394618519",
+        "name": "圣桑: 天鹅",
+        "artist": "Noble Music Project",
+        "recommend_score": 2.9999
+      }
+    ]
+  },
+  {
+    "user_id": "user_076",
+    "recommendations": [
+      {
+        "song_id": "3312019243",
+        "name": "Little Bouquet (Instrumental)",
+        "artist": "Aimer",
+        "recommend_score": 3.0322
+      },
+      {
+        "song_id": "3312019244",
+        "name": "Pastoral (TV Size)",
+        "artist": "Aimer",
+        "recommend_score": 3.0161
+      },
+      {
+        "song_id": "2743214030",
+        "name": "美梦必须成真",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0161
+      },
+      {
+        "song_id": "3312018325",
+        "name": "Little Bouquet",
+        "artist": "Aimer",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2748705216",
+        "name": "Pastoral",
+        "artist": "Aimer",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2736706230",
+        "name": "BATTLEPLAN ARCLIGHT",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2751351950",
+        "name": "反常光谱",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2755406555",
+        "name": "Paper Boat",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2723357459",
+        "name": "惊蛰时",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2751351951",
+        "name": "无序频谱",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      }
+    ]
+  },
+  {
+    "user_id": "user_077",
+    "recommendations": [
+      {
+        "song_id": "2712336626",
+        "name": "Grow on My Time",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0242
+      },
+      {
+        "song_id": "3320047162",
+        "name": "Secret Escape",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060910",
+        "name": "Nocturne No. 1 in B Flat Minor, Op. 9, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "26244421",
+        "name": "On the Nature of Daylight",
+        "artist": "Max Richter",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060948",
+        "name": "Nocturne No. 13 in C Minor, Op. 48, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060955",
+        "name": "Nocturne No. 15 in F Minor, Op. 55, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060937",
+        "name": "Nocturne No. 10 in A Flat Major, Op. 32, No. 2",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "456094670",
+        "name": "Three Worlds: Music From Woolf Works / Mrs Dalloway:Meeting Again",
+        "artist": "Max Richter",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2751379003",
+        "name": "Sealed",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2755406555",
+        "name": "Paper Boat",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0
+      }
+    ]
+  },
+  {
+    "user_id": "user_078",
+    "recommendations": [
+      {
+        "song_id": "2722447989",
+        "name": "致以无名的抗争者",
+        "artist": "鸣潮先约电台",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7956
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4928
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2736
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2505
+      },
+      {
+        "song_id": "2741690159",
+        "name": "Montagem Nada phonk",
+        "artist": "F2FZ",
+        "recommend_score": 2.1631
+      },
+      {
+        "song_id": "2746522670",
+        "name": "VAI TOMA TOMA (MENTE MA)",
+        "artist": "7YE",
+        "recommend_score": 2.1467
+      },
+      {
+        "song_id": "2749389579",
+        "name": "Stare In Wonder",
+        "artist": "BE:FIRST",
+        "recommend_score": 2.1131
+      }
+    ]
+  },
+  {
+    "user_id": "user_079",
+    "recommendations": [
+      {
+        "song_id": "2757535738",
+        "name": "男子汉",
+        "artist": "王齐铭WatchMe",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2757535735",
+        "name": "五小区",
+        "artist": "王齐铭WatchMe",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2757538156",
+        "name": "老生常谈Freestyle",
+        "artist": "王齐铭WatchMe",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2757535734",
+        "name": "生活麻辣烫",
+        "artist": "王齐铭WatchMe",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2751267244",
+        "name": "不得了Freestyle",
+        "artist": "王齐铭WatchMe",
+        "recommend_score": 2.9996
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 2.8
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7998
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4929
+      }
+    ]
+  },
+  {
+    "user_id": "user_080",
+    "recommendations": [
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2748947666",
+        "name": "Remnants (Hikaru and Yoshiki)",
+        "artist": "梅田修一朗",
+        "recommend_score": 2.2422
+      },
+      {
+        "song_id": "2745371115",
+        "name": "To My Savior",
+        "artist": "Zhevincia",
+        "recommend_score": 2.105
+      },
+      {
+        "song_id": "2751940571",
+        "name": "RIDER, RIDER",
+        "artist": "TeddyLoid",
+        "recommend_score": 2.0727
+      },
+      {
+        "song_id": "2751352316",
+        "name": "星の鼓動",
+        "artist": "こはならむ",
+        "recommend_score": 2.0727
+      },
+      {
+        "song_id": "3312019243",
+        "name": "Little Bouquet (Instrumental)",
+        "artist": "Aimer",
+        "recommend_score": 2.0322
+      },
+      {
+        "song_id": "2712336626",
+        "name": "Grow on My Time",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 2.0242
+      },
+      {
+        "song_id": "3312019244",
+        "name": "Pastoral (TV Size)",
+        "artist": "Aimer",
+        "recommend_score": 2.0161
+      },
+      {
+        "song_id": "2743214030",
+        "name": "美梦必须成真",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 2.0161
+      }
+    ]
+  },
+  {
+    "user_id": "user_081",
+    "recommendations": [
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 3.8
+      },
+      {
+        "song_id": "2738715961",
+        "name": "喝彩",
+        "artist": "回春丹",
+        "recommend_score": 3.1778
+      },
+      {
+        "song_id": "2663190280",
+        "name": "维瓦尔第《四季》 “冬” 第一乐章 - I. Allegro non molto",
+        "artist": "天之籁音乐",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2749524734",
+        "name": "紧身衣",
+        "artist": "SASIOVERLXRD",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2749525429",
+        "name": "天生痛苦",
+        "artist": "SASIOVERLXRD",
+        "recommend_score": 2.9992
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7998
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4928
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 2.3918
+      },
+      {
+        "song_id": "2748947666",
+        "name": "Remnants (Hikaru and Yoshiki)",
+        "artist": "梅田修一朗",
+        "recommend_score": 2.2423
+      }
+    ]
+  },
+  {
+    "user_id": "user_082",
+    "recommendations": [
+      {
+        "song_id": "2722510685",
+        "name": "耀斑",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2709812973",
+        "name": "拂晓 Proi Proi",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756018761",
+        "name": "晚祷的铃歌 Dzwony na nieszpory",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756019205",
+        "name": "飘曳的眠梦 The Swinging Motion of the Hulls",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756018768",
+        "name": "游步欣愉 Gladsome Ramble",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1295212153",
+        "name": "C小調夜曲〈遺作〉nocturne No.21 In C Minor Op. Posth B. 108",
+        "artist": "Zelimir Panic",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "1049199",
+        "name": "Overture (William Tell)",
+        "artist": "André Rieu",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2756034903",
+        "name": "永夜与破晓的誓刃 To Light the Aeon Dark",
+        "artist": "HOYO-MiX",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "1049224",
+        "name": "España Cani",
+        "artist": "André Rieu",
+        "recommend_score": 2.9996
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7965
+      }
+    ]
+  },
+  {
+    "user_id": "user_083",
+    "recommendations": [
+      {
+        "song_id": "3320401411",
+        "name": "装货 (Live)",
+        "artist": "欧阳娜娜",
+        "recommend_score": 3.0645
+      },
+      {
+        "song_id": "1394617453",
+        "name": "肖邦: 夜曲",
+        "artist": "Noble Music Project",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1442253642",
+        "name": "贝多芬: 《月光奏鸣曲》第一乐章, 作品27-2",
+        "artist": "Noble Music Project",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1434268536",
+        "name": "莫扎特: 摇篮曲",
+        "artist": "Noble Music Project",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1394618519",
+        "name": "圣桑: 天鹅",
+        "artist": "Noble Music Project",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4928
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2737
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2505
+      }
+    ]
+  },
+  {
+    "user_id": "user_084",
+    "recommendations": [
+      {
+        "song_id": "2123686",
+        "name": "The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\":I. Allegro",
+        "artist": "Anne-Sophie Mutter",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2123708",
+        "name": "The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 \"Summer\":III. Presto",
+        "artist": "Anne-Sophie Mutter",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4928
+      },
+      {
+        "song_id": "2748947666",
+        "name": "Remnants (Hikaru and Yoshiki)",
+        "artist": "梅田修一朗",
+        "recommend_score": 2.2423
+      },
+      {
+        "song_id": "2749389579",
+        "name": "Stare In Wonder",
+        "artist": "BE:FIRST",
+        "recommend_score": 2.113
+      },
+      {
+        "song_id": "2745371115",
+        "name": "To My Savior",
+        "artist": "Zhevincia",
+        "recommend_score": 2.105
+      },
+      {
+        "song_id": "2751940571",
+        "name": "RIDER, RIDER",
+        "artist": "TeddyLoid",
+        "recommend_score": 2.0727
+      },
+      {
+        "song_id": "2751352316",
+        "name": "星の鼓動",
+        "artist": "こはならむ",
+        "recommend_score": 2.0726
+      },
+      {
+        "song_id": "3312019243",
+        "name": "Little Bouquet (Instrumental)",
+        "artist": "Aimer",
+        "recommend_score": 2.0322
+      }
+    ]
+  },
+  {
+    "user_id": "user_085",
+    "recommendations": [
+      {
+        "song_id": "2751940571",
+        "name": "RIDER, RIDER",
+        "artist": "TeddyLoid",
+        "recommend_score": 3.0726
+      },
+      {
+        "song_id": "2712336626",
+        "name": "Grow on My Time",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0242
+      },
+      {
+        "song_id": "2743214030",
+        "name": "美梦必须成真",
+        "artist": "塞壬唱片-MSR",
+        "recommend_score": 3.0162
+      },
+      {
+        "song_id": "3319722018",
+        "name": "废话文学",
+        "artist": "郑润泽",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1926623288",
+        "name": "小胡同",
+        "artist": "郑润泽",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2025186889",
+        "name": "绽放",
+        "artist": "郑润泽",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1394617453",
+        "name": "肖邦: 夜曲",
+        "artist": "Noble Music Project",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1442253641",
+        "name": "莫扎特: 土耳其进行曲",
+        "artist": "Noble Music Project",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2722510685",
+        "name": "耀斑",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2709812973",
+        "name": "拂晓 Proi Proi",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      }
+    ]
+  },
+  {
+    "user_id": "user_086",
+    "recommendations": [
+      {
+        "song_id": "2754175477",
+        "name": "在雨后醒来",
+        "artist": "艾志恒Asen",
+        "recommend_score": 3.0326
+      },
+      {
+        "song_id": "2754174752",
+        "name": "你给的恨",
+        "artist": "艾志恒Asen",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2754174747",
+        "name": "嘻哈脑壳",
+        "artist": "艾志恒Asen",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2739356640",
+        "name": "我曾在...",
+        "artist": "无期迷途",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2755030698",
+        "name": "懂不？",
+        "artist": "艾志恒Asen",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2754175476",
+        "name": "Dear Mama",
+        "artist": "艾志恒Asen",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7999
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7963
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4927
+      }
+    ]
+  },
+  {
+    "user_id": "user_087",
+    "recommendations": [
+      {
+        "song_id": "3312019243",
+        "name": "Little Bouquet (Instrumental)",
+        "artist": "Aimer",
+        "recommend_score": 3.0323
+      },
+      {
+        "song_id": "3312019244",
+        "name": "Pastoral (TV Size)",
+        "artist": "Aimer",
+        "recommend_score": 3.016
+      },
+      {
+        "song_id": "2745413584",
+        "name": "给我",
+        "artist": "犬儒乐队",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2745413582",
+        "name": "白鸟",
+        "artist": "犬儒乐队",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319813693",
+        "name": "健康",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319814570",
+        "name": "东亚焦虑",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2755971761",
+        "name": "Little Bouquet",
+        "artist": "Aimer",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1910899366",
+        "name": "莫扎特 土耳其进行曲",
+        "artist": "Wendy Anderson",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3312018325",
+        "name": "Little Bouquet",
+        "artist": "Aimer",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319813281",
+        "name": "四月物语",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9999
+      }
+    ]
+  },
+  {
+    "user_id": "user_088",
+    "recommendations": [
+      {
+        "song_id": "2727830332",
+        "name": "Sugar On My Tongue",
+        "artist": "Tyler, The Creator",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 0.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 0.3918
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 0.2747
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 0.2505
+      }
+    ]
+  },
+  {
+    "user_id": "user_089",
+    "recommendations": [
+      {
+        "song_id": "3319348213",
+        "name": "弗雷德里克的协奏曲",
+        "artist": "第五人格",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2743175270",
+        "name": "《Call the Shot》",
+        "artist": "第五人格",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7999
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4928
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 2.3918
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2737
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2505
+      },
+      {
+        "song_id": "2748947666",
+        "name": "Remnants (Hikaru and Yoshiki)",
+        "artist": "梅田修一朗",
+        "recommend_score": 2.2423
+      }
+    ]
+  },
+  {
+    "user_id": "user_090",
+    "recommendations": [
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 3.4929
+      },
+      {
+        "song_id": "3319722018",
+        "name": "废话文学",
+        "artist": "郑润泽",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1842728629",
+        "name": "如果呢",
+        "artist": "郑润泽",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2025186889",
+        "name": "绽放",
+        "artist": "郑润泽",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2018733994",
+        "name": "遐想",
+        "artist": "郑润泽",
+        "recommend_score": 2.9997
+      },
+      {
+        "song_id": "1345571065",
+        "name": "遇见",
+        "artist": "郑润泽",
+        "recommend_score": 2.9994
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7958
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4928
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2737
+      }
+    ]
+  },
+  {
+    "user_id": "user_091",
+    "recommendations": [
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 3.8
+      },
+      {
+        "song_id": "2753714636",
+        "name": "登录",
+        "artist": "马思唯",
+        "recommend_score": 3.0324
+      },
+      {
+        "song_id": "2750248383",
+        "name": "Open Eyes(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2753714638",
+        "name": "钻石车子票子",
+        "artist": "马思唯",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2753713693",
+        "name": "T0",
+        "artist": "马思唯",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2738549556",
+        "name": "Vai Toma(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2725287357",
+        "name": "MANGATA(绝对压制)",
+        "artist": "GTR7",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2742200185",
+        "name": "AMICAMA(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2738715965",
+        "name": "鲜花",
+        "artist": "回春丹",
+        "recommend_score": 2.9998
+      },
+      {
+        "song_id": "2729766169",
+        "name": "PRESSURE(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 2.9997
+      }
+    ]
+  },
+  {
+    "user_id": "user_092",
+    "recommendations": [
+      {
+        "song_id": "1060914",
+        "name": "Nocturne No. 2 in E Flat Major, Op. 9, No. 2",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060910",
+        "name": "Nocturne No. 1 in B Flat Minor, Op. 9, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060967",
+        "name": "Nocturne No. 19 in E Minor, Op. 72, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1983571247",
+        "name": "小步舞曲（巴赫）",
+        "artist": "nengcd",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "1060948",
+        "name": "Nocturne No. 13 in C Minor, Op. 48, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "1060955",
+        "name": "Nocturne No. 15 in F Minor, Op. 55, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2734
+      }
+    ]
+  },
+  {
+    "user_id": "user_093",
+    "recommendations": [
+      {
+        "song_id": "3312019244",
+        "name": "Pastoral (TV Size)",
+        "artist": "Aimer",
+        "recommend_score": 3.0161
+      },
+      {
+        "song_id": "2727103300",
+        "name": "太陽が昇らない世界 - A World Where the Sun Never Rises",
+        "artist": "Aimer",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2748705216",
+        "name": "Pastoral",
+        "artist": "Aimer",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2755971761",
+        "name": "Little Bouquet",
+        "artist": "Aimer",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "3312018325",
+        "name": "Little Bouquet",
+        "artist": "Aimer",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7957
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4928
+      },
+      {
+        "song_id": "2748947666",
+        "name": "Remnants (Hikaru and Yoshiki)",
+        "artist": "梅田修一朗",
+        "recommend_score": 2.2423
+      },
+      {
+        "song_id": "2741690159",
+        "name": "Montagem Nada phonk",
+        "artist": "F2FZ",
+        "recommend_score": 2.1631
+      }
+    ]
+  },
+  {
+    "user_id": "user_094",
+    "recommendations": [
+      {
+        "song_id": "2727830332",
+        "name": "Sugar On My Tongue",
+        "artist": "Tyler, The Creator",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2738715964",
+        "name": "染春",
+        "artist": "回春丹",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 0.8
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 0.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 0.4929
+      },
+      {
+        "song_id": "2756052140",
+        "name": "明天天明",
+        "artist": "海洋Bo",
+        "recommend_score": 0.3918
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 0.2747
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 0.2505
+      }
+    ]
+  },
+  {
+    "user_id": "user_095",
+    "recommendations": [
+      {
+        "song_id": "2753714636",
+        "name": "登录",
+        "artist": "马思唯",
+        "recommend_score": 3.0325
+      },
+      {
+        "song_id": "2723078898",
+        "name": "MANGATA",
+        "artist": "GTR7",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2750248383",
+        "name": "Open Eyes(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2738549556",
+        "name": "Vai Toma(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2725287357",
+        "name": "MANGATA(绝对压制)",
+        "artist": "GTR7",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2742200185",
+        "name": "AMICAMA(PHONK)",
+        "artist": "GTR7",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2716424334",
+        "name": "T氏の話を信じるな (feat. 初音ミク & 重音テト)",
+        "artist": "ピノキオピー",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1394618519",
+        "name": "圣桑: 天鹅",
+        "artist": "Noble Music Project",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1442253641",
+        "name": "莫扎特: 土耳其进行曲",
+        "artist": "Noble Music Project",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2757535734",
+        "name": "生活麻辣烫",
+        "artist": "王齐铭WatchMe",
+        "recommend_score": 3.0
+      }
+    ]
+  },
+  {
+    "user_id": "user_096",
+    "recommendations": [
+      {
+        "song_id": "2709812973",
+        "name": "拂晓 Proi Proi",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756034903",
+        "name": "永夜与破晓的誓刃 To Light the Aeon Dark",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2756018768",
+        "name": "游步欣愉 Gladsome Ramble",
+        "artist": "HOYO-MiX",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2739356640",
+        "name": "我曾在...",
+        "artist": "无期迷途",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2722510685",
+        "name": "耀斑",
+        "artist": "HOYO-MiX",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2756019205",
+        "name": "飘曳的眠梦 The Swinging Motion of the Hulls",
+        "artist": "HOYO-MiX",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2756018761",
+        "name": "晚祷的铃歌 Dzwony na nieszpory",
+        "artist": "HOYO-MiX",
+        "recommend_score": 2.9997
+      },
+      {
+        "song_id": "2719101070",
+        "name": "MONTAGEM XONADA",
+        "artist": "MXZI",
+        "recommend_score": 2.7949
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.7919
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4929
+      }
+    ]
+  },
+  {
+    "user_id": "user_097",
+    "recommendations": [
+      {
+        "song_id": "2746522670",
+        "name": "VAI TOMA TOMA (MENTE MA)",
+        "artist": "7YE",
+        "recommend_score": 3.1466
+      },
+      {
+        "song_id": "2751940571",
+        "name": "RIDER, RIDER",
+        "artist": "TeddyLoid",
+        "recommend_score": 3.0727
+      },
+      {
+        "song_id": "2753714636",
+        "name": "登录",
+        "artist": "马思唯",
+        "recommend_score": 3.0321
+      },
+      {
+        "song_id": "2751940573",
+        "name": "Let's Go!! Rider Kick (TeddyLoid Edit)",
+        "artist": "TeddyLoid",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2751938831",
+        "name": "Spider Beat",
+        "artist": "TeddyLoid",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2751940572",
+        "name": "I am Tackle!",
+        "artist": "TeddyLoid",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2753714634",
+        "name": "Hotel Lobby",
+        "artist": "马思唯",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2757943684",
+        "name": "It's My Justice",
+        "artist": "TeddyLoid",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2757535734",
+        "name": "生活麻辣烫",
+        "artist": "王齐铭WatchMe",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2757535735",
+        "name": "五小区",
+        "artist": "王齐铭WatchMe",
+        "recommend_score": 2.9999
+      }
+    ]
+  },
+  {
+    "user_id": "user_098",
+    "recommendations": [
+      {
+        "song_id": "3319817890",
+        "name": "身无居所",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319813693",
+        "name": "健康",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319814570",
+        "name": "东亚焦虑",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319814438",
+        "name": "楚门的世界",
+        "artist": "Vansdaddy",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "3319814367",
+        "name": "晴天四季",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2108845007",
+        "name": "讴歌",
+        "artist": "Vansdaddy",
+        "recommend_score": 2.9994
+      },
+      {
+        "song_id": "2759426653",
+        "name": "跟悲伤结了帐",
+        "artist": "Gareth.T",
+        "recommend_score": 2.7999
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4928
+      }
+    ]
+  },
+  {
+    "user_id": "user_099",
+    "recommendations": [
+      {
+        "song_id": "1060914",
+        "name": "Nocturne No. 2 in E Flat Major, Op. 9, No. 2",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "1060910",
+        "name": "Nocturne No. 1 in B Flat Minor, Op. 9, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2757535735",
+        "name": "五小区",
+        "artist": "王齐铭WatchMe",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2757535738",
+        "name": "男子汉",
+        "artist": "王齐铭WatchMe",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "254485",
+        "name": "勇气",
+        "artist": "梁静茹",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "1060948",
+        "name": "Nocturne No. 13 in C Minor, Op. 48, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "1060967",
+        "name": "Nocturne No. 19 in E Minor, Op. 72, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "1060955",
+        "name": "Nocturne No. 15 in F Minor, Op. 55, No. 1",
+        "artist": "Arthur Rubinstein",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "1049118",
+        "name": "Skaters' Waltz",
+        "artist": "André Rieu",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2757535734",
+        "name": "生活麻辣烫",
+        "artist": "王齐铭WatchMe",
+        "recommend_score": 2.9999
+      }
+    ]
+  },
+  {
+    "user_id": "user_100",
+    "recommendations": [
+      {
+        "song_id": "2123686",
+        "name": "The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\":I. Allegro",
+        "artist": "Anne-Sophie Mutter",
+        "recommend_score": 3.0
+      },
+      {
+        "song_id": "2123708",
+        "name": "The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 \"Summer\":III. Presto",
+        "artist": "Anne-Sophie Mutter",
+        "recommend_score": 2.9999
+      },
+      {
+        "song_id": "2755332551",
+        "name": "DAMIDAMI",
+        "artist": "Sihan",
+        "recommend_score": 2.792
+      },
+      {
+        "song_id": "3320331526",
+        "name": "一直很安静 (live)",
+        "artist": "颜人中",
+        "recommend_score": 2.4929
+      },
+      {
+        "song_id": "2727103261",
+        "name": "残酷な夜に輝け - Shine in the Cruel Night",
+        "artist": "LiSA",
+        "recommend_score": 2.4928
+      },
+      {
+        "song_id": "2696398311",
+        "name": "蝶恋pt.2",
+        "artist": "梶",
+        "recommend_score": 2.2736
+      },
+      {
+        "song_id": "3320331503",
+        "name": "像晴天像雨天 (live)",
+        "artist": "汪苏泷",
+        "recommend_score": 2.2505
+      },
+      {
+        "song_id": "2748947666",
+        "name": "Remnants (Hikaru and Yoshiki)",
+        "artist": "梅田修一朗",
+        "recommend_score": 2.2423
+      },
+      {
+        "song_id": "2749389579",
+        "name": "Stare In Wonder",
+        "artist": "BE:FIRST",
+        "recommend_score": 2.1131
+      },
+      {
+        "song_id": "3319758074",
+        "name": "南音 (Soulboy 20th Anniversary Edition)",
+        "artist": "HOPICO",
+        "recommend_score": 2.105
+      }
+    ]
+  }
+]

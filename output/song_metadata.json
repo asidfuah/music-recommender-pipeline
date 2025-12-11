@@ -1,0 +1,3809 @@
+{
+  "2727830332": {
+    "N": 10,
+    "artist": "Tyler, The Creator",
+    "type": "欧美说唱",
+    "duration": 153,
+    "comment_count": 5021,
+    "current_rank": 1,
+    "last_rank": 0
+  },
+  "2758208876": {
+    "N": 10,
+    "artist": "PlaqueBoyMax",
+    "type": "欧美说唱",
+    "duration": 153,
+    "comment_count": 871,
+    "current_rank": 2,
+    "last_rank": 1
+  },
+  "2725907767": {
+    "N": 10,
+    "artist": "VALORANT",
+    "type": "欧美说唱",
+    "duration": 172,
+    "comment_count": 6414,
+    "current_rank": 3,
+    "last_rank": 2
+  },
+  "2722724910": {
+    "N": 10,
+    "artist": "Drake",
+    "type": "欧美说唱",
+    "duration": 194,
+    "comment_count": 3514,
+    "current_rank": 4,
+    "last_rank": 6
+  },
+  "2756262377": {
+    "N": 10,
+    "artist": "Ty Dolla $ign",
+    "type": "欧美说唱",
+    "duration": 132,
+    "comment_count": 345,
+    "current_rank": 5,
+    "last_rank": 3
+  },
+  "3316862906": {
+    "N": 10,
+    "artist": "JURIN ASAYA",
+    "type": "欧美说唱",
+    "duration": 160,
+    "comment_count": 473,
+    "current_rank": 6,
+    "last_rank": "等于当前排名"
+  },
+  "3317578926": {
+    "N": 10,
+    "artist": "Cardi B",
+    "type": "欧美说唱",
+    "duration": 200,
+    "comment_count": 129,
+    "current_rank": 7,
+    "last_rank": 5
+  },
+  "2754092574": {
+    "N": 10,
+    "artist": "Rakhim",
+    "type": "欧美说唱",
+    "duration": 90,
+    "comment_count": 178,
+    "current_rank": 8,
+    "last_rank": "等于当前排名"
+  },
+  "2752200364": {
+    "N": 10,
+    "artist": "P-Lo",
+    "type": "欧美说唱",
+    "duration": 186,
+    "comment_count": 210,
+    "current_rank": 9,
+    "last_rank": "等于当前排名"
+  },
+  "2714379956": {
+    "N": 10,
+    "artist": "Ray Saetta",
+    "type": "欧美说唱",
+    "duration": 181,
+    "comment_count": 1238,
+    "current_rank": 10,
+    "last_rank": 10
+  },
+  "2719101070": {
+    "N": 50,
+    "artist": "MXZI",
+    "type": "电子音乐",
+    "duration": 75,
+    "comment_count": 17582,
+    "current_rank": 1,
+    "last_rank": 0
+  },
+  "2744112026": {
+    "N": 50,
+    "artist": "羊音乐",
+    "type": "电子音乐",
+    "duration": 120,
+    "comment_count": 17539,
+    "current_rank": 2,
+    "last_rank": 1
+  },
+  "2724791369": {
+    "N": 50,
+    "artist": "Lunak",
+    "type": "电子音乐",
+    "duration": 121,
+    "comment_count": 5503,
+    "current_rank": 3,
+    "last_rank": 3
+  },
+  "3312929673": {
+    "N": 50,
+    "artist": "阿吉野马",
+    "type": "电子音乐",
+    "duration": 112,
+    "comment_count": 344,
+    "current_rank": 4,
+    "last_rank": "等于当前排名"
+  },
+  "2745480944": {
+    "N": 50,
+    "artist": "Paper.MAN",
+    "type": "电子音乐",
+    "duration": 166,
+    "comment_count": 5626,
+    "current_rank": 5,
+    "last_rank": 5
+  },
+  "2734939313": {
+    "N": 50,
+    "artist": "MerrinZephyr",
+    "type": "电子音乐",
+    "duration": 135,
+    "comment_count": 2905,
+    "current_rank": 6,
+    "last_rank": 4
+  },
+  "2736452286": {
+    "N": 50,
+    "artist": "7YE",
+    "type": "电子音乐",
+    "duration": 99,
+    "comment_count": 3969,
+    "current_rank": 7,
+    "last_rank": 6
+  },
+  "2755842690": {
+    "N": 50,
+    "artist": "Sister Gertha Lemone",
+    "type": "电子音乐",
+    "duration": 280,
+    "comment_count": 1137,
+    "current_rank": 8,
+    "last_rank": 2
+  },
+  "2743640694": {
+    "N": 50,
+    "artist": "oskar med k",
+    "type": "电子音乐",
+    "duration": 165,
+    "comment_count": 492,
+    "current_rank": 9,
+    "last_rank": 14
+  },
+  "2729766169": {
+    "N": 50,
+    "artist": "GTR7",
+    "type": "电子音乐",
+    "duration": 134,
+    "comment_count": 5659,
+    "current_rank": 10,
+    "last_rank": 7
+  },
+  "2743764746": {
+    "N": 50,
+    "artist": "KKK",
+    "type": "电子音乐",
+    "duration": 127,
+    "comment_count": 1956,
+    "current_rank": 11,
+    "last_rank": 10
+  },
+  "2747584736": {
+    "N": 50,
+    "artist": "Smoke",
+    "type": "电子音乐",
+    "duration": 138,
+    "comment_count": 960,
+    "current_rank": 12,
+    "last_rank": 11
+  },
+  "2738517998": {
+    "N": 50,
+    "artist": "MM77",
+    "type": "电子音乐",
+    "duration": 120,
+    "comment_count": 233,
+    "current_rank": 13,
+    "last_rank": "等于当前排名"
+  },
+  "2746522670": {
+    "N": 50,
+    "artist": "7YE",
+    "type": "电子音乐",
+    "duration": 120,
+    "comment_count": 1040,
+    "current_rank": 14,
+    "last_rank": 23
+  },
+  "2746861703": {
+    "N": 50,
+    "artist": "KKK",
+    "type": "电子音乐",
+    "duration": 162,
+    "comment_count": 1227,
+    "current_rank": 15,
+    "last_rank": 9
+  },
+  "2721110890": {
+    "N": 50,
+    "artist": "VZEUS",
+    "type": "电子音乐",
+    "duration": 124,
+    "comment_count": 9439,
+    "current_rank": 16,
+    "last_rank": 12
+  },
+  "2755067917": {
+    "N": 50,
+    "artist": "Lunak",
+    "type": "电子音乐",
+    "duration": 91,
+    "comment_count": 516,
+    "current_rank": 17,
+    "last_rank": 21
+  },
+  "2709626091": {
+    "N": 50,
+    "artist": "Jmilton",
+    "type": "电子音乐",
+    "duration": 83,
+    "comment_count": 13453,
+    "current_rank": 18,
+    "last_rank": 13
+  },
+  "2712194305": {
+    "N": 50,
+    "artist": "Disco Lines",
+    "type": "电子音乐",
+    "duration": 163,
+    "comment_count": 1474,
+    "current_rank": 19,
+    "last_rank": 16
+  },
+  "2747886054": {
+    "N": 100,
+    "artist": "Lunak",
+    "type": "欧美",
+    "duration": 90,
+    "comment_count": 718,
+    "current_rank": 96,
+    "last_rank": "等于当前排名"
+  },
+  "2729810172": {
+    "N": 50,
+    "artist": "Little Mu, Music Producer",
+    "type": "电子音乐",
+    "duration": 122,
+    "comment_count": 4946,
+    "current_rank": 21,
+    "last_rank": 18
+  },
+  "2714910127": {
+    "N": 50,
+    "artist": "sma$her",
+    "type": "电子音乐",
+    "duration": 61,
+    "comment_count": 2097,
+    "current_rank": 22,
+    "last_rank": 19
+  },
+  "2723078898": {
+    "N": 50,
+    "artist": "GTR7",
+    "type": "电子音乐",
+    "duration": 166,
+    "comment_count": 10840,
+    "current_rank": 23,
+    "last_rank": 20
+  },
+  "2719333628": {
+    "N": 50,
+    "artist": "bbno$",
+    "type": "电子音乐",
+    "duration": 209,
+    "comment_count": 2339,
+    "current_rank": 24,
+    "last_rank": 15
+  },
+  "2750248383": {
+    "N": 50,
+    "artist": "GTR7",
+    "type": "电子音乐",
+    "duration": 160,
+    "comment_count": 1257,
+    "current_rank": 25,
+    "last_rank": 17
+  },
+  "2722253787": {
+    "N": 50,
+    "artist": "BOY",
+    "type": "电子音乐",
+    "duration": 150,
+    "comment_count": 17626,
+    "current_rank": 26,
+    "last_rank": 24
+  },
+  "3312354474": {
+    "N": 100,
+    "artist": "DJ RAULIPUES",
+    "type": "欧美",
+    "duration": 101,
+    "comment_count": 1106,
+    "current_rank": 51,
+    "last_rank": "等于当前排名"
+  },
+  "2721053223": {
+    "N": 50,
+    "artist": "Lunak",
+    "type": "电子音乐",
+    "duration": 125,
+    "comment_count": 2902,
+    "current_rank": 28,
+    "last_rank": 25
+  },
+  "2754595859": {
+    "N": 50,
+    "artist": "sleepyyer",
+    "type": "电子音乐",
+    "duration": 146,
+    "comment_count": 378,
+    "current_rank": 29,
+    "last_rank": 30
+  },
+  "2759607259": {
+    "N": 50,
+    "artist": "Richz",
+    "type": "电子音乐",
+    "duration": 132,
+    "comment_count": 164,
+    "current_rank": 30,
+    "last_rank": "等于当前排名"
+  },
+  "2723942209": {
+    "N": 50,
+    "artist": "Khaos",
+    "type": "电子音乐",
+    "duration": 87,
+    "comment_count": 6678,
+    "current_rank": 31,
+    "last_rank": 26
+  },
+  "2733800375": {
+    "N": 50,
+    "artist": "DJ DELACROIX",
+    "type": "电子音乐",
+    "duration": 99,
+    "comment_count": 862,
+    "current_rank": 32,
+    "last_rank": 36
+  },
+  "2738549556": {
+    "N": 50,
+    "artist": "GTR7",
+    "type": "电子音乐",
+    "duration": 131,
+    "comment_count": 1130,
+    "current_rank": 33,
+    "last_rank": 27
+  },
+  "2725287357": {
+    "N": 50,
+    "artist": "GTR7",
+    "type": "电子音乐",
+    "duration": 166,
+    "comment_count": 6290,
+    "current_rank": 34,
+    "last_rank": 28
+  },
+  "2756104869": {
+    "N": 50,
+    "artist": "X Chamber",
+    "type": "电子音乐",
+    "duration": 127,
+    "comment_count": 416,
+    "current_rank": 35,
+    "last_rank": "等于当前排名"
+  },
+  "2741690159": {
+    "N": 50,
+    "artist": "F2FZ",
+    "type": "电子音乐",
+    "duration": 134,
+    "comment_count": 1725,
+    "current_rank": 36,
+    "last_rank": 46
+  },
+  "2742200185": {
+    "N": 100,
+    "artist": "GTR7",
+    "type": "欧美",
+    "duration": 124,
+    "comment_count": 721,
+    "current_rank": 99,
+    "last_rank": "等于当前排名"
+  },
+  "2739203779": {
+    "N": 50,
+    "artist": "KNSRK",
+    "type": "电子音乐",
+    "duration": 136,
+    "comment_count": 606,
+    "current_rank": 38,
+    "last_rank": 34
+  },
+  "2708783407": {
+    "N": 50,
+    "artist": "ASMODEUS",
+    "type": "电子音乐",
+    "duration": 129,
+    "comment_count": 3419,
+    "current_rank": 39,
+    "last_rank": 32
+  },
+  "2726490296": {
+    "N": 50,
+    "artist": "DT LEXNAT",
+    "type": "电子音乐",
+    "duration": 107,
+    "comment_count": 2919,
+    "current_rank": 40,
+    "last_rank": 31
+  },
+  "3316563802": {
+    "N": 50,
+    "artist": "Alan Walker",
+    "type": "电子音乐",
+    "duration": 228,
+    "comment_count": 444,
+    "current_rank": 41,
+    "last_rank": "等于当前排名"
+  },
+  "2744664065": {
+    "N": 50,
+    "artist": "Pudding_PD",
+    "type": "电子音乐",
+    "duration": 125,
+    "comment_count": 4682,
+    "current_rank": 42,
+    "last_rank": 41
+  },
+  "2745545554": {
+    "N": 50,
+    "artist": "sma$her",
+    "type": "电子音乐",
+    "duration": 62,
+    "comment_count": 441,
+    "current_rank": 43,
+    "last_rank": "等于当前排名"
+  },
+  "2709432103": {
+    "N": 50,
+    "artist": "Lunak",
+    "type": "电子音乐",
+    "duration": 147,
+    "comment_count": 1995,
+    "current_rank": 44,
+    "last_rank": 43
+  },
+  "2725937943": {
+    "N": 50,
+    "artist": "Lunak",
+    "type": "电子音乐",
+    "duration": 127,
+    "comment_count": 1566,
+    "current_rank": 45,
+    "last_rank": 33
+  },
+  "2752128676": {
+    "N": 50,
+    "artist": "KIXIA",
+    "type": "电子音乐",
+    "duration": 121,
+    "comment_count": 665,
+    "current_rank": 46,
+    "last_rank": 49
+  },
+  "2721928786": {
+    "N": 50,
+    "artist": "QMIIR",
+    "type": "电子音乐",
+    "duration": 108,
+    "comment_count": 299,
+    "current_rank": 47,
+    "last_rank": "等于当前排名"
+  },
+  "2715139032": {
+    "N": 50,
+    "artist": "YaKio",
+    "type": "电子音乐",
+    "duration": 113,
+    "comment_count": 369,
+    "current_rank": 48,
+    "last_rank": 45
+  },
+  "2758900848": {
+    "N": 50,
+    "artist": "ATOM",
+    "type": "电子音乐",
+    "duration": 202,
+    "comment_count": 1612,
+    "current_rank": 49,
+    "last_rank": "等于当前排名"
+  },
+  "2738338863": {
+    "N": 50,
+    "artist": "Lazer Boomerang",
+    "type": "电子音乐",
+    "duration": 342,
+    "comment_count": 707,
+    "current_rank": 50,
+    "last_rank": 39
+  },
+  "2738715964": {
+    "N": 10,
+    "artist": "回春丹",
+    "type": "韩语",
+    "duration": 206,
+    "comment_count": 2244,
+    "current_rank": 1,
+    "last_rank": 0
+  },
+  "2713954106": {
+    "N": 10,
+    "artist": "未來電波基地",
+    "type": "日语",
+    "duration": 130,
+    "comment_count": 3660,
+    "current_rank": 9,
+    "last_rank": 6
+  },
+  "3319483197": {
+    "N": 10,
+    "artist": "ヨルシカ",
+    "type": "韩语",
+    "duration": 259,
+    "comment_count": 688,
+    "current_rank": 3,
+    "last_rank": "等于当前排名"
+  },
+  "3319483203": {
+    "N": 10,
+    "artist": "ずっと真夜中でいいのに。",
+    "type": "韩语",
+    "duration": 248,
+    "comment_count": 542,
+    "current_rank": 4,
+    "last_rank": "等于当前排名"
+  },
+  "2738715961": {
+    "N": 10,
+    "artist": "回春丹",
+    "type": "韩语",
+    "duration": 195,
+    "comment_count": 4167,
+    "current_rank": 5,
+    "last_rank": 7
+  },
+  "2745413584": {
+    "N": 10,
+    "artist": "犬儒乐队",
+    "type": "韩语",
+    "duration": 370,
+    "comment_count": 1798,
+    "current_rank": 6,
+    "last_rank": 3
+  },
+  "2744534597": {
+    "N": 10,
+    "artist": "犬儒乐队",
+    "type": "韩语",
+    "duration": 562,
+    "comment_count": 3006,
+    "current_rank": 7,
+    "last_rank": 5
+  },
+  "2738715965": {
+    "N": 10,
+    "artist": "回春丹",
+    "type": "韩语",
+    "duration": 341,
+    "comment_count": 794,
+    "current_rank": 8,
+    "last_rank": 4
+  },
+  "2745413582": {
+    "N": 10,
+    "artist": "犬儒乐队",
+    "type": "韩语",
+    "duration": 411,
+    "comment_count": 1459,
+    "current_rank": 9,
+    "last_rank": 6
+  },
+  "2758137943": {
+    "N": 10,
+    "artist": "秋野乐队",
+    "type": "韩语",
+    "duration": 218,
+    "comment_count": 3275,
+    "current_rank": 10,
+    "last_rank": 8
+  },
+  "1842728629": {
+    "N": 100,
+    "artist": "郑润泽",
+    "type": "欧美",
+    "duration": 257,
+    "comment_count": 705967,
+    "current_rank": 1,
+    "last_rank": "等于当前排名"
+  },
+  "3319722018": {
+    "N": 100,
+    "artist": "郑润泽",
+    "type": "欧美",
+    "duration": 227,
+    "comment_count": 6981,
+    "current_rank": 2,
+    "last_rank": "等于当前排名"
+  },
+  "2108845007": {
+    "N": 100,
+    "artist": "Vansdaddy",
+    "type": "欧美",
+    "duration": 135,
+    "comment_count": 16309,
+    "current_rank": 3,
+    "last_rank": "等于当前排名"
+  },
+  "3319817890": {
+    "N": 100,
+    "artist": "Vansdaddy",
+    "type": "欧美",
+    "duration": 155,
+    "comment_count": 1339,
+    "current_rank": 4,
+    "last_rank": "等于当前排名"
+  },
+  "2756055504": {
+    "N": 100,
+    "artist": "海洋Bo",
+    "type": "欧美",
+    "duration": 261,
+    "comment_count": 2015,
+    "current_rank": 5,
+    "last_rank": "等于当前排名"
+  },
+  "3319814367": {
+    "N": 100,
+    "artist": "Vansdaddy",
+    "type": "欧美",
+    "duration": 138,
+    "comment_count": 1299,
+    "current_rank": 6,
+    "last_rank": "等于当前排名"
+  },
+  "1359356908": {
+    "N": 100,
+    "artist": "颜人中",
+    "type": "欧美",
+    "duration": 289,
+    "comment_count": 442327,
+    "current_rank": 7,
+    "last_rank": "等于当前排名"
+  },
+  "3319813281": {
+    "N": 100,
+    "artist": "Vansdaddy",
+    "type": "欧美",
+    "duration": 163,
+    "comment_count": 870,
+    "current_rank": 8,
+    "last_rank": "等于当前排名"
+  },
+  "3319813693": {
+    "N": 100,
+    "artist": "Vansdaddy",
+    "type": "欧美",
+    "duration": 205,
+    "comment_count": 1314,
+    "current_rank": 9,
+    "last_rank": "等于当前排名"
+  },
+  "3319814570": {
+    "N": 100,
+    "artist": "Vansdaddy",
+    "type": "欧美",
+    "duration": 198,
+    "comment_count": 1002,
+    "current_rank": 10,
+    "last_rank": "等于当前排名"
+  },
+  "3319814438": {
+    "N": 100,
+    "artist": "Vansdaddy",
+    "type": "欧美",
+    "duration": 189,
+    "comment_count": 754,
+    "current_rank": 11,
+    "last_rank": "等于当前排名"
+  },
+  "3320401411": {
+    "N": 100,
+    "artist": "欧阳娜娜",
+    "type": "欧美",
+    "duration": 194,
+    "comment_count": 28076,
+    "current_rank": 12,
+    "last_rank": 20
+  },
+  "1926623288": {
+    "N": 100,
+    "artist": "郑润泽",
+    "type": "欧美",
+    "duration": 276,
+    "comment_count": 388535,
+    "current_rank": 13,
+    "last_rank": "等于当前排名"
+  },
+  "3320331503": {
+    "N": 100,
+    "artist": "汪苏泷",
+    "type": "欧美",
+    "duration": 243,
+    "comment_count": 5500,
+    "current_rank": 14,
+    "last_rank": 45
+  },
+  "2753872890": {
+    "N": 100,
+    "artist": "RANGE",
+    "type": "欧美",
+    "duration": 130,
+    "comment_count": 273,
+    "current_rank": 15,
+    "last_rank": "等于当前排名"
+  },
+  "1400259397": {
+    "N": 100,
+    "artist": "郭一凡",
+    "type": "欧美",
+    "duration": 274,
+    "comment_count": 179059,
+    "current_rank": 16,
+    "last_rank": "等于当前排名"
+  },
+  "2018733994": {
+    "N": 100,
+    "artist": "郑润泽",
+    "type": "欧美",
+    "duration": 189,
+    "comment_count": 202638,
+    "current_rank": 17,
+    "last_rank": "等于当前排名"
+  },
+  "3320331526": {
+    "N": 100,
+    "artist": "颜人中",
+    "type": "欧美",
+    "duration": 209,
+    "comment_count": 1141,
+    "current_rank": 18,
+    "last_rank": 79
+  },
+  "3320401890": {
+    "N": 100,
+    "artist": "周深",
+    "type": "欧美",
+    "duration": 240,
+    "comment_count": 1790,
+    "current_rank": 19,
+    "last_rank": "等于当前排名"
+  },
+  "2025186889": {
+    "N": 100,
+    "artist": "郑润泽",
+    "type": "欧美",
+    "duration": 240,
+    "comment_count": 150292,
+    "current_rank": 20,
+    "last_rank": "等于当前排名"
+  },
+  "2758289151": {
+    "N": 100,
+    "artist": "万乐体",
+    "type": "欧美",
+    "duration": 112,
+    "comment_count": 8512,
+    "current_rank": 21,
+    "last_rank": "等于当前排名"
+  },
+  "287063": {
+    "N": 100,
+    "artist": "孙燕姿",
+    "type": "欧美",
+    "duration": 289,
+    "comment_count": 439081,
+    "current_rank": 22,
+    "last_rank": "等于当前排名"
+  },
+  "2747802379": {
+    "N": 100,
+    "artist": "Lenar",
+    "type": "欧美",
+    "duration": 72,
+    "comment_count": 730,
+    "current_rank": 23,
+    "last_rank": "等于当前排名"
+  },
+  "2749415489": {
+    "N": 100,
+    "artist": "liyue",
+    "type": "欧美",
+    "duration": 250,
+    "comment_count": 129,
+    "current_rank": 24,
+    "last_rank": "等于当前排名"
+  },
+  "2752519729": {
+    "N": 100,
+    "artist": "失落花园_",
+    "type": "欧美",
+    "duration": 121,
+    "comment_count": 9219,
+    "current_rank": 25,
+    "last_rank": "等于当前排名"
+  },
+  "3320343240": {
+    "N": 100,
+    "artist": "彭雅琦（Yakisa）",
+    "type": "欧美",
+    "duration": 270,
+    "comment_count": 24967,
+    "current_rank": 26,
+    "last_rank": "等于当前排名"
+  },
+  "223801": {
+    "N": 100,
+    "artist": "丁当",
+    "type": "欧美",
+    "duration": 233,
+    "comment_count": 47393,
+    "current_rank": 27,
+    "last_rank": "等于当前排名"
+  },
+  "1927693793": {
+    "N": 100,
+    "artist": "h3R3",
+    "type": "欧美",
+    "duration": 168,
+    "comment_count": 198233,
+    "current_rank": 28,
+    "last_rank": "等于当前排名"
+  },
+  "2097443876": {
+    "N": 100,
+    "artist": "队长",
+    "type": "欧美",
+    "duration": 132,
+    "comment_count": 7465,
+    "current_rank": 29,
+    "last_rank": "等于当前排名"
+  },
+  "2756303345": {
+    "N": 100,
+    "artist": "陈奕迅",
+    "type": "欧美",
+    "duration": 221,
+    "comment_count": 8369,
+    "current_rank": 30,
+    "last_rank": "等于当前排名"
+  },
+  "3320330744": {
+    "N": 100,
+    "artist": "张信哲",
+    "type": "欧美",
+    "duration": 315,
+    "comment_count": 448,
+    "current_rank": 31,
+    "last_rank": "等于当前排名"
+  },
+  "3317338656": {
+    "N": 100,
+    "artist": "黄龄",
+    "type": "欧美",
+    "duration": 229,
+    "comment_count": 276,
+    "current_rank": 32,
+    "last_rank": "等于当前排名"
+  },
+  "1301736461": {
+    "N": 100,
+    "artist": "王力宏",
+    "type": "欧美",
+    "duration": 238,
+    "comment_count": 132538,
+    "current_rank": 33,
+    "last_rank": "等于当前排名"
+  },
+  "553755659": {
+    "N": 100,
+    "artist": "张紫豪",
+    "type": "欧美",
+    "duration": 240,
+    "comment_count": 722637,
+    "current_rank": 34,
+    "last_rank": "等于当前排名"
+  },
+  "3320401915": {
+    "N": 100,
+    "artist": "谭晶",
+    "type": "欧美",
+    "duration": 230,
+    "comment_count": 511,
+    "current_rank": 35,
+    "last_rank": "等于当前排名"
+  },
+  "2758538358": {
+    "N": 100,
+    "artist": "Zzh",
+    "type": "欧美",
+    "duration": 232,
+    "comment_count": 1474,
+    "current_rank": 36,
+    "last_rank": "等于当前排名"
+  },
+  "3320331607": {
+    "N": 100,
+    "artist": "林宥嘉",
+    "type": "欧美",
+    "duration": 294,
+    "comment_count": 404,
+    "current_rank": 37,
+    "last_rank": "等于当前排名"
+  },
+  "507364094": {
+    "N": 100,
+    "artist": "黄丽玲",
+    "type": "欧美",
+    "duration": 213,
+    "comment_count": 112291,
+    "current_rank": 38,
+    "last_rank": "等于当前排名"
+  },
+  "3320331551": {
+    "N": 100,
+    "artist": "黄霄雲",
+    "type": "欧美",
+    "duration": 244,
+    "comment_count": 412,
+    "current_rank": 39,
+    "last_rank": "等于当前排名"
+  },
+  "479979440": {
+    "N": 100,
+    "artist": "徐佳莹",
+    "type": "欧美",
+    "duration": 256,
+    "comment_count": 81870,
+    "current_rank": 40,
+    "last_rank": "等于当前排名"
+  },
+  "2663837607": {
+    "N": 100,
+    "artist": "不要杀死我的爱",
+    "type": "欧美",
+    "duration": 199,
+    "comment_count": 34803,
+    "current_rank": 41,
+    "last_rank": 39
+  },
+  "2714874531": {
+    "N": 100,
+    "artist": "bye",
+    "type": "欧美",
+    "duration": 186,
+    "comment_count": 20002,
+    "current_rank": 42,
+    "last_rank": 22
+  },
+  "440207932": {
+    "N": 100,
+    "artist": "叶炫清",
+    "type": "欧美",
+    "duration": 234,
+    "comment_count": 10630,
+    "current_rank": 43,
+    "last_rank": "等于当前排名"
+  },
+  "3313977596": {
+    "N": 100,
+    "artist": "郭静",
+    "type": "欧美",
+    "duration": 161,
+    "comment_count": 466,
+    "current_rank": 44,
+    "last_rank": "等于当前排名"
+  },
+  "1345571065": {
+    "N": 100,
+    "artist": "郑润泽",
+    "type": "欧美",
+    "duration": 149,
+    "comment_count": 50785,
+    "current_rank": 45,
+    "last_rank": "等于当前排名"
+  },
+  "3320401977": {
+    "N": 100,
+    "artist": "刘宇宁",
+    "type": "欧美",
+    "duration": 237,
+    "comment_count": 10762,
+    "current_rank": 46,
+    "last_rank": "等于当前排名"
+  },
+  "2746857577": {
+    "N": 100,
+    "artist": "欧阳娜娜",
+    "type": "欧美",
+    "duration": 176,
+    "comment_count": 1216,
+    "current_rank": 47,
+    "last_rank": 12
+  },
+  "3320401957": {
+    "N": 100,
+    "artist": "张靓颖",
+    "type": "欧美",
+    "duration": 223,
+    "comment_count": 237,
+    "current_rank": 48,
+    "last_rank": "等于当前排名"
+  },
+  "316100": {
+    "N": 100,
+    "artist": "杨丞琳",
+    "type": "欧美",
+    "duration": 260,
+    "comment_count": 149326,
+    "current_rank": 49,
+    "last_rank": "等于当前排名"
+  },
+  "3320401349": {
+    "N": 100,
+    "artist": "黄誉博",
+    "type": "欧美",
+    "duration": 203,
+    "comment_count": 390,
+    "current_rank": 50,
+    "last_rank": "等于当前排名"
+  },
+  "405599119": {
+    "N": 100,
+    "artist": "Lukas Graham",
+    "type": "欧美",
+    "duration": 237,
+    "comment_count": 85206,
+    "current_rank": 52,
+    "last_rank": "等于当前排名"
+  },
+  "2696398311": {
+    "N": 100,
+    "artist": "梶",
+    "type": "欧美",
+    "duration": 120,
+    "comment_count": 23702,
+    "current_rank": 53,
+    "last_rank": 87
+  },
+  "3319758074": {
+    "N": 100,
+    "artist": "HOPICO",
+    "type": "欧美",
+    "duration": 207,
+    "comment_count": 824,
+    "current_rank": 54,
+    "last_rank": 67
+  },
+  "254132": {
+    "N": 100,
+    "artist": "梁静茹",
+    "type": "欧美",
+    "duration": 272,
+    "comment_count": 42636,
+    "current_rank": 55,
+    "last_rank": "等于当前排名"
+  },
+  "421423806": {
+    "N": 100,
+    "artist": "陈粒",
+    "type": "欧美",
+    "duration": 297,
+    "comment_count": 283076,
+    "current_rank": 56,
+    "last_rank": "等于当前排名"
+  },
+  "1342951475": {
+    "N": 100,
+    "artist": "LuluSweety",
+    "type": "欧美",
+    "duration": 116,
+    "comment_count": 25647,
+    "current_rank": 57,
+    "last_rank": "等于当前排名"
+  },
+  "3319969623": {
+    "N": 100,
+    "artist": "赵小童",
+    "type": "欧美",
+    "duration": 197,
+    "comment_count": 1959,
+    "current_rank": 58,
+    "last_rank": "等于当前排名"
+  },
+  "254485": {
+    "N": 100,
+    "artist": "梁静茹",
+    "type": "欧美",
+    "duration": 239,
+    "comment_count": 101470,
+    "current_rank": 59,
+    "last_rank": "等于当前排名"
+  },
+  "446512853": {
+    "N": 100,
+    "artist": "suhmeduh",
+    "type": "欧美",
+    "duration": 122,
+    "comment_count": 69557,
+    "current_rank": 60,
+    "last_rank": "等于当前排名"
+  },
+  "2688242045": {
+    "N": 100,
+    "artist": "在虚无中永存",
+    "type": "欧美",
+    "duration": 110,
+    "comment_count": 15704,
+    "current_rank": 61,
+    "last_rank": 58
+  },
+  "26540731": {
+    "N": 100,
+    "artist": "金艺林",
+    "type": "欧美",
+    "duration": 317,
+    "comment_count": 41900,
+    "current_rank": 62,
+    "last_rank": "等于当前排名"
+  },
+  "30352891": {
+    "N": 100,
+    "artist": "银临",
+    "type": "欧美",
+    "duration": 239,
+    "comment_count": 172118,
+    "current_rank": 63,
+    "last_rank": "等于当前排名"
+  },
+  "3320330688": {
+    "N": 100,
+    "artist": "周兴哲",
+    "type": "欧美",
+    "duration": 259,
+    "comment_count": 208,
+    "current_rank": 64,
+    "last_rank": "等于当前排名"
+  },
+  "518894020": {
+    "N": 100,
+    "artist": "Park Bird",
+    "type": "欧美",
+    "duration": 167,
+    "comment_count": 140800,
+    "current_rank": 65,
+    "last_rank": "等于当前排名"
+  },
+  "3313253205": {
+    "N": 100,
+    "artist": "はろける",
+    "type": "欧美",
+    "duration": 141,
+    "comment_count": 3084,
+    "current_rank": 66,
+    "last_rank": "等于当前排名"
+  },
+  "150633": {
+    "N": 100,
+    "artist": "陶喆",
+    "type": "欧美",
+    "duration": 255,
+    "comment_count": 62669,
+    "current_rank": 67,
+    "last_rank": "等于当前排名"
+  },
+  "3320047162": {
+    "N": 100,
+    "artist": "塞壬唱片-MSR",
+    "type": "欧美",
+    "duration": 261,
+    "comment_count": 156,
+    "current_rank": 68,
+    "last_rank": "等于当前排名"
+  },
+  "469998923": {
+    "N": 100,
+    "artist": "J. Sheon",
+    "type": "欧美",
+    "duration": 247,
+    "comment_count": 58022,
+    "current_rank": 69,
+    "last_rank": "等于当前排名"
+  },
+  "3318981028": {
+    "N": 100,
+    "artist": "Wiz_H张子豪",
+    "type": "欧美",
+    "duration": 167,
+    "comment_count": 254,
+    "current_rank": 70,
+    "last_rank": "等于当前排名"
+  },
+  "420478436": {
+    "N": 100,
+    "artist": "Charlie Puth",
+    "type": "欧美",
+    "duration": 254,
+    "comment_count": 33563,
+    "current_rank": 71,
+    "last_rank": "等于当前排名"
+  },
+  "441120471": {
+    "N": 100,
+    "artist": "Bruno Mars",
+    "type": "欧美",
+    "duration": 206,
+    "comment_count": 32520,
+    "current_rank": 72,
+    "last_rank": "等于当前排名"
+  },
+  "2759345435": {
+    "N": 100,
+    "artist": "冰心",
+    "type": "欧美",
+    "duration": 170,
+    "comment_count": 114,
+    "current_rank": 73,
+    "last_rank": "等于当前排名"
+  },
+  "3320331666": {
+    "N": 100,
+    "artist": "雾都L4WUDU",
+    "type": "欧美",
+    "duration": 135,
+    "comment_count": 500,
+    "current_rank": 74,
+    "last_rank": "等于当前排名"
+  },
+  "26440351": {
+    "N": 100,
+    "artist": "sasakure.UK",
+    "type": "欧美",
+    "duration": 275,
+    "comment_count": 35225,
+    "current_rank": 75,
+    "last_rank": "等于当前排名"
+  },
+  "2600238506": {
+    "N": 100,
+    "artist": "游客j6jsy",
+    "type": "欧美",
+    "duration": 166,
+    "comment_count": 2403,
+    "current_rank": 76,
+    "last_rank": "等于当前排名"
+  },
+  "3315267578": {
+    "N": 100,
+    "artist": "GoldenOcean",
+    "type": "欧美",
+    "duration": 168,
+    "comment_count": 563,
+    "current_rank": 77,
+    "last_rank": 68
+  },
+  "2699424835": {
+    "N": 100,
+    "artist": "氟西汀海",
+    "type": "欧美",
+    "duration": 125,
+    "comment_count": 3621,
+    "current_rank": 78,
+    "last_rank": "等于当前排名"
+  },
+  "65528": {
+    "N": 100,
+    "artist": "陈奕迅",
+    "type": "欧美",
+    "duration": 285,
+    "comment_count": 172839,
+    "current_rank": 79,
+    "last_rank": "等于当前排名"
+  },
+  "2608143525": {
+    "N": 100,
+    "artist": "suhmeduh",
+    "type": "欧美",
+    "duration": 114,
+    "comment_count": 14056,
+    "current_rank": 80,
+    "last_rank": "等于当前排名"
+  },
+  "2060567211": {
+    "N": 100,
+    "artist": "Dahl_",
+    "type": "欧美",
+    "duration": 146,
+    "comment_count": 2131,
+    "current_rank": 81,
+    "last_rank": "等于当前排名"
+  },
+  "2631085561": {
+    "N": 100,
+    "artist": "Kuzu Mellow",
+    "type": "欧美",
+    "duration": 99,
+    "comment_count": 2760,
+    "current_rank": 82,
+    "last_rank": "等于当前排名"
+  },
+  "2694845967": {
+    "N": 100,
+    "artist": "48000hz",
+    "type": "欧美",
+    "duration": 146,
+    "comment_count": 13706,
+    "current_rank": 83,
+    "last_rank": 76
+  },
+  "294788": {
+    "N": 100,
+    "artist": "邰肇玫",
+    "type": "欧美",
+    "duration": 195,
+    "comment_count": 1138,
+    "current_rank": 84,
+    "last_rank": "等于当前排名"
+  },
+  "405485737": {
+    "N": 100,
+    "artist": "Shakira",
+    "type": "欧美",
+    "duration": 196,
+    "comment_count": 58541,
+    "current_rank": 85,
+    "last_rank": "等于当前排名"
+  },
+  "1390430684": {
+    "N": 100,
+    "artist": "Lindsey Stirling",
+    "type": "欧美",
+    "duration": 201,
+    "comment_count": 13862,
+    "current_rank": 86,
+    "last_rank": "等于当前排名"
+  },
+  "256621": {
+    "N": 100,
+    "artist": "林忆莲",
+    "type": "欧美",
+    "duration": 274,
+    "comment_count": 57046,
+    "current_rank": 87,
+    "last_rank": "等于当前排名"
+  },
+  "3320078149": {
+    "N": 100,
+    "artist": "司南",
+    "type": "欧美",
+    "duration": 214,
+    "comment_count": 253,
+    "current_rank": 88,
+    "last_rank": "等于当前排名"
+  },
+  "2751017120": {
+    "N": 100,
+    "artist": "刘大拿",
+    "type": "欧美",
+    "duration": 212,
+    "comment_count": 919,
+    "current_rank": 89,
+    "last_rank": "等于当前排名"
+  },
+  "3320665685": {
+    "N": 100,
+    "artist": "五色石南叶",
+    "type": "欧美",
+    "duration": 280,
+    "comment_count": 758,
+    "current_rank": 90,
+    "last_rank": "等于当前排名"
+  },
+  "3314921130": {
+    "N": 100,
+    "artist": "拿魄仑",
+    "type": "欧美",
+    "duration": 173,
+    "comment_count": 203,
+    "current_rank": 91,
+    "last_rank": "等于当前排名"
+  },
+  "25727803": {
+    "N": 100,
+    "artist": "林俊杰",
+    "type": "欧美",
+    "duration": 287,
+    "comment_count": 207448,
+    "current_rank": 92,
+    "last_rank": "等于当前排名"
+  },
+  "2161991028": {
+    "N": 100,
+    "artist": "礼越",
+    "type": "欧美",
+    "duration": 236,
+    "comment_count": 3479,
+    "current_rank": 93,
+    "last_rank": "等于当前排名"
+  },
+  "2731002026": {
+    "N": 100,
+    "artist": "恋愛幸运星",
+    "type": "欧美",
+    "duration": 127,
+    "comment_count": 6213,
+    "current_rank": 94,
+    "last_rank": "等于当前排名"
+  },
+  "26093064": {
+    "N": 100,
+    "artist": "Matryoshka",
+    "type": "欧美",
+    "duration": 317,
+    "comment_count": 129385,
+    "current_rank": 95,
+    "last_rank": "等于当前排名"
+  },
+  "1913871308": {
+    "N": 100,
+    "artist": "虻瀬",
+    "type": "欧美",
+    "duration": 256,
+    "comment_count": 13212,
+    "current_rank": 97,
+    "last_rank": "等于当前排名"
+  },
+  "2731865406": {
+    "N": 100,
+    "artist": "四四真累",
+    "type": "欧美",
+    "duration": 219,
+    "comment_count": 656,
+    "current_rank": 98,
+    "last_rank": "等于当前排名"
+  },
+  "3319295986": {
+    "N": 100,
+    "artist": "河图",
+    "type": "欧美",
+    "duration": 231,
+    "comment_count": 264,
+    "current_rank": 100,
+    "last_rank": "等于当前排名"
+  },
+  "2747166493": {
+    "N": 100,
+    "artist": "米津玄師",
+    "type": "电子",
+    "duration": 236,
+    "comment_count": 5972,
+    "current_rank": 3,
+    "last_rank": 1
+  },
+  "2749049796": {
+    "N": 10,
+    "artist": "ピノキオピー",
+    "type": "日语",
+    "duration": 173,
+    "comment_count": 12061,
+    "current_rank": 2,
+    "last_rank": 1
+  },
+  "2737471087": {
+    "N": 10,
+    "artist": "東京真中",
+    "type": "日语",
+    "duration": 148,
+    "comment_count": 1936,
+    "current_rank": 3,
+    "last_rank": 5
+  },
+  "3314692780": {
+    "N": 10,
+    "artist": "DECO*27",
+    "type": "日语",
+    "duration": 151,
+    "comment_count": 2416,
+    "current_rank": 4,
+    "last_rank": 2
+  },
+  "2735484466": {
+    "N": 10,
+    "artist": "DECO*27",
+    "type": "日语",
+    "duration": 178,
+    "comment_count": 4362,
+    "current_rank": 5,
+    "last_rank": 3
+  },
+  "2745026895": {
+    "N": 100,
+    "artist": "米津玄師",
+    "type": "电子",
+    "duration": 151,
+    "comment_count": 4253,
+    "current_rank": 6,
+    "last_rank": 4
+  },
+  "2707202386": {
+    "N": 10,
+    "artist": "なとり",
+    "type": "日语",
+    "duration": 178,
+    "comment_count": 2290,
+    "current_rank": 7,
+    "last_rank": 8
+  },
+  "2755971761": {
+    "N": 100,
+    "artist": "Aimer",
+    "type": "电子",
+    "duration": 251,
+    "comment_count": 607,
+    "current_rank": 8,
+    "last_rank": 7
+  },
+  "2716424334": {
+    "N": 10,
+    "artist": "ピノキオピー",
+    "type": "日语",
+    "duration": 163,
+    "comment_count": 14524,
+    "current_rank": 10,
+    "last_rank": 9
+  },
+  "478507889": {
+    "N": 100,
+    "artist": "dylanf",
+    "type": "古典",
+    "duration": 300,
+    "comment_count": 147929,
+    "current_rank": 1,
+    "last_rank": "等于当前排名"
+  },
+  "1480560252": {
+    "N": 100,
+    "artist": "舒伯特摇篮曲",
+    "type": "古典",
+    "duration": 140,
+    "comment_count": 403,
+    "current_rank": 2,
+    "last_rank": "等于当前排名"
+  },
+  "1408854372": {
+    "N": 100,
+    "artist": "Yehezkel Raz",
+    "type": "古典",
+    "duration": 110,
+    "comment_count": 3691,
+    "current_rank": 3,
+    "last_rank": "等于当前排名"
+  },
+  "2108292677": {
+    "N": 100,
+    "artist": "古典留声机",
+    "type": "古典",
+    "duration": 78,
+    "comment_count": 68,
+    "current_rank": 4,
+    "last_rank": "等于当前排名"
+  },
+  "1060914": {
+    "N": 100,
+    "artist": "Arthur Rubinstein",
+    "type": "古典",
+    "duration": 266,
+    "comment_count": 16961,
+    "current_rank": 5,
+    "last_rank": "等于当前排名"
+  },
+  "1944983536": {
+    "N": 100,
+    "artist": "天之籁音乐",
+    "type": "古典",
+    "duration": 180,
+    "comment_count": 1430,
+    "current_rank": 6,
+    "last_rank": "等于当前排名"
+  },
+  "1060910": {
+    "N": 100,
+    "artist": "Arthur Rubinstein",
+    "type": "古典",
+    "duration": 327,
+    "comment_count": 8203,
+    "current_rank": 7,
+    "last_rank": "等于当前排名"
+  },
+  "1501606": {
+    "N": 100,
+    "artist": "Janos Starker",
+    "type": "古典",
+    "duration": 161,
+    "comment_count": 21053,
+    "current_rank": 8,
+    "last_rank": "等于当前排名"
+  },
+  "18001009": {
+    "N": 100,
+    "artist": "Glenn Gould",
+    "type": "古典",
+    "duration": 185,
+    "comment_count": 6016,
+    "current_rank": 9,
+    "last_rank": "等于当前排名"
+  },
+  "1394617453": {
+    "N": 100,
+    "artist": "Noble Music Project",
+    "type": "古典",
+    "duration": 248,
+    "comment_count": 3302,
+    "current_rank": 10,
+    "last_rank": "等于当前排名"
+  },
+  "1442253642": {
+    "N": 100,
+    "artist": "Noble Music Project",
+    "type": "古典",
+    "duration": 316,
+    "comment_count": 7454,
+    "current_rank": 11,
+    "last_rank": "等于当前排名"
+  },
+  "1482916319": {
+    "N": 100,
+    "artist": "巴赫G弦上的咏叹调",
+    "type": "古典",
+    "duration": 288,
+    "comment_count": 377,
+    "current_rank": 12,
+    "last_rank": "等于当前排名"
+  },
+  "1966690719": {
+    "N": 100,
+    "artist": "nengcd",
+    "type": "古典",
+    "duration": 126,
+    "comment_count": 251,
+    "current_rank": 13,
+    "last_rank": "等于当前排名"
+  },
+  "27682855": {
+    "N": 100,
+    "artist": "Pascal Rogé",
+    "type": "古典",
+    "duration": 331,
+    "comment_count": 12072,
+    "current_rank": 14,
+    "last_rank": "等于当前排名"
+  },
+  "1295212133": {
+    "N": 100,
+    "artist": "Zelimir Panic",
+    "type": "古典",
+    "duration": 152,
+    "comment_count": 13978,
+    "current_rank": 15,
+    "last_rank": "等于当前排名"
+  },
+  "560780790": {
+    "N": 100,
+    "artist": "Johann Pachelbel",
+    "type": "古典",
+    "duration": 245,
+    "comment_count": 1046,
+    "current_rank": 16,
+    "last_rank": "等于当前排名"
+  },
+  "1482129315": {
+    "N": 100,
+    "artist": "舒伯特小夜曲",
+    "type": "古典",
+    "duration": 249,
+    "comment_count": 643,
+    "current_rank": 17,
+    "last_rank": "等于当前排名"
+  },
+  "1434268536": {
+    "N": 100,
+    "artist": "Noble Music Project",
+    "type": "古典",
+    "duration": 153,
+    "comment_count": 818,
+    "current_rank": 18,
+    "last_rank": "等于当前排名"
+  },
+  "27471609": {
+    "N": 100,
+    "artist": "Alexander Rudin",
+    "type": "古典",
+    "duration": 149,
+    "comment_count": 11129,
+    "current_rank": 19,
+    "last_rank": "等于当前排名"
+  },
+  "27708297": {
+    "N": 100,
+    "artist": "Claudio Arrau",
+    "type": "古典",
+    "duration": 151,
+    "comment_count": 4235,
+    "current_rank": 20,
+    "last_rank": "等于当前排名"
+  },
+  "27471615": {
+    "N": 100,
+    "artist": "Janos Sebestyen",
+    "type": "古典",
+    "duration": 94,
+    "comment_count": 9779,
+    "current_rank": 21,
+    "last_rank": "等于当前排名"
+  },
+  "1853542075": {
+    "N": 100,
+    "artist": "纳兰慧心",
+    "type": "古典",
+    "duration": 137,
+    "comment_count": 696,
+    "current_rank": 22,
+    "last_rank": "等于当前排名"
+  },
+  "25480736": {
+    "N": 100,
+    "artist": "Julian Lloyd Webber",
+    "type": "古典",
+    "duration": 171,
+    "comment_count": 4009,
+    "current_rank": 23,
+    "last_rank": "等于当前排名"
+  },
+  "27540403": {
+    "N": 100,
+    "artist": "Martynas",
+    "type": "古典",
+    "duration": 202,
+    "comment_count": 10420,
+    "current_rank": 24,
+    "last_rank": "等于当前排名"
+  },
+  "1778976": {
+    "N": 100,
+    "artist": "Maurizio Pollini",
+    "type": "古典",
+    "duration": 112,
+    "comment_count": 1967,
+    "current_rank": 25,
+    "last_rank": "等于当前排名"
+  },
+  "1501797": {
+    "N": 100,
+    "artist": "Shuku Iwasaki",
+    "type": "古典",
+    "duration": 267,
+    "comment_count": 3486,
+    "current_rank": 26,
+    "last_rank": "等于当前排名"
+  },
+  "1983571247": {
+    "N": 100,
+    "artist": "nengcd",
+    "type": "古典",
+    "duration": 120,
+    "comment_count": 229,
+    "current_rank": 27,
+    "last_rank": "等于当前排名"
+  },
+  "34619045": {
+    "N": 100,
+    "artist": "Max Richter",
+    "type": "古典",
+    "duration": 1111,
+    "comment_count": 9320,
+    "current_rank": 28,
+    "last_rank": "等于当前排名"
+  },
+  "1847916790": {
+    "N": 100,
+    "artist": "纳兰慧心",
+    "type": "古典",
+    "duration": 106,
+    "comment_count": 1261,
+    "current_rank": 29,
+    "last_rank": "等于当前排名"
+  },
+  "39869702": {
+    "N": 100,
+    "artist": "Ingrid Haebler",
+    "type": "古典",
+    "duration": 563,
+    "comment_count": 4624,
+    "current_rank": 30,
+    "last_rank": "等于当前排名"
+  },
+  "26244421": {
+    "N": 100,
+    "artist": "Max Richter",
+    "type": "古典",
+    "duration": 374,
+    "comment_count": 4463,
+    "current_rank": 31,
+    "last_rank": "等于当前排名"
+  },
+  "20768920": {
+    "N": 100,
+    "artist": "Seiji Ozawa",
+    "type": "古典",
+    "duration": 209,
+    "comment_count": 9846,
+    "current_rank": 32,
+    "last_rank": "等于当前排名"
+  },
+  "33638486": {
+    "N": 100,
+    "artist": "Herbert von Karajan",
+    "type": "古典",
+    "duration": 666,
+    "comment_count": 7833,
+    "current_rank": 33,
+    "last_rank": "等于当前排名"
+  },
+  "1480548284": {
+    "N": 100,
+    "artist": "Wolfgang Amadeus Mozart",
+    "type": "古典",
+    "duration": 216,
+    "comment_count": 150,
+    "current_rank": 34,
+    "last_rank": "等于当前排名"
+  },
+  "27471628": {
+    "N": 100,
+    "artist": "Jeno Jando",
+    "type": "古典",
+    "duration": 265,
+    "comment_count": 3445,
+    "current_rank": 35,
+    "last_rank": "等于当前排名"
+  },
+  "510882570": {
+    "N": 100,
+    "artist": "Antonio Vivaldi",
+    "type": "古典",
+    "duration": 215,
+    "comment_count": 1672,
+    "current_rank": 36,
+    "last_rank": "等于当前排名"
+  },
+  "1901862214": {
+    "N": 100,
+    "artist": "Wendy Anderson",
+    "type": "古典",
+    "duration": 105,
+    "comment_count": 1058,
+    "current_rank": 37,
+    "last_rank": "等于当前排名"
+  },
+  "34766098": {
+    "N": 100,
+    "artist": "马友友",
+    "type": "古典",
+    "duration": 109,
+    "comment_count": 1051,
+    "current_rank": 38,
+    "last_rank": "等于当前排名"
+  },
+  "1435563616": {
+    "N": 100,
+    "artist": "Kassia",
+    "type": "古典",
+    "duration": 157,
+    "comment_count": 1135,
+    "current_rank": 39,
+    "last_rank": "等于当前排名"
+  },
+  "27708290": {
+    "N": 100,
+    "artist": "Claudio Arrau",
+    "type": "古典",
+    "duration": 304,
+    "comment_count": 1993,
+    "current_rank": 40,
+    "last_rank": "等于当前排名"
+  },
+  "117218": {
+    "N": 100,
+    "artist": "李云迪",
+    "type": "古典",
+    "duration": 285,
+    "comment_count": 11132,
+    "current_rank": 41,
+    "last_rank": "等于当前排名"
+  },
+  "1940308971": {
+    "N": 100,
+    "artist": "倪椤",
+    "type": "古典",
+    "duration": 201,
+    "comment_count": 423,
+    "current_rank": 42,
+    "last_rank": "等于当前排名"
+  },
+  "5105959": {
+    "N": 100,
+    "artist": "Edward Elgar",
+    "type": "古典",
+    "duration": 202,
+    "comment_count": 4789,
+    "current_rank": 43,
+    "last_rank": "等于当前排名"
+  },
+  "39869701": {
+    "N": 100,
+    "artist": "Ingrid Haebler",
+    "type": "古典",
+    "duration": 503,
+    "comment_count": 5494,
+    "current_rank": 44,
+    "last_rank": "等于当前排名"
+  },
+  "2123727": {
+    "N": 100,
+    "artist": "Anne-Sophie Mutter",
+    "type": "古典",
+    "duration": 210,
+    "comment_count": 3881,
+    "current_rank": 45,
+    "last_rank": "等于当前排名"
+  },
+  "1458867": {
+    "N": 100,
+    "artist": "Wiener Singverein",
+    "type": "古典",
+    "duration": 188,
+    "comment_count": 1200,
+    "current_rank": 46,
+    "last_rank": "等于当前排名"
+  },
+  "29539584": {
+    "N": 100,
+    "artist": "Berliner Philharmoniker",
+    "type": "古典",
+    "duration": 183,
+    "comment_count": 2804,
+    "current_rank": 47,
+    "last_rank": "等于当前排名"
+  },
+  "22006156": {
+    "N": 100,
+    "artist": "Vladimir Horowitz",
+    "type": "古典",
+    "duration": 334,
+    "comment_count": 4076,
+    "current_rank": 48,
+    "last_rank": "等于当前排名"
+  },
+  "27598898": {
+    "N": 100,
+    "artist": "Cuba Percussion",
+    "type": "古典",
+    "duration": 216,
+    "comment_count": 5537,
+    "current_rank": 49,
+    "last_rank": "等于当前排名"
+  },
+  "1458550": {
+    "N": 100,
+    "artist": "Kathleen Battle",
+    "type": "古典",
+    "duration": 511,
+    "comment_count": 6565,
+    "current_rank": 50,
+    "last_rank": "等于当前排名"
+  },
+  "1331826172": {
+    "N": 100,
+    "artist": "Max Richter",
+    "type": "古典",
+    "duration": 128,
+    "comment_count": 1802,
+    "current_rank": 51,
+    "last_rank": "等于当前排名"
+  },
+  "1220287": {
+    "N": 100,
+    "artist": "David Garrett",
+    "type": "古典",
+    "duration": 246,
+    "comment_count": 4635,
+    "current_rank": 52,
+    "last_rank": "等于当前排名"
+  },
+  "1060948": {
+    "N": 100,
+    "artist": "Arthur Rubinstein",
+    "type": "古典",
+    "duration": 351,
+    "comment_count": 1751,
+    "current_rank": 53,
+    "last_rank": "等于当前排名"
+  },
+  "1822521762": {
+    "N": 100,
+    "artist": "离羽墨",
+    "type": "古典",
+    "duration": 294,
+    "comment_count": 2462,
+    "current_rank": 54,
+    "last_rank": "等于当前排名"
+  },
+  "27200546": {
+    "N": 100,
+    "artist": "Ilona Prunyi",
+    "type": "古典",
+    "duration": 293,
+    "comment_count": 5877,
+    "current_rank": 55,
+    "last_rank": "等于当前排名"
+  },
+  "18565939": {
+    "N": 100,
+    "artist": "Catrin Finch",
+    "type": "古典",
+    "duration": 189,
+    "comment_count": 5274,
+    "current_rank": 56,
+    "last_rank": "等于当前排名"
+  },
+  "1855681994": {
+    "N": 100,
+    "artist": "贵族音乐古典",
+    "type": "古典",
+    "duration": 281,
+    "comment_count": 254,
+    "current_rank": 57,
+    "last_rank": "等于当前排名"
+  },
+  "31260307": {
+    "N": 100,
+    "artist": "Yo-Yo Ma",
+    "type": "古典",
+    "duration": 215,
+    "comment_count": 2751,
+    "current_rank": 58,
+    "last_rank": "等于当前排名"
+  },
+  "1501158853": {
+    "N": 100,
+    "artist": "王健",
+    "type": "古典",
+    "duration": 168,
+    "comment_count": 157,
+    "current_rank": 59,
+    "last_rank": "等于当前排名"
+  },
+  "31134128": {
+    "N": 100,
+    "artist": "Bronn Journey",
+    "type": "古典",
+    "duration": 204,
+    "comment_count": 792,
+    "current_rank": 60,
+    "last_rank": "等于当前排名"
+  },
+  "1331822743": {
+    "N": 100,
+    "artist": "Max Richter",
+    "type": "古典",
+    "duration": 221,
+    "comment_count": 3156,
+    "current_rank": 61,
+    "last_rank": "等于当前排名"
+  },
+  "665751": {
+    "N": 100,
+    "artist": "上原ひろみ",
+    "type": "古典",
+    "duration": 313,
+    "comment_count": 710,
+    "current_rank": 62,
+    "last_rank": "等于当前排名"
+  },
+  "1049224": {
+    "N": 100,
+    "artist": "André Rieu",
+    "type": "古典",
+    "duration": 122,
+    "comment_count": 8441,
+    "current_rank": 63,
+    "last_rank": "等于当前排名"
+  },
+  "1145380": {
+    "N": 100,
+    "artist": "Kun Woo Paik",
+    "type": "古典",
+    "duration": 343,
+    "comment_count": 7676,
+    "current_rank": 64,
+    "last_rank": "等于当前排名"
+  },
+  "1458558": {
+    "N": 100,
+    "artist": "Wiener Philharmoniker",
+    "type": "古典",
+    "duration": 618,
+    "comment_count": 4301,
+    "current_rank": 65,
+    "last_rank": "等于当前排名"
+  },
+  "1060967": {
+    "N": 100,
+    "artist": "Arthur Rubinstein",
+    "type": "古典",
+    "duration": 282,
+    "comment_count": 1179,
+    "current_rank": 66,
+    "last_rank": "等于当前排名"
+  },
+  "1452441726": {
+    "N": 100,
+    "artist": "Marcin",
+    "type": "古典",
+    "duration": 330,
+    "comment_count": 275,
+    "current_rank": 67,
+    "last_rank": "等于当前排名"
+  },
+  "1302877408": {
+    "N": 100,
+    "artist": "ACK",
+    "type": "古典",
+    "duration": 163,
+    "comment_count": 2378,
+    "current_rank": 68,
+    "last_rank": "等于当前排名"
+  },
+  "1491384650": {
+    "N": 100,
+    "artist": "Brooklyn Duo",
+    "type": "古典",
+    "duration": 295,
+    "comment_count": 1077,
+    "current_rank": 69,
+    "last_rank": "等于当前排名"
+  },
+  "5168414": {
+    "N": 100,
+    "artist": "Arthur Grumiaux",
+    "type": "古典",
+    "duration": 159,
+    "comment_count": 1475,
+    "current_rank": 70,
+    "last_rank": "等于当前排名"
+  },
+  "29150369": {
+    "N": 100,
+    "artist": "Ophélie Gaillard",
+    "type": "古典",
+    "duration": 177,
+    "comment_count": 1183,
+    "current_rank": 71,
+    "last_rank": "等于当前排名"
+  },
+  "114295": {
+    "N": 100,
+    "artist": "郎朗",
+    "type": "古典",
+    "duration": 288,
+    "comment_count": 6896,
+    "current_rank": 72,
+    "last_rank": "等于当前排名"
+  },
+  "2123686": {
+    "N": 100,
+    "artist": "Anne-Sophie Mutter",
+    "type": "古典",
+    "duration": 198,
+    "comment_count": 4751,
+    "current_rank": 73,
+    "last_rank": "等于当前排名"
+  },
+  "1606090": {
+    "N": 100,
+    "artist": "Josh Vietti",
+    "type": "古典",
+    "duration": 193,
+    "comment_count": 3175,
+    "current_rank": 74,
+    "last_rank": "等于当前排名"
+  },
+  "32696188": {
+    "N": 100,
+    "artist": "Krystian Zimerman",
+    "type": "古典",
+    "duration": 578,
+    "comment_count": 4150,
+    "current_rank": 75,
+    "last_rank": "等于当前排名"
+  },
+  "1990476": {
+    "N": 100,
+    "artist": "Charles Dutoit",
+    "type": "古典",
+    "duration": 544,
+    "comment_count": 4408,
+    "current_rank": 76,
+    "last_rank": "等于当前排名"
+  },
+  "1060955": {
+    "N": 100,
+    "artist": "Arthur Rubinstein",
+    "type": "古典",
+    "duration": 341,
+    "comment_count": 1022,
+    "current_rank": 77,
+    "last_rank": "等于当前排名"
+  },
+  "18565932": {
+    "N": 100,
+    "artist": "Erdo Groot",
+    "type": "古典",
+    "duration": 225,
+    "comment_count": 1514,
+    "current_rank": 78,
+    "last_rank": "等于当前排名"
+  },
+  "464730373": {
+    "N": 100,
+    "artist": "Raoul Jobin",
+    "type": "古典",
+    "duration": 217,
+    "comment_count": 457,
+    "current_rank": 79,
+    "last_rank": "等于当前排名"
+  },
+  "1294831945": {
+    "N": 100,
+    "artist": "Alexandra Streliski",
+    "type": "古典",
+    "duration": 287,
+    "comment_count": 585,
+    "current_rank": 80,
+    "last_rank": "等于当前排名"
+  },
+  "1060937": {
+    "N": 100,
+    "artist": "Arthur Rubinstein",
+    "type": "古典",
+    "duration": 348,
+    "comment_count": 1025,
+    "current_rank": 81,
+    "last_rank": "等于当前排名"
+  },
+  "2640187": {
+    "N": 100,
+    "artist": "Carlos Gomez",
+    "type": "古典",
+    "duration": 275,
+    "comment_count": 4875,
+    "current_rank": 82,
+    "last_rank": "等于当前排名"
+  },
+  "2663190280": {
+    "N": 100,
+    "artist": "天之籁音乐",
+    "type": "古典",
+    "duration": 223,
+    "comment_count": 106,
+    "current_rank": 83,
+    "last_rank": 83
+  },
+  "26878877": {
+    "N": 100,
+    "artist": "Johann Sebastian Bach",
+    "type": "古典",
+    "duration": 366,
+    "comment_count": 1365,
+    "current_rank": 84,
+    "last_rank": "等于当前排名"
+  },
+  "456094670": {
+    "N": 100,
+    "artist": "Max Richter",
+    "type": "古典",
+    "duration": 367,
+    "comment_count": 1743,
+    "current_rank": 85,
+    "last_rank": "等于当前排名"
+  },
+  "1910899366": {
+    "N": 100,
+    "artist": "Wendy Anderson",
+    "type": "古典",
+    "duration": 230,
+    "comment_count": 292,
+    "current_rank": 86,
+    "last_rank": "等于当前排名"
+  },
+  "1049118": {
+    "N": 100,
+    "artist": "André Rieu",
+    "type": "古典",
+    "duration": 346,
+    "comment_count": 1688,
+    "current_rank": 87,
+    "last_rank": "等于当前排名"
+  },
+  "2776537": {
+    "N": 100,
+    "artist": "Wiener Philharmoniker",
+    "type": "古典",
+    "duration": 139,
+    "comment_count": 2112,
+    "current_rank": 88,
+    "last_rank": "等于当前排名"
+  },
+  "1295212153": {
+    "N": 100,
+    "artist": "Zelimir Panic",
+    "type": "古典",
+    "duration": 214,
+    "comment_count": 1075,
+    "current_rank": 89,
+    "last_rank": "等于当前排名"
+  },
+  "27471624": {
+    "N": 100,
+    "artist": "Ibolya Verebics",
+    "type": "古典",
+    "duration": 430,
+    "comment_count": 274,
+    "current_rank": 90,
+    "last_rank": "等于当前排名"
+  },
+  "3541224": {
+    "N": 100,
+    "artist": "Sviatoslav Richter",
+    "type": "古典",
+    "duration": 673,
+    "comment_count": 3905,
+    "current_rank": 91,
+    "last_rank": "等于当前排名"
+  },
+  "2123708": {
+    "N": 100,
+    "artist": "Anne-Sophie Mutter",
+    "type": "古典",
+    "duration": 168,
+    "comment_count": 3811,
+    "current_rank": 92,
+    "last_rank": "等于当前排名"
+  },
+  "1463536807": {
+    "N": 100,
+    "artist": "Vienna Mozart Orchestra",
+    "type": "古典",
+    "duration": 200,
+    "comment_count": 1227,
+    "current_rank": 93,
+    "last_rank": "等于当前排名"
+  },
+  "18000639": {
+    "N": 100,
+    "artist": "Glenn Gould",
+    "type": "古典",
+    "duration": 142,
+    "comment_count": 2170,
+    "current_rank": 94,
+    "last_rank": "等于当前排名"
+  },
+  "1394618519": {
+    "N": 100,
+    "artist": "Noble Music Project",
+    "type": "古典",
+    "duration": 128,
+    "comment_count": 1148,
+    "current_rank": 95,
+    "last_rank": "等于当前排名"
+  },
+  "22006389": {
+    "N": 100,
+    "artist": "Vladimir Horowitz",
+    "type": "古典",
+    "duration": 154,
+    "comment_count": 2743,
+    "current_rank": 96,
+    "last_rank": "等于当前排名"
+  },
+  "1927617802": {
+    "N": 100,
+    "artist": "Wendy Anderson",
+    "type": "古典",
+    "duration": 424,
+    "comment_count": 672,
+    "current_rank": 97,
+    "last_rank": "等于当前排名"
+  },
+  "1442253641": {
+    "N": 100,
+    "artist": "Noble Music Project",
+    "type": "古典",
+    "duration": 129,
+    "comment_count": 203,
+    "current_rank": 98,
+    "last_rank": "等于当前排名"
+  },
+  "1049199": {
+    "N": 100,
+    "artist": "André Rieu",
+    "type": "古典",
+    "duration": 146,
+    "comment_count": 15904,
+    "current_rank": 99,
+    "last_rank": "等于当前排名"
+  },
+  "26818410": {
+    "N": 100,
+    "artist": "Anatol Ugorski",
+    "type": "古典",
+    "duration": 331,
+    "comment_count": 1980,
+    "current_rank": 100,
+    "last_rank": "等于当前排名"
+  },
+  "3316968660": {
+    "N": 100,
+    "artist": "张韶涵",
+    "type": "电子",
+    "duration": 186,
+    "comment_count": 8140,
+    "current_rank": 1,
+    "last_rank": "等于当前排名"
+  },
+  "2755332551": {
+    "N": 100,
+    "artist": "Sihan",
+    "type": "电子",
+    "duration": 191,
+    "comment_count": 2799,
+    "current_rank": 2,
+    "last_rank": 0
+  },
+  "2722510685": {
+    "N": 100,
+    "artist": "HOYO-MiX",
+    "type": "电子",
+    "duration": 213,
+    "comment_count": 18284,
+    "current_rank": 4,
+    "last_rank": 2
+  },
+  "2709812973": {
+    "N": 100,
+    "artist": "HOYO-MiX",
+    "type": "电子",
+    "duration": 238,
+    "comment_count": 10429,
+    "current_rank": 5,
+    "last_rank": 3
+  },
+  "3316971855": {
+    "N": 100,
+    "artist": "Cassie Wei",
+    "type": "电子",
+    "duration": 186,
+    "comment_count": 538,
+    "current_rank": 7,
+    "last_rank": "等于当前排名"
+  },
+  "2727103300": {
+    "N": 100,
+    "artist": "Aimer",
+    "type": "电子",
+    "duration": 170,
+    "comment_count": 2213,
+    "current_rank": 9,
+    "last_rank": "等于当前排名"
+  },
+  "2750140001": {
+    "N": 100,
+    "artist": "宴宁",
+    "type": "电子",
+    "duration": 217,
+    "comment_count": 2603,
+    "current_rank": 10,
+    "last_rank": 6
+  },
+  "2727103261": {
+    "N": 100,
+    "artist": "LiSA",
+    "type": "电子",
+    "duration": 383,
+    "comment_count": 2549,
+    "current_rank": 11,
+    "last_rank": 72
+  },
+  "2756019215": {
+    "N": 100,
+    "artist": "HOYO-MiX",
+    "type": "电子",
+    "duration": 129,
+    "comment_count": 662,
+    "current_rank": 12,
+    "last_rank": 8
+  },
+  "3312018325": {
+    "N": 100,
+    "artist": "Aimer",
+    "type": "电子",
+    "duration": 251,
+    "comment_count": 433,
+    "current_rank": 13,
+    "last_rank": 5
+  },
+  "2707332868": {
+    "N": 100,
+    "artist": "Mili",
+    "type": "电子",
+    "duration": 248,
+    "comment_count": 6485,
+    "current_rank": 14,
+    "last_rank": 12
+  },
+  "2756019200": {
+    "N": 100,
+    "artist": "AURORA",
+    "type": "电子",
+    "duration": 260,
+    "comment_count": 1105,
+    "current_rank": 15,
+    "last_rank": 11
+  },
+  "2748705216": {
+    "N": 100,
+    "artist": "Aimer",
+    "type": "电子",
+    "duration": 245,
+    "comment_count": 1033,
+    "current_rank": 16,
+    "last_rank": 13
+  },
+  "2753957634": {
+    "N": 100,
+    "artist": "ヒグチアイ",
+    "type": "电子",
+    "duration": 342,
+    "comment_count": 1610,
+    "current_rank": 17,
+    "last_rank": 9
+  },
+  "2742468679": {
+    "N": 100,
+    "artist": "Ave Mujica",
+    "type": "电子",
+    "duration": 222,
+    "comment_count": 3049,
+    "current_rank": 18,
+    "last_rank": 14
+  },
+  "2750093263": {
+    "N": 100,
+    "artist": "NAQT VANE",
+    "type": "电子",
+    "duration": 183,
+    "comment_count": 609,
+    "current_rank": 19,
+    "last_rank": 15
+  },
+  "2751940573": {
+    "N": 100,
+    "artist": "TeddyLoid",
+    "type": "电子",
+    "duration": 213,
+    "comment_count": 498,
+    "current_rank": 20,
+    "last_rank": 16
+  },
+  "2719303315": {
+    "N": 100,
+    "artist": "アイナ・ジ・エンド",
+    "type": "电子",
+    "duration": 197,
+    "comment_count": 2353,
+    "current_rank": 21,
+    "last_rank": 18
+  },
+  "2759492052": {
+    "N": 100,
+    "artist": "Reol",
+    "type": "电子",
+    "duration": 231,
+    "comment_count": 311,
+    "current_rank": 22,
+    "last_rank": 10
+  },
+  "3312019243": {
+    "N": 100,
+    "artist": "Aimer",
+    "type": "电子",
+    "duration": 251,
+    "comment_count": 165,
+    "current_rank": 23,
+    "last_rank": 27
+  },
+  "2736706230": {
+    "N": 100,
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 224,
+    "comment_count": 1907,
+    "current_rank": 24,
+    "last_rank": 19
+  },
+  "3312719598": {
+    "N": 100,
+    "artist": "Ado",
+    "type": "电子",
+    "duration": 172,
+    "comment_count": 792,
+    "current_rank": 25,
+    "last_rank": 17
+  },
+  "2722447989": {
+    "N": 100,
+    "artist": "鸣潮先约电台",
+    "type": "电子",
+    "duration": 241,
+    "comment_count": 2150,
+    "current_rank": 26,
+    "last_rank": 21
+  },
+  "2720129362": {
+    "N": 100,
+    "artist": "鸣潮先约电台",
+    "type": "电子",
+    "duration": 230,
+    "comment_count": 1981,
+    "current_rank": 27,
+    "last_rank": 22
+  },
+  "2751351950": {
+    "N": 100,
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 195,
+    "comment_count": 895,
+    "current_rank": 28,
+    "last_rank": 20
+  },
+  "2741315465": {
+    "N": 100,
+    "artist": "MyGO!!!!!",
+    "type": "电子",
+    "duration": 239,
+    "comment_count": 2484,
+    "current_rank": 29,
+    "last_rank": 23
+  },
+  "3319350063": {
+    "N": 100,
+    "artist": "第五人格",
+    "type": "电子",
+    "duration": 144,
+    "comment_count": 273,
+    "current_rank": 30,
+    "last_rank": "等于当前排名"
+  },
+  "2756018761": {
+    "N": 100,
+    "artist": "HOYO-MiX",
+    "type": "电子",
+    "duration": 103,
+    "comment_count": 219,
+    "current_rank": 31,
+    "last_rank": 28
+  },
+  "2719777632": {
+    "N": 100,
+    "artist": "恋与深空",
+    "type": "电子",
+    "duration": 298,
+    "comment_count": 3462,
+    "current_rank": 32,
+    "last_rank": 26
+  },
+  "2751379003": {
+    "N": 100,
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 277,
+    "comment_count": 410,
+    "current_rank": 33,
+    "last_rank": 25
+  },
+  "3319348213": {
+    "N": 100,
+    "artist": "第五人格",
+    "type": "电子",
+    "duration": 143,
+    "comment_count": 237,
+    "current_rank": 34,
+    "last_rank": "等于当前排名"
+  },
+  "2723338530": {
+    "N": 100,
+    "artist": "七音阿卡莉",
+    "type": "电子",
+    "duration": 195,
+    "comment_count": 1756,
+    "current_rank": 35,
+    "last_rank": 29
+  },
+  "2745230448": {
+    "N": 100,
+    "artist": "DAIKI(AWSM.)",
+    "type": "电子",
+    "duration": 290,
+    "comment_count": 173,
+    "current_rank": 36,
+    "last_rank": 32
+  },
+  "2751940571": {
+    "N": 100,
+    "artist": "TeddyLoid",
+    "type": "电子",
+    "duration": 170,
+    "comment_count": 131,
+    "current_rank": 37,
+    "last_rank": 46
+  },
+  "2753833710": {
+    "N": 100,
+    "artist": "花譜",
+    "type": "电子",
+    "duration": 169,
+    "comment_count": 222,
+    "current_rank": 38,
+    "last_rank": 30
+  },
+  "2721328674": {
+    "N": 100,
+    "artist": "Vaundy",
+    "type": "电子",
+    "duration": 260,
+    "comment_count": 1966,
+    "current_rank": 39,
+    "last_rank": 31
+  },
+  "2711809790": {
+    "N": 100,
+    "artist": "苏诗丁",
+    "type": "电子",
+    "duration": 290,
+    "comment_count": 1354,
+    "current_rank": 40,
+    "last_rank": 33
+  },
+  "2716065075": {
+    "N": 100,
+    "artist": "汐れいら",
+    "type": "电子",
+    "duration": 277,
+    "comment_count": 756,
+    "current_rank": 41,
+    "last_rank": 38
+  },
+  "2755406555": {
+    "N": 100,
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 212,
+    "comment_count": 250,
+    "current_rank": 42,
+    "last_rank": 35
+  },
+  "2732276292": {
+    "N": 100,
+    "artist": "以闪亮之名",
+    "type": "电子",
+    "duration": 194,
+    "comment_count": 566,
+    "current_rank": 43,
+    "last_rank": 43
+  },
+  "2743433276": {
+    "N": 100,
+    "artist": "上田麗奈",
+    "type": "电子",
+    "duration": 257,
+    "comment_count": 207,
+    "current_rank": 44,
+    "last_rank": 41
+  },
+  "3312019244": {
+    "N": 100,
+    "artist": "Aimer",
+    "type": "电子",
+    "duration": 91,
+    "comment_count": 48,
+    "current_rank": 45,
+    "last_rank": 47
+  },
+  "2724022963": {
+    "N": 100,
+    "artist": "无期迷途",
+    "type": "电子",
+    "duration": 165,
+    "comment_count": 1287,
+    "current_rank": 46,
+    "last_rank": 45
+  },
+  "2715126338": {
+    "N": 100,
+    "artist": "Furui Riho",
+    "type": "电子",
+    "duration": 232,
+    "comment_count": 697,
+    "current_rank": 47,
+    "last_rank": 42
+  },
+  "2725549814": {
+    "N": 100,
+    "artist": "フィロソフィーのダンス",
+    "type": "电子",
+    "duration": 218,
+    "comment_count": 763,
+    "current_rank": 48,
+    "last_rank": 44
+  },
+  "2735863130": {
+    "N": 100,
+    "artist": "八奈见杏菜",
+    "type": "电子",
+    "duration": 205,
+    "comment_count": 131,
+    "current_rank": 49,
+    "last_rank": 37
+  },
+  "2755639815": {
+    "N": 100,
+    "artist": "Uru",
+    "type": "电子",
+    "duration": 210,
+    "comment_count": 150,
+    "current_rank": 50,
+    "last_rank": 48
+  },
+  "2756034903": {
+    "N": 100,
+    "artist": "HOYO-MiX",
+    "type": "电子",
+    "duration": 191,
+    "comment_count": 179,
+    "current_rank": 51,
+    "last_rank": 49
+  },
+  "2721416237": {
+    "N": 100,
+    "artist": "恋与深空",
+    "type": "电子",
+    "duration": 236,
+    "comment_count": 782,
+    "current_rank": 52,
+    "last_rank": 51
+  },
+  "2756019205": {
+    "N": 100,
+    "artist": "HOYO-MiX",
+    "type": "电子",
+    "duration": 133,
+    "comment_count": 180,
+    "current_rank": 53,
+    "last_rank": 39
+  },
+  "2718562172": {
+    "N": 100,
+    "artist": "世界之外",
+    "type": "电子",
+    "duration": 297,
+    "comment_count": 1941,
+    "current_rank": 54,
+    "last_rank": 50
+  },
+  "2736380062": {
+    "N": 100,
+    "artist": "八奈见杏菜",
+    "type": "电子",
+    "duration": 110,
+    "comment_count": 272,
+    "current_rank": 55,
+    "last_rank": 52
+  },
+  "2721697533": {
+    "N": 100,
+    "artist": "Creepy Nuts",
+    "type": "电子",
+    "duration": 138,
+    "comment_count": 1087,
+    "current_rank": 56,
+    "last_rank": 53
+  },
+  "2754204398": {
+    "N": 100,
+    "artist": "友成空",
+    "type": "电子",
+    "duration": 209,
+    "comment_count": 131,
+    "current_rank": 57,
+    "last_rank": 40
+  },
+  "3313795894": {
+    "N": 100,
+    "artist": "早見沙織",
+    "type": "电子",
+    "duration": 198,
+    "comment_count": 51,
+    "current_rank": 58,
+    "last_rank": "等于当前排名"
+  },
+  "2712336626": {
+    "N": 100,
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 240,
+    "comment_count": 2000,
+    "current_rank": 59,
+    "last_rank": 62
+  },
+  "2747528475": {
+    "N": 100,
+    "artist": "シユイ",
+    "type": "电子",
+    "duration": 219,
+    "comment_count": 136,
+    "current_rank": 60,
+    "last_rank": 58
+  },
+  "2748947666": {
+    "N": 100,
+    "artist": "梅田修一朗",
+    "type": "电子",
+    "duration": 90,
+    "comment_count": 118,
+    "current_rank": 61,
+    "last_rank": 91
+  },
+  "2756018768": {
+    "N": 100,
+    "artist": "HOYO-MiX",
+    "type": "电子",
+    "duration": 131,
+    "comment_count": 119,
+    "current_rank": 62,
+    "last_rank": "等于当前排名"
+  },
+  "2749389579": {
+    "N": 100,
+    "artist": "BE:FIRST",
+    "type": "电子",
+    "duration": 197,
+    "comment_count": 125,
+    "current_rank": 63,
+    "last_rank": 77
+  },
+  "2723357459": {
+    "N": 100,
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 210,
+    "comment_count": 1012,
+    "current_rank": 64,
+    "last_rank": 63
+  },
+  "3313987952": {
+    "N": 100,
+    "artist": "佐藤日向",
+    "type": "电子",
+    "duration": 287,
+    "comment_count": 78,
+    "current_rank": 65,
+    "last_rank": "等于当前排名"
+  },
+  "2724725170": {
+    "N": 100,
+    "artist": "ReoNa",
+    "type": "电子",
+    "duration": 242,
+    "comment_count": 339,
+    "current_rank": 66,
+    "last_rank": 57
+  },
+  "2751351951": {
+    "N": 100,
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 164,
+    "comment_count": 334,
+    "current_rank": 67,
+    "last_rank": 59
+  },
+  "2743175270": {
+    "N": 100,
+    "artist": "第五人格",
+    "type": "电子",
+    "duration": 172,
+    "comment_count": 625,
+    "current_rank": 68,
+    "last_rank": "等于当前排名"
+  },
+  "2721698290": {
+    "N": 100,
+    "artist": "キタニタツヤ",
+    "type": "电子",
+    "duration": 207,
+    "comment_count": 629,
+    "current_rank": 69,
+    "last_rank": 68
+  },
+  "2751938831": {
+    "N": 100,
+    "artist": "TeddyLoid",
+    "type": "电子",
+    "duration": 176,
+    "comment_count": 97,
+    "current_rank": 70,
+    "last_rank": 65
+  },
+  "2718563207": {
+    "N": 100,
+    "artist": "世界之外",
+    "type": "电子",
+    "duration": 241,
+    "comment_count": 1207,
+    "current_rank": 71,
+    "last_rank": 69
+  },
+  "2757943684": {
+    "N": 100,
+    "artist": "TeddyLoid",
+    "type": "电子",
+    "duration": 164,
+    "comment_count": 39,
+    "current_rank": 72,
+    "last_rank": "等于当前排名"
+  },
+  "2743214030": {
+    "N": 100,
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 152,
+    "comment_count": 427,
+    "current_rank": 73,
+    "last_rank": 75
+  },
+  "2739356640": {
+    "N": 100,
+    "artist": "无期迷途",
+    "type": "电子",
+    "duration": 219,
+    "comment_count": 490,
+    "current_rank": 74,
+    "last_rank": 67
+  },
+  "2726915797": {
+    "N": 100,
+    "artist": "TOOBOE",
+    "type": "电子",
+    "duration": 171,
+    "comment_count": 558,
+    "current_rank": 75,
+    "last_rank": 64
+  },
+  "2721762189": {
+    "N": 100,
+    "artist": "音羽-otoha-",
+    "type": "电子",
+    "duration": 258,
+    "comment_count": 436,
+    "current_rank": 76,
+    "last_rank": 73
+  },
+  "2745371115": {
+    "N": 100,
+    "artist": "Zhevincia",
+    "type": "电子",
+    "duration": 120,
+    "comment_count": 231,
+    "current_rank": 77,
+    "last_rank": 90
+  },
+  "2751352316": {
+    "N": 100,
+    "artist": "こはならむ",
+    "type": "电子",
+    "duration": 230,
+    "comment_count": 254,
+    "current_rank": 78,
+    "last_rank": 87
+  },
+  "2724130094": {
+    "N": 100,
+    "artist": "須田景凪",
+    "type": "电子",
+    "duration": 187,
+    "comment_count": 153,
+    "current_rank": 79,
+    "last_rank": 80
+  },
+  "2757219978": {
+    "N": 100,
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 126,
+    "comment_count": 214,
+    "current_rank": 80,
+    "last_rank": 66
+  },
+  "2726248734": {
+    "N": 100,
+    "artist": "Official髭男dism",
+    "type": "电子",
+    "duration": 302,
+    "comment_count": 505,
+    "current_rank": 81,
+    "last_rank": 78
+  },
+  "2721332245": {
+    "N": 100,
+    "artist": "羊文学",
+    "type": "电子",
+    "duration": 245,
+    "comment_count": 345,
+    "current_rank": 82,
+    "last_rank": 70
+  },
+  "2758133115": {
+    "N": 100,
+    "artist": "RAISE A SUILEN",
+    "type": "电子",
+    "duration": 216,
+    "comment_count": 86,
+    "current_rank": 83,
+    "last_rank": 54
+  },
+  "2717604506": {
+    "N": 100,
+    "artist": "オーイシマサヨシ",
+    "type": "电子",
+    "duration": 177,
+    "comment_count": 1413,
+    "current_rank": 84,
+    "last_rank": 83
+  },
+  "2751940572": {
+    "N": 100,
+    "artist": "TeddyLoid",
+    "type": "电子",
+    "duration": 184,
+    "comment_count": 105,
+    "current_rank": 85,
+    "last_rank": "等于当前排名"
+  },
+  "3313987317": {
+    "N": 100,
+    "artist": "生田輝",
+    "type": "电子",
+    "duration": 277,
+    "comment_count": 58,
+    "current_rank": 86,
+    "last_rank": "等于当前排名"
+  },
+  "2736705380": {
+    "N": 100,
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 180,
+    "comment_count": 545,
+    "current_rank": 87,
+    "last_rank": 84
+  },
+  "2722052934": {
+    "N": 100,
+    "artist": "Myuk",
+    "type": "电子",
+    "duration": 211,
+    "comment_count": 246,
+    "current_rank": 88,
+    "last_rank": 86
+  },
+  "2739596242": {
+    "N": 100,
+    "artist": "时空中的绘旅人",
+    "type": "电子",
+    "duration": 74,
+    "comment_count": 844,
+    "current_rank": 89,
+    "last_rank": "等于当前排名"
+  },
+  "2707321635": {
+    "N": 100,
+    "artist": "Cascade of…",
+    "type": "电子",
+    "duration": 259,
+    "comment_count": 690,
+    "current_rank": 90,
+    "last_rank": 81
+  },
+  "2733034343": {
+    "N": 100,
+    "artist": "澤野弘之",
+    "type": "电子",
+    "duration": 346,
+    "comment_count": 301,
+    "current_rank": 91,
+    "last_rank": 93
+  },
+  "2706706011": {
+    "N": 100,
+    "artist": "ano",
+    "type": "电子",
+    "duration": 184,
+    "comment_count": 1244,
+    "current_rank": 92,
+    "last_rank": 94
+  },
+  "2730145369": {
+    "N": 100,
+    "artist": "暖暖",
+    "type": "电子",
+    "duration": 181,
+    "comment_count": 1013,
+    "current_rank": 93,
+    "last_rank": 92
+  },
+  "2733684683": {
+    "N": 100,
+    "artist": "96猫",
+    "type": "电子",
+    "duration": 186,
+    "comment_count": 349,
+    "current_rank": 94,
+    "last_rank": 76
+  },
+  "3313987318": {
+    "N": 100,
+    "artist": "富田麻帆",
+    "type": "电子",
+    "duration": 292,
+    "comment_count": 36,
+    "current_rank": 95,
+    "last_rank": "等于当前排名"
+  },
+  "2709403466": {
+    "N": 100,
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 260,
+    "comment_count": 1055,
+    "current_rank": 96,
+    "last_rank": 96
+  },
+  "2751938830": {
+    "N": 100,
+    "artist": "TeddyLoid",
+    "type": "电子",
+    "duration": 218,
+    "comment_count": 242,
+    "current_rank": 97,
+    "last_rank": 85
+  },
+  "2758133114": {
+    "N": 100,
+    "artist": "RAISE A SUILEN",
+    "type": "电子",
+    "duration": 255,
+    "comment_count": 38,
+    "current_rank": 98,
+    "last_rank": "等于当前排名"
+  },
+  "2749738591": {
+    "N": 100,
+    "artist": "KID PHENOMENON",
+    "type": "电子",
+    "duration": 210,
+    "comment_count": 119,
+    "current_rank": 99,
+    "last_rank": "等于当前排名"
+  },
+  "2724131075": {
+    "N": 100,
+    "artist": "DUSTCELL",
+    "type": "电子",
+    "duration": 210,
+    "comment_count": 332,
+    "current_rank": 100,
+    "last_rank": "等于当前排名"
+  },
+  "2759426653": {
+    "N": 50,
+    "artist": "Gareth.T",
+    "type": "中文说唱",
+    "duration": 183,
+    "comment_count": 20281,
+    "current_rank": 1,
+    "last_rank": 0
+  },
+  "3318010850": {
+    "N": 50,
+    "artist": "盛宇D-SHINE",
+    "type": "中文说唱",
+    "duration": 148,
+    "comment_count": 1634,
+    "current_rank": 2,
+    "last_rank": "等于当前排名"
+  },
+  "3312738881": {
+    "N": 50,
+    "artist": "GALI",
+    "type": "中文说唱",
+    "duration": 189,
+    "comment_count": 3790,
+    "current_rank": 3,
+    "last_rank": 1
+  },
+  "2749525442": {
+    "N": 50,
+    "artist": "SASIOVERLXRD",
+    "type": "中文说唱",
+    "duration": 165,
+    "comment_count": 7096,
+    "current_rank": 4,
+    "last_rank": 2
+  },
+  "2749525429": {
+    "N": 50,
+    "artist": "SASIOVERLXRD",
+    "type": "中文说唱",
+    "duration": 117,
+    "comment_count": 8022,
+    "current_rank": 5,
+    "last_rank": 3
+  },
+  "2755030698": {
+    "N": 50,
+    "artist": "艾志恒Asen",
+    "type": "中文说唱",
+    "duration": 165,
+    "comment_count": 8222,
+    "current_rank": 6,
+    "last_rank": 4
+  },
+  "3315209589": {
+    "N": 50,
+    "artist": "艾洛樱Aluvin",
+    "type": "中文说唱",
+    "duration": 196,
+    "comment_count": 1515,
+    "current_rank": 7,
+    "last_rank": 13
+  },
+  "2757535734": {
+    "N": 50,
+    "artist": "王齐铭WatchMe",
+    "type": "中文说唱",
+    "duration": 184,
+    "comment_count": 10824,
+    "current_rank": 8,
+    "last_rank": 5
+  },
+  "2753714634": {
+    "N": 50,
+    "artist": "马思唯",
+    "type": "中文说唱",
+    "duration": 200,
+    "comment_count": 2758,
+    "current_rank": 9,
+    "last_rank": 6
+  },
+  "2754174746": {
+    "N": 50,
+    "artist": "艾志恒Asen",
+    "type": "中文说唱",
+    "duration": 183,
+    "comment_count": 23083,
+    "current_rank": 10,
+    "last_rank": 10
+  },
+  "3312623223": {
+    "N": 50,
+    "artist": "APMOZART",
+    "type": "中文说唱",
+    "duration": 182,
+    "comment_count": 15916,
+    "current_rank": 11,
+    "last_rank": 9
+  },
+  "2749755008": {
+    "N": 50,
+    "artist": "柴行敏",
+    "type": "中文说唱",
+    "duration": 123,
+    "comment_count": 4219,
+    "current_rank": 12,
+    "last_rank": 11
+  },
+  "2754175477": {
+    "N": 50,
+    "artist": "艾志恒Asen",
+    "type": "中文说唱",
+    "duration": 245,
+    "comment_count": 25699,
+    "current_rank": 13,
+    "last_rank": 15
+  },
+  "3312190219": {
+    "N": 50,
+    "artist": "OuttaWave",
+    "type": "中文说唱",
+    "duration": 164,
+    "comment_count": 1551,
+    "current_rank": 14,
+    "last_rank": 8
+  },
+  "2751267244": {
+    "N": 50,
+    "artist": "王齐铭WatchMe",
+    "type": "中文说唱",
+    "duration": 140,
+    "comment_count": 4458,
+    "current_rank": 15,
+    "last_rank": 12
+  },
+  "2756052140": {
+    "N": 50,
+    "artist": "海洋Bo",
+    "type": "中文说唱",
+    "duration": 213,
+    "comment_count": 267,
+    "current_rank": 16,
+    "last_rank": 40
+  },
+  "2757535735": {
+    "N": 50,
+    "artist": "王齐铭WatchMe",
+    "type": "中文说唱",
+    "duration": 161,
+    "comment_count": 1690,
+    "current_rank": 17,
+    "last_rank": 14
+  },
+  "3316584402": {
+    "N": 50,
+    "artist": "杭异凡",
+    "type": "中文说唱",
+    "duration": 208,
+    "comment_count": 1682,
+    "current_rank": 18,
+    "last_rank": 7
+  },
+  "3312206017": {
+    "N": 50,
+    "artist": "BOBBYNOPEACE",
+    "type": "中文说唱",
+    "duration": 144,
+    "comment_count": 27024,
+    "current_rank": 19,
+    "last_rank": 16
+  },
+  "2749440963": {
+    "N": 50,
+    "artist": "宝石Gem",
+    "type": "中文说唱",
+    "duration": 209,
+    "comment_count": 1561,
+    "current_rank": 20,
+    "last_rank": 17
+  },
+  "3318040610": {
+    "N": 50,
+    "artist": "马赫mood",
+    "type": "中文说唱",
+    "duration": 258,
+    "comment_count": 1431,
+    "current_rank": 21,
+    "last_rank": "等于当前排名"
+  },
+  "2753714636": {
+    "N": 50,
+    "artist": "马思唯",
+    "type": "中文说唱",
+    "duration": 156,
+    "comment_count": 29612,
+    "current_rank": 22,
+    "last_rank": 24
+  },
+  "2754175476": {
+    "N": 50,
+    "artist": "艾志恒Asen",
+    "type": "中文说唱",
+    "duration": 134,
+    "comment_count": 6268,
+    "current_rank": 23,
+    "last_rank": 21
+  },
+  "3312734747": {
+    "N": 50,
+    "artist": "王鹤棣",
+    "type": "中文说唱",
+    "duration": 195,
+    "comment_count": 4887,
+    "current_rank": 24,
+    "last_rank": 35
+  },
+  "3312623966": {
+    "N": 50,
+    "artist": "APMOZART",
+    "type": "中文说唱",
+    "duration": 186,
+    "comment_count": 2038,
+    "current_rank": 25,
+    "last_rank": 18
+  },
+  "2758524840": {
+    "N": 50,
+    "artist": "三火flame",
+    "type": "中文说唱",
+    "duration": 123,
+    "comment_count": 1587,
+    "current_rank": 26,
+    "last_rank": 25
+  },
+  "2749440964": {
+    "N": 50,
+    "artist": "宝石Gem",
+    "type": "中文说唱",
+    "duration": 188,
+    "comment_count": 3273,
+    "current_rank": 27,
+    "last_rank": 30
+  },
+  "3315254859": {
+    "N": 50,
+    "artist": "亞細亞曠世奇才",
+    "type": "中文说唱",
+    "duration": 194,
+    "comment_count": 1535,
+    "current_rank": 28,
+    "last_rank": 22
+  },
+  "2754174752": {
+    "N": 50,
+    "artist": "艾志恒Asen",
+    "type": "中文说唱",
+    "duration": 188,
+    "comment_count": 3250,
+    "current_rank": 29,
+    "last_rank": 28
+  },
+  "2754174747": {
+    "N": 50,
+    "artist": "艾志恒Asen",
+    "type": "中文说唱",
+    "duration": 179,
+    "comment_count": 4226,
+    "current_rank": 30,
+    "last_rank": "等于当前排名"
+  },
+  "2755082611": {
+    "N": 50,
+    "artist": "王齐铭WatchMe",
+    "type": "中文说唱",
+    "duration": 162,
+    "comment_count": 4362,
+    "current_rank": 31,
+    "last_rank": 20
+  },
+  "2747401481": {
+    "N": 50,
+    "artist": "africakid",
+    "type": "中文说唱",
+    "duration": 166,
+    "comment_count": 2258,
+    "current_rank": 32,
+    "last_rank": 41
+  },
+  "2754510819": {
+    "N": 50,
+    "artist": "EvilJoker",
+    "type": "中文说唱",
+    "duration": 179,
+    "comment_count": 822,
+    "current_rank": 33,
+    "last_rank": 37
+  },
+  "3312960389": {
+    "N": 50,
+    "artist": "MULA SAKEE",
+    "type": "中文说唱",
+    "duration": 247,
+    "comment_count": 4199,
+    "current_rank": 34,
+    "last_rank": 23
+  },
+  "2755363089": {
+    "N": 50,
+    "artist": "程思源",
+    "type": "中文说唱",
+    "duration": 152,
+    "comment_count": 1020,
+    "current_rank": 35,
+    "last_rank": 33
+  },
+  "2757535738": {
+    "N": 50,
+    "artist": "王齐铭WatchMe",
+    "type": "中文说唱",
+    "duration": 163,
+    "comment_count": 666,
+    "current_rank": 36,
+    "last_rank": "等于当前排名"
+  },
+  "2757538156": {
+    "N": 50,
+    "artist": "王齐铭WatchMe",
+    "type": "中文说唱",
+    "duration": 129,
+    "comment_count": 573,
+    "current_rank": 37,
+    "last_rank": 31
+  },
+  "2759793307": {
+    "N": 50,
+    "artist": "福来",
+    "type": "中文说唱",
+    "duration": 193,
+    "comment_count": 1907,
+    "current_rank": 38,
+    "last_rank": 34
+  },
+  "3312202510": {
+    "N": 50,
+    "artist": "Cool-Aid陈轶伦",
+    "type": "中文说唱",
+    "duration": 148,
+    "comment_count": 650,
+    "current_rank": 39,
+    "last_rank": 32
+  },
+  "3312623232": {
+    "N": 50,
+    "artist": "APMOZART",
+    "type": "中文说唱",
+    "duration": 164,
+    "comment_count": 1945,
+    "current_rank": 40,
+    "last_rank": 26
+  },
+  "2753714638": {
+    "N": 50,
+    "artist": "马思唯",
+    "type": "中文说唱",
+    "duration": 195,
+    "comment_count": 2400,
+    "current_rank": 41,
+    "last_rank": "等于当前排名"
+  },
+  "2746893225": {
+    "N": 50,
+    "artist": "FEEEleven",
+    "type": "中文说唱",
+    "duration": 180,
+    "comment_count": 5490,
+    "current_rank": 42,
+    "last_rank": 39
+  },
+  "3317670133": {
+    "N": 50,
+    "artist": "Yaka",
+    "type": "中文说唱",
+    "duration": 149,
+    "comment_count": 210,
+    "current_rank": 43,
+    "last_rank": "等于当前排名"
+  },
+  "2756382547": {
+    "N": 50,
+    "artist": "零赫兹0HZ",
+    "type": "中文说唱",
+    "duration": 165,
+    "comment_count": 516,
+    "current_rank": 44,
+    "last_rank": 49
+  },
+  "2749524734": {
+    "N": 50,
+    "artist": "SASIOVERLXRD",
+    "type": "中文说唱",
+    "duration": 150,
+    "comment_count": 2308,
+    "current_rank": 45,
+    "last_rank": "等于当前排名"
+  },
+  "2752898270": {
+    "N": 50,
+    "artist": "UD",
+    "type": "中文说唱",
+    "duration": 98,
+    "comment_count": 1171,
+    "current_rank": 46,
+    "last_rank": "等于当前排名"
+  },
+  "2753713693": {
+    "N": 50,
+    "artist": "马思唯",
+    "type": "中文说唱",
+    "duration": 144,
+    "comment_count": 1641,
+    "current_rank": 47,
+    "last_rank": 46
+  },
+  "2758227085": {
+    "N": 50,
+    "artist": "河南说唱之神",
+    "type": "中文说唱",
+    "duration": 133,
+    "comment_count": 2522,
+    "current_rank": 48,
+    "last_rank": 42
+  },
+  "3317821067": {
+    "N": 50,
+    "artist": "扣子COOZI",
+    "type": "中文说唱",
+    "duration": 133,
+    "comment_count": 108,
+    "current_rank": 49,
+    "last_rank": "等于当前排名"
+  },
+  "2750708474": {
+    "N": 50,
+    "artist": "Rapeter",
+    "type": "中文说唱",
+    "duration": 169,
+    "comment_count": 513,
+    "current_rank": 50,
+    "last_rank": 48
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "playlist_info": {
+    "id": "5059633707",
+    "name": "韩国榜",
+    "type": "韩语",
+    "fav_count": "89666",
+    "share_count": "1640",
+    "comment_count": "2860",
+    "song_count": 10,
+    "update_time": "2025-11-24 01:47:56"
+  },
+  "songs": [
+    {
+      "id": "2738715964",
+      "name": "染春",
+      "artist": "回春丹",
+      "album": "大把时间璀璨",
+      "pic_url": "http://p1.music.126.net/_gJgbfqTgWH2T1vk1Br1ig==/109951171911478103.jpg",
+      "last_rank": 0,
+      "current_rank": 1,
+      "type": "韩语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2738715964.mp3",
+      "duration": 206,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 2244
+      }
+    },
+    {
+      "id": "2713954106",
+      "name": "Unslept",
+      "artist": "未來電波基地",
+      "album": "Unslept",
+      "pic_url": "http://p1.music.126.net/407TeAGlzD1QpE1Vg8tEmg==/109951171287527499.jpg",
+      "last_rank": 1,
+      "current_rank": 2,
+      "type": "韩语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2713954106.mp3",
+      "duration": 130,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 3660
+      }
+    },
+    {
+      "id": "3319483197",
+      "name": "DARMA GRAND PRIX",
+      "artist": "ヨルシカ",
+      "album": "DARMA GRAND PRIX",
+      "pic_url": "http://p1.music.126.net/PkmPhPgPtTl8GXjNFjKrWg==/109951172310524627.jpg",
+      "last_rank": "等于当前排名",
+      "current_rank": 3,
+      "type": "韩语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=3319483197.mp3",
+      "duration": 259,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 688
+      }
+    },
+    {
+      "id": "3319483203",
+      "name": "有心論",
+      "artist": "ずっと真夜中でいいのに。",
+      "album": "有心論",
+      "pic_url": "http://p1.music.126.net/VMOmfOJvfGUAQGa0jw5iMg==/109951172310528562.jpg",
+      "last_rank": "等于当前排名",
+      "current_rank": 4,
+      "type": "韩语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=3319483203.mp3",
+      "duration": 248,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 542
+      }
+    },
+    {
+      "id": "2738715961",
+      "name": "喝彩",
+      "artist": "回春丹",
+      "album": "大把时间璀璨",
+      "pic_url": "http://p1.music.126.net/_gJgbfqTgWH2T1vk1Br1ig==/109951171911478103.jpg",
+      "last_rank": 7,
+      "current_rank": 5,
+      "type": "韩语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2738715961.mp3",
+      "duration": 195,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 4167
+      }
+    },
+    {
+      "id": "2745413584",
+      "name": "给我",
+      "artist": "犬儒乐队",
+      "album": "心房",
+      "pic_url": "http://p1.music.126.net/mXcruATpSaUXK3VzTlDaCw==/109951172002478984.jpg",
+      "last_rank": 3,
+      "current_rank": 6,
+      "type": "韩语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2745413584.mp3",
+      "duration": 370,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 1798
+      }
+    },
+    {
+      "id": "2744534597",
+      "name": "心房",
+      "artist": "犬儒乐队",
+      "album": "心房",
+      "pic_url": "http://p1.music.126.net/mXcruATpSaUXK3VzTlDaCw==/109951172002478984.jpg",
+      "last_rank": 5,
+      "current_rank": 7,
+      "type": "韩语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2744534597.mp3",
+      "duration": 562,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 3006
+      }
+    },
+    {
+      "id": "2738715965",
+      "name": "鲜花",
+      "artist": "回春丹",
+      "album": "大把时间璀璨",
+      "pic_url": "http://p1.music.126.net/_gJgbfqTgWH2T1vk1Br1ig==/109951171911478103.jpg",
+      "last_rank": 4,
+      "current_rank": 8,
+      "type": "韩语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2738715965.mp3",
+      "duration": 341,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 794
+      }
+    },
+    {
+      "id": "2745413582",
+      "name": "白鸟",
+      "artist": "犬儒乐队",
+      "album": "心房",
+      "pic_url": "http://p1.music.126.net/mXcruATpSaUXK3VzTlDaCw==/109951172002478984.jpg",
+      "last_rank": 6,
+      "current_rank": 9,
+      "type": "韩语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2745413582.mp3",
+      "duration": 411,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 1459
+      }
+    },
+    {
+      "id": "2758137943",
+      "name": "理想主义",
+      "artist": "秋野乐队",
+      "album": "理想主义",
+      "pic_url": "http://p1.music.126.net/HooSI4y1S8GFrQPEXvurpQ==/109951172321472446.jpg",
+      "last_rank": 8,
+      "current_rank": 10,
+      "type": "韩语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2758137943.mp3",
+      "duration": 218,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 3275
+      }
+    }
+  ]
+}

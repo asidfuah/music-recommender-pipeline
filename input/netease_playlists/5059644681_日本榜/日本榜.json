@@ -1,0 +1,194 @@
+{
+  "playlist_info": {
+    "id": "5059644681",
+    "name": "日本榜",
+    "type": "日语",
+    "fav_count": "117095",
+    "share_count": "475",
+    "comment_count": "3103",
+    "song_count": 10,
+    "update_time": "2025-11-24 01:48:00"
+  },
+  "songs": [
+    {
+      "id": "2747166493",
+      "name": "JANE DOE",
+      "artist": "米津玄師",
+      "album": "JANE DOE",
+      "pic_url": "http://p2.music.126.net/z8vkaskRIKrLhTZ0zrqzDg==/109951172028084335.jpg",
+      "last_rank": 0,
+      "current_rank": 1,
+      "type": "日语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2747166493.mp3",
+      "duration": 236,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 5972
+      }
+    },
+    {
+      "id": "2749049796",
+      "name": "愛属性",
+      "artist": "ピノキオピー",
+      "album": "愛属性",
+      "pic_url": "http://p2.music.126.net/pdKj_OtlHt4Iv7-XbcqWwA==/109951172055533023.jpg",
+      "last_rank": 1,
+      "current_rank": 2,
+      "type": "日语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2749049796.mp3",
+      "duration": 173,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 12061
+      }
+    },
+    {
+      "id": "2737471087",
+      "name": "ドゥーマー",
+      "artist": "東京真中",
+      "album": "ドゥーマー",
+      "pic_url": "http://p2.music.126.net/DlI6TjhvGEmDeW-NNCQeVg==/109951171891390413.jpg",
+      "last_rank": 5,
+      "current_rank": 3,
+      "type": "日语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2737471087.mp3",
+      "duration": 148,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 1936
+      }
+    },
+    {
+      "id": "3314692780",
+      "name": "カイコ",
+      "artist": "DECO*27",
+      "album": "カイコ",
+      "pic_url": "http://p2.music.126.net/-BSiiFCG3af8tGe8IayXvg==/109951172240436598.jpg",
+      "last_rank": 2,
+      "current_rank": 4,
+      "type": "日语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=3314692780.mp3",
+      "duration": 151,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 2416
+      }
+    },
+    {
+      "id": "2735484466",
+      "name": "モニタリング (Best Friend Remix)",
+      "artist": "DECO*27",
+      "album": "モニタリング (Best Friend Remix)",
+      "pic_url": "http://p2.music.126.net/MS2OJ66gPnSUPST4GrXUKw==/109951171841383870.jpg",
+      "last_rank": 3,
+      "current_rank": 5,
+      "type": "日语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2735484466.mp3",
+      "duration": 178,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 4362
+      }
+    },
+    {
+      "id": "2745026895",
+      "name": "IRIS OUT",
+      "artist": "米津玄師",
+      "album": "IRIS OUT",
+      "pic_url": "http://p2.music.126.net/X9wPjRlR4H39vjJtAzVA9Q==/109951171998034780.jpg",
+      "last_rank": 4,
+      "current_rank": 6,
+      "type": "日语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2745026895.mp3",
+      "duration": 151,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 4253
+      }
+    },
+    {
+      "id": "2707202386",
+      "name": "プロポーズ",
+      "artist": "なとり",
+      "album": "プロポーズ",
+      "pic_url": "http://p2.music.126.net/IdIsdtELPKlPhD04UJtwFw==/109951171010336069.jpg",
+      "last_rank": 8,
+      "current_rank": 7,
+      "type": "日语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2707202386.mp3",
+      "duration": 178,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 2290
+      }
+    },
+    {
+      "id": "2755971761",
+      "name": "Little Bouquet",
+      "artist": "Aimer",
+      "album": "Little Bouquet",
+      "pic_url": "http://p2.music.126.net/_mWOOHchpWGvknCQnODdEg==/109951172156655329.jpg",
+      "last_rank": 12,
+      "current_rank": 8,
+      "type": "日语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2755971761.mp3",
+      "duration": 251,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 607
+      }
+    },
+    {
+      "id": "2713954106",
+      "name": "Unslept",
+      "artist": "未來電波基地",
+      "album": "Unslept",
+      "pic_url": "http://p2.music.126.net/407TeAGlzD1QpE1Vg8tEmg==/109951171287527499.jpg",
+      "last_rank": 6,
+      "current_rank": 9,
+      "type": "日语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2713954106.mp3",
+      "duration": 130,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 3660
+      }
+    },
+    {
+      "id": "2716424334",
+      "name": "T氏の話を信じるな (feat. 初音ミク & 重音テト)",
+      "artist": "ピノキオピー",
+      "album": "T氏の話を信じるな (feat. 初音ミク & 重音テト)",
+      "pic_url": "http://p2.music.126.net/DmrEz0M4GwSeISIReCNNgw==/109951171319581237.jpg",
+      "last_rank": 9,
+      "current_rank": 10,
+      "type": "日语",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2716424334.mp3",
+      "duration": 163,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 14524
+      }
+    }
+  ]
+}

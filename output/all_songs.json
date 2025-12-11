@@ -1,0 +1,5162 @@
+[
+  {
+    "id": "2727830332",
+    "name": "Sugar On My Tongue",
+    "artist": "Tyler, The Creator",
+    "type": "欧美说唱",
+    "duration": 153,
+    "current_rank": 1,
+    "last_rank": 0,
+    "stats": {
+      "comment_count": 5021
+    }
+  },
+  {
+    "id": "2758208876",
+    "name": "TURN UP",
+    "artist": "PlaqueBoyMax",
+    "type": "欧美说唱",
+    "duration": 153,
+    "current_rank": 2,
+    "last_rank": 1,
+    "stats": {
+      "comment_count": 871
+    }
+  },
+  {
+    "id": "2725907767",
+    "name": "in my zone",
+    "artist": "VALORANT",
+    "type": "欧美说唱",
+    "duration": 172,
+    "current_rank": 3,
+    "last_rank": 2,
+    "stats": {
+      "comment_count": 6414
+    }
+  },
+  {
+    "id": "2722724910",
+    "name": "What Did I Miss?",
+    "artist": "Drake",
+    "type": "欧美说唱",
+    "duration": 194,
+    "current_rank": 4,
+    "last_rank": 6,
+    "stats": {
+      "comment_count": 3514
+    }
+  },
+  {
+    "id": "2756262377",
+    "name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+    "artist": "Ty Dolla $ign",
+    "type": "欧美说唱",
+    "duration": 132,
+    "current_rank": 5,
+    "last_rank": 3,
+    "stats": {
+      "comment_count": 345
+    }
+  },
+  {
+    "id": "3316862906",
+    "name": "PS118 (feat. Rapsody)",
+    "artist": "JURIN ASAYA",
+    "type": "欧美说唱",
+    "duration": 160,
+    "current_rank": 6,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 473
+    }
+  },
+  {
+    "id": "3317578926",
+    "name": "Please Me",
+    "artist": "Cardi B",
+    "type": "欧美说唱",
+    "duration": 200,
+    "current_rank": 7,
+    "last_rank": 5,
+    "stats": {
+      "comment_count": 129
+    }
+  },
+  {
+    "id": "2754092574",
+    "name": "Fendi 2",
+    "artist": "Rakhim",
+    "type": "欧美说唱",
+    "duration": 90,
+    "current_rank": 8,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 178
+    }
+  },
+  {
+    "id": "2752200364",
+    "name": "Mardi Gras (Go Crazy) (Seoul 2 Okinawa Version)",
+    "artist": "P-Lo",
+    "type": "欧美说唱",
+    "duration": 186,
+    "current_rank": 9,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 210
+    }
+  },
+  {
+    "id": "2714379956",
+    "name": "Somehow",
+    "artist": "Ray Saetta",
+    "type": "欧美说唱",
+    "duration": 181,
+    "current_rank": 10,
+    "last_rank": 10,
+    "stats": {
+      "comment_count": 1238
+    }
+  },
+  {
+    "id": "2719101070",
+    "name": "MONTAGEM XONADA",
+    "artist": "MXZI",
+    "type": "电子音乐",
+    "duration": 75,
+    "current_rank": 1,
+    "last_rank": 0,
+    "stats": {
+      "comment_count": 17582
+    }
+  },
+  {
+    "id": "2744112026",
+    "name": "弥渡山歌 (PHONK)",
+    "artist": "羊音乐",
+    "type": "电子音乐",
+    "duration": 120,
+    "current_rank": 2,
+    "last_rank": 1,
+    "stats": {
+      "comment_count": 17539
+    }
+  },
+  {
+    "id": "2724791369",
+    "name": "Montagem Nada",
+    "artist": "Lunak",
+    "type": "电子音乐",
+    "duration": 121,
+    "current_rank": 3,
+    "last_rank": 3,
+    "stats": {
+      "comment_count": 5503
+    }
+  },
+  {
+    "id": "3312929673",
+    "name": "Dynasty It all fell down Redio",
+    "artist": "阿吉野马",
+    "type": "电子音乐",
+    "duration": 112,
+    "current_rank": 4,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 344
+    }
+  },
+  {
+    "id": "2745480944",
+    "name": "The King（Music）",
+    "artist": "Paper.MAN",
+    "type": "电子音乐",
+    "duration": 166,
+    "current_rank": 5,
+    "last_rank": 5,
+    "stats": {
+      "comment_count": 5626
+    }
+  },
+  {
+    "id": "2734939313",
+    "name": "Electronic ibuprofen",
+    "artist": "MerrinZephyr",
+    "type": "电子音乐",
+    "duration": 135,
+    "current_rank": 6,
+    "last_rank": 4,
+    "stats": {
+      "comment_count": 2905
+    }
+  },
+  {
+    "id": "2736452286",
+    "name": "MONTAGEM XONADA (FUNK NA FAVELA)",
+    "artist": "7YE",
+    "type": "电子音乐",
+    "duration": 99,
+    "current_rank": 7,
+    "last_rank": 6,
+    "stats": {
+      "comment_count": 3969
+    }
+  },
+  {
+    "id": "2755842690",
+    "name": "盐津-她遇见我-Yanjin-She Met Me",
+    "artist": "Sister Gertha Lemone",
+    "type": "电子音乐",
+    "duration": 280,
+    "current_rank": 8,
+    "last_rank": 2,
+    "stats": {
+      "comment_count": 1137
+    }
+  },
+  {
+    "id": "2743640694",
+    "name": "nobody (make me feel)",
+    "artist": "oskar med k",
+    "type": "电子音乐",
+    "duration": 165,
+    "current_rank": 9,
+    "last_rank": 14,
+    "stats": {
+      "comment_count": 492
+    }
+  },
+  {
+    "id": "2729766169",
+    "name": "PRESSURE(PHONK)",
+    "artist": "GTR7",
+    "type": "电子音乐",
+    "duration": 134,
+    "current_rank": 10,
+    "last_rank": 7,
+    "stats": {
+      "comment_count": 5659
+    }
+  },
+  {
+    "id": "2743764746",
+    "name": "Scar Face（PHONK）",
+    "artist": "KKK",
+    "type": "电子音乐",
+    "duration": 127,
+    "current_rank": 11,
+    "last_rank": 10,
+    "stats": {
+      "comment_count": 1956
+    }
+  },
+  {
+    "id": "2747584736",
+    "name": "Black Soul",
+    "artist": "Smoke",
+    "type": "电子音乐",
+    "duration": 138,
+    "current_rank": 12,
+    "last_rank": 11,
+    "stats": {
+      "comment_count": 960
+    }
+  },
+  {
+    "id": "2738517998",
+    "name": "Montagem Nada (Phonk)",
+    "artist": "MM77",
+    "type": "电子音乐",
+    "duration": 120,
+    "current_rank": 13,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 233
+    }
+  },
+  {
+    "id": "2746522670",
+    "name": "VAI TOMA TOMA (MENTE MA)",
+    "artist": "7YE",
+    "type": "电子音乐",
+    "duration": 120,
+    "current_rank": 14,
+    "last_rank": 23,
+    "stats": {
+      "comment_count": 1040
+    }
+  },
+  {
+    "id": "2746861703",
+    "name": "Moonwalk（Sped Version）",
+    "artist": "KKK",
+    "type": "电子音乐",
+    "duration": 162,
+    "current_rank": 15,
+    "last_rank": 9,
+    "stats": {
+      "comment_count": 1227
+    }
+  },
+  {
+    "id": "2721110890",
+    "name": "Melodic Minor（Phonk）",
+    "artist": "VZEUS",
+    "type": "电子音乐",
+    "duration": 124,
+    "current_rank": 16,
+    "last_rank": 12,
+    "stats": {
+      "comment_count": 9439
+    }
+  },
+  {
+    "id": "2755067917",
+    "name": "MONTAGEM XONADA 2",
+    "artist": "Lunak",
+    "type": "电子音乐",
+    "duration": 91,
+    "current_rank": 17,
+    "last_rank": 21,
+    "stats": {
+      "comment_count": 516
+    }
+  },
+  {
+    "id": "2709626091",
+    "name": "Vem Vem",
+    "artist": "Jmilton",
+    "type": "电子音乐",
+    "duration": 83,
+    "current_rank": 18,
+    "last_rank": 13,
+    "stats": {
+      "comment_count": 13453
+    }
+  },
+  {
+    "id": "2712194305",
+    "name": "No Broke Boys",
+    "artist": "Disco Lines",
+    "type": "电子音乐",
+    "duration": 163,
+    "current_rank": 19,
+    "last_rank": 16,
+    "stats": {
+      "comment_count": 1474
+    }
+  },
+  {
+    "id": "2747886054",
+    "name": "MONTAGEM SEM PARA 2",
+    "artist": "Lunak",
+    "type": "电子音乐",
+    "duration": 90,
+    "current_rank": 20,
+    "last_rank": 22,
+    "stats": {
+      "comment_count": 718
+    }
+  },
+  {
+    "id": "2729810172",
+    "name": "Montagem Nada Tropic",
+    "artist": "Little Mu, Music Producer",
+    "type": "电子音乐",
+    "duration": 122,
+    "current_rank": 21,
+    "last_rank": 18,
+    "stats": {
+      "comment_count": 4946
+    }
+  },
+  {
+    "id": "2714910127",
+    "name": "ACELERADA",
+    "artist": "sma$her",
+    "type": "电子音乐",
+    "duration": 61,
+    "current_rank": 22,
+    "last_rank": 19,
+    "stats": {
+      "comment_count": 2097
+    }
+  },
+  {
+    "id": "2723078898",
+    "name": "MANGATA",
+    "artist": "GTR7",
+    "type": "电子音乐",
+    "duration": 166,
+    "current_rank": 23,
+    "last_rank": 20,
+    "stats": {
+      "comment_count": 10840
+    }
+  },
+  {
+    "id": "2719333628",
+    "name": "1-800",
+    "artist": "bbno$",
+    "type": "电子音乐",
+    "duration": 209,
+    "current_rank": 24,
+    "last_rank": 15,
+    "stats": {
+      "comment_count": 2339
+    }
+  },
+  {
+    "id": "2750248383",
+    "name": "Open Eyes(PHONK)",
+    "artist": "GTR7",
+    "type": "电子音乐",
+    "duration": 160,
+    "current_rank": 25,
+    "last_rank": 17,
+    "stats": {
+      "comment_count": 1257
+    }
+  },
+  {
+    "id": "2722253787",
+    "name": "绝对压制 Absolute suppression(压制 手法 绝境 突破 自我)",
+    "artist": "BOY",
+    "type": "电子音乐",
+    "duration": 150,
+    "current_rank": 26,
+    "last_rank": 24,
+    "stats": {
+      "comment_count": 17626
+    }
+  },
+  {
+    "id": "3312354474",
+    "name": "Sleeping City Funk",
+    "artist": "DJ RAULIPUES",
+    "type": "电子音乐",
+    "duration": 101,
+    "current_rank": 27,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1106
+    }
+  },
+  {
+    "id": "2721053223",
+    "name": "PASSO FUNK",
+    "artist": "Lunak",
+    "type": "电子音乐",
+    "duration": 125,
+    "current_rank": 28,
+    "last_rank": 25,
+    "stats": {
+      "comment_count": 2902
+    }
+  },
+  {
+    "id": "2754595859",
+    "name": "THE SILENCE",
+    "artist": "sleepyyer",
+    "type": "电子音乐",
+    "duration": 146,
+    "current_rank": 29,
+    "last_rank": 30,
+    "stats": {
+      "comment_count": 378
+    }
+  },
+  {
+    "id": "2759607259",
+    "name": "Moving On",
+    "artist": "Richz",
+    "type": "电子音乐",
+    "duration": 132,
+    "current_rank": 30,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 164
+    }
+  },
+  {
+    "id": "2723942209",
+    "name": "Montagem Supersonic",
+    "artist": "Khaos",
+    "type": "电子音乐",
+    "duration": 87,
+    "current_rank": 31,
+    "last_rank": 26,
+    "stats": {
+      "comment_count": 6678
+    }
+  },
+  {
+    "id": "2733800375",
+    "name": "MEMORIZING",
+    "artist": "DJ DELACROIX",
+    "type": "电子音乐",
+    "duration": 99,
+    "current_rank": 32,
+    "last_rank": 36,
+    "stats": {
+      "comment_count": 862
+    }
+  },
+  {
+    "id": "2738549556",
+    "name": "Vai Toma(PHONK)",
+    "artist": "GTR7",
+    "type": "电子音乐",
+    "duration": 131,
+    "current_rank": 33,
+    "last_rank": 27,
+    "stats": {
+      "comment_count": 1130
+    }
+  },
+  {
+    "id": "2725287357",
+    "name": "MANGATA(绝对压制)",
+    "artist": "GTR7",
+    "type": "电子音乐",
+    "duration": 166,
+    "current_rank": 34,
+    "last_rank": 28,
+    "stats": {
+      "comment_count": 6290
+    }
+  },
+  {
+    "id": "2756104869",
+    "name": "MONACO 1990",
+    "artist": "X Chamber",
+    "type": "电子音乐",
+    "duration": 127,
+    "current_rank": 35,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 416
+    }
+  },
+  {
+    "id": "2741690159",
+    "name": "Montagem Nada phonk",
+    "artist": "F2FZ",
+    "type": "电子音乐",
+    "duration": 134,
+    "current_rank": 36,
+    "last_rank": 46,
+    "stats": {
+      "comment_count": 1725
+    }
+  },
+  {
+    "id": "2742200185",
+    "name": "AMICAMA(PHONK)",
+    "artist": "GTR7",
+    "type": "电子音乐",
+    "duration": 124,
+    "current_rank": 37,
+    "last_rank": 29,
+    "stats": {
+      "comment_count": 721
+    }
+  },
+  {
+    "id": "2739203779",
+    "name": "Crystal Obsidian",
+    "artist": "KNSRK",
+    "type": "电子音乐",
+    "duration": 136,
+    "current_rank": 38,
+    "last_rank": 34,
+    "stats": {
+      "comment_count": 606
+    }
+  },
+  {
+    "id": "2708783407",
+    "name": "OVERLOAD!",
+    "artist": "ASMODEUS",
+    "type": "电子音乐",
+    "duration": 129,
+    "current_rank": 39,
+    "last_rank": 32,
+    "stats": {
+      "comment_count": 3419
+    }
+  },
+  {
+    "id": "2726490296",
+    "name": "Vem Vem V2",
+    "artist": "DT LEXNAT",
+    "type": "电子音乐",
+    "duration": 107,
+    "current_rank": 40,
+    "last_rank": 31,
+    "stats": {
+      "comment_count": 2919
+    }
+  },
+  {
+    "id": "3316563802",
+    "name": "Sailing",
+    "artist": "Alan Walker",
+    "type": "电子音乐",
+    "duration": 228,
+    "current_rank": 41,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 444
+    }
+  },
+  {
+    "id": "2744664065",
+    "name": "弥渡山歌Phonk House",
+    "artist": "Pudding_PD",
+    "type": "电子音乐",
+    "duration": 125,
+    "current_rank": 42,
+    "last_rank": 41,
+    "stats": {
+      "comment_count": 4682
+    }
+  },
+  {
+    "id": "2745545554",
+    "name": "DANÇA DO VERÃO",
+    "artist": "sma$her",
+    "type": "电子音乐",
+    "duration": 62,
+    "current_rank": 43,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 441
+    }
+  },
+  {
+    "id": "2709432103",
+    "name": "Falling again",
+    "artist": "Lunak",
+    "type": "电子音乐",
+    "duration": 147,
+    "current_rank": 44,
+    "last_rank": 43,
+    "stats": {
+      "comment_count": 1995
+    }
+  },
+  {
+    "id": "2725937943",
+    "name": "UwU Funk",
+    "artist": "Lunak",
+    "type": "电子音乐",
+    "duration": 127,
+    "current_rank": 45,
+    "last_rank": 33,
+    "stats": {
+      "comment_count": 1566
+    }
+  },
+  {
+    "id": "2752128676",
+    "name": "HOMAGE FUNK",
+    "artist": "KIXIA",
+    "type": "电子音乐",
+    "duration": 121,
+    "current_rank": 46,
+    "last_rank": 49,
+    "stats": {
+      "comment_count": 665
+    }
+  },
+  {
+    "id": "2721928786",
+    "name": "SEMPERO",
+    "artist": "QMIIR",
+    "type": "电子音乐",
+    "duration": 108,
+    "current_rank": 47,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 299
+    }
+  },
+  {
+    "id": "2715139032",
+    "name": "Got It Now (Phonk)",
+    "artist": "YaKio",
+    "type": "电子音乐",
+    "duration": 113,
+    "current_rank": 48,
+    "last_rank": 45,
+    "stats": {
+      "comment_count": 369
+    }
+  },
+  {
+    "id": "2758900848",
+    "name": "confused future",
+    "artist": "ATOM",
+    "type": "电子音乐",
+    "duration": 202,
+    "current_rank": 49,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1612
+    }
+  },
+  {
+    "id": "2738338863",
+    "name": "Teenage Dreams",
+    "artist": "Lazer Boomerang",
+    "type": "电子音乐",
+    "duration": 342,
+    "current_rank": 50,
+    "last_rank": 39,
+    "stats": {
+      "comment_count": 707
+    }
+  },
+  {
+    "id": "2738715964",
+    "name": "染春",
+    "artist": "回春丹",
+    "type": "韩语",
+    "duration": 206,
+    "current_rank": 1,
+    "last_rank": 0,
+    "stats": {
+      "comment_count": 2244
+    }
+  },
+  {
+    "id": "2713954106",
+    "name": "Unslept",
+    "artist": "未來電波基地",
+    "type": "韩语",
+    "duration": 130,
+    "current_rank": 2,
+    "last_rank": 1,
+    "stats": {
+      "comment_count": 3660
+    }
+  },
+  {
+    "id": "3319483197",
+    "name": "DARMA GRAND PRIX",
+    "artist": "ヨルシカ",
+    "type": "韩语",
+    "duration": 259,
+    "current_rank": 3,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 688
+    }
+  },
+  {
+    "id": "3319483203",
+    "name": "有心論",
+    "artist": "ずっと真夜中でいいのに。",
+    "type": "韩语",
+    "duration": 248,
+    "current_rank": 4,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 542
+    }
+  },
+  {
+    "id": "2738715961",
+    "name": "喝彩",
+    "artist": "回春丹",
+    "type": "韩语",
+    "duration": 195,
+    "current_rank": 5,
+    "last_rank": 7,
+    "stats": {
+      "comment_count": 4167
+    }
+  },
+  {
+    "id": "2745413584",
+    "name": "给我",
+    "artist": "犬儒乐队",
+    "type": "韩语",
+    "duration": 370,
+    "current_rank": 6,
+    "last_rank": 3,
+    "stats": {
+      "comment_count": 1798
+    }
+  },
+  {
+    "id": "2744534597",
+    "name": "心房",
+    "artist": "犬儒乐队",
+    "type": "韩语",
+    "duration": 562,
+    "current_rank": 7,
+    "last_rank": 5,
+    "stats": {
+      "comment_count": 3006
+    }
+  },
+  {
+    "id": "2738715965",
+    "name": "鲜花",
+    "artist": "回春丹",
+    "type": "韩语",
+    "duration": 341,
+    "current_rank": 8,
+    "last_rank": 4,
+    "stats": {
+      "comment_count": 794
+    }
+  },
+  {
+    "id": "2745413582",
+    "name": "白鸟",
+    "artist": "犬儒乐队",
+    "type": "韩语",
+    "duration": 411,
+    "current_rank": 9,
+    "last_rank": 6,
+    "stats": {
+      "comment_count": 1459
+    }
+  },
+  {
+    "id": "2758137943",
+    "name": "理想主义",
+    "artist": "秋野乐队",
+    "type": "韩语",
+    "duration": 218,
+    "current_rank": 10,
+    "last_rank": 8,
+    "stats": {
+      "comment_count": 3275
+    }
+  },
+  {
+    "id": "1842728629",
+    "name": "如果呢",
+    "artist": "郑润泽",
+    "type": "欧美",
+    "duration": 257,
+    "current_rank": 1,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 705967
+    }
+  },
+  {
+    "id": "3319722018",
+    "name": "废话文学",
+    "artist": "郑润泽",
+    "type": "欧美",
+    "duration": 227,
+    "current_rank": 2,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 6981
+    }
+  },
+  {
+    "id": "2108845007",
+    "name": "讴歌",
+    "artist": "Vansdaddy",
+    "type": "欧美",
+    "duration": 135,
+    "current_rank": 3,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 16309
+    }
+  },
+  {
+    "id": "3319817890",
+    "name": "身无居所",
+    "artist": "Vansdaddy",
+    "type": "欧美",
+    "duration": 155,
+    "current_rank": 4,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1339
+    }
+  },
+  {
+    "id": "2756055504",
+    "name": "花",
+    "artist": "海洋Bo",
+    "type": "欧美",
+    "duration": 261,
+    "current_rank": 5,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 2015
+    }
+  },
+  {
+    "id": "3319814367",
+    "name": "晴天四季",
+    "artist": "Vansdaddy",
+    "type": "欧美",
+    "duration": 138,
+    "current_rank": 6,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1299
+    }
+  },
+  {
+    "id": "1359356908",
+    "name": "晚安",
+    "artist": "颜人中",
+    "type": "欧美",
+    "duration": 289,
+    "current_rank": 7,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 442327
+    }
+  },
+  {
+    "id": "3319813281",
+    "name": "四月物语",
+    "artist": "Vansdaddy",
+    "type": "欧美",
+    "duration": 163,
+    "current_rank": 8,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 870
+    }
+  },
+  {
+    "id": "3319813693",
+    "name": "健康",
+    "artist": "Vansdaddy",
+    "type": "欧美",
+    "duration": 205,
+    "current_rank": 9,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1314
+    }
+  },
+  {
+    "id": "3319814570",
+    "name": "东亚焦虑",
+    "artist": "Vansdaddy",
+    "type": "欧美",
+    "duration": 198,
+    "current_rank": 10,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1002
+    }
+  },
+  {
+    "id": "3319814438",
+    "name": "楚门的世界",
+    "artist": "Vansdaddy",
+    "type": "欧美",
+    "duration": 189,
+    "current_rank": 11,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 754
+    }
+  },
+  {
+    "id": "3320401411",
+    "name": "装货 (Live)",
+    "artist": "欧阳娜娜",
+    "type": "欧美",
+    "duration": 194,
+    "current_rank": 12,
+    "last_rank": 20,
+    "stats": {
+      "comment_count": 28076
+    }
+  },
+  {
+    "id": "1926623288",
+    "name": "小胡同",
+    "artist": "郑润泽",
+    "type": "欧美",
+    "duration": 276,
+    "current_rank": 13,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 388535
+    }
+  },
+  {
+    "id": "3320331503",
+    "name": "像晴天像雨天 (live)",
+    "artist": "汪苏泷",
+    "type": "欧美",
+    "duration": 243,
+    "current_rank": 14,
+    "last_rank": 45,
+    "stats": {
+      "comment_count": 5500
+    }
+  },
+  {
+    "id": "2753872890",
+    "name": "VIBE",
+    "artist": "RANGE",
+    "type": "欧美",
+    "duration": 130,
+    "current_rank": 15,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 273
+    }
+  },
+  {
+    "id": "1400259397",
+    "name": "有我呢",
+    "artist": "郭一凡",
+    "type": "欧美",
+    "duration": 274,
+    "current_rank": 16,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 179059
+    }
+  },
+  {
+    "id": "2018733994",
+    "name": "遐想",
+    "artist": "郑润泽",
+    "type": "欧美",
+    "duration": 189,
+    "current_rank": 17,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 202638
+    }
+  },
+  {
+    "id": "3320331526",
+    "name": "一直很安静 (live)",
+    "artist": "颜人中",
+    "type": "欧美",
+    "duration": 209,
+    "current_rank": 18,
+    "last_rank": 79,
+    "stats": {
+      "comment_count": 1141
+    }
+  },
+  {
+    "id": "3320401890",
+    "name": "爱丽丝卿 (Live)",
+    "artist": "周深",
+    "type": "欧美",
+    "duration": 240,
+    "current_rank": 19,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1790
+    }
+  },
+  {
+    "id": "2025186889",
+    "name": "绽放",
+    "artist": "郑润泽",
+    "type": "欧美",
+    "duration": 240,
+    "current_rank": 20,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 150292
+    }
+  },
+  {
+    "id": "2758289151",
+    "name": "冬与你",
+    "artist": "万乐体",
+    "type": "欧美",
+    "duration": 112,
+    "current_rank": 21,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 8512
+    }
+  },
+  {
+    "id": "287063",
+    "name": "我怀念的",
+    "artist": "孙燕姿",
+    "type": "欧美",
+    "duration": 289,
+    "current_rank": 22,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 439081
+    }
+  },
+  {
+    "id": "2747802379",
+    "name": "Montagem Miau",
+    "artist": "Lenar",
+    "type": "欧美",
+    "duration": 72,
+    "current_rank": 23,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 730
+    }
+  },
+  {
+    "id": "2749415489",
+    "name": "我无名份 我不多嗔",
+    "artist": "liyue",
+    "type": "欧美",
+    "duration": 250,
+    "current_rank": 24,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 129
+    }
+  },
+  {
+    "id": "2752519729",
+    "name": "情绪回收站",
+    "artist": "失落花园_",
+    "type": "欧美",
+    "duration": 121,
+    "current_rank": 25,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 9219
+    }
+  },
+  {
+    "id": "3320343240",
+    "name": "我们Forever",
+    "artist": "彭雅琦（Yakisa）",
+    "type": "欧美",
+    "duration": 270,
+    "current_rank": 26,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 24967
+    }
+  },
+  {
+    "id": "223801",
+    "name": "猜不透",
+    "artist": "丁当",
+    "type": "欧美",
+    "duration": 233,
+    "current_rank": 27,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 47393
+    }
+  },
+  {
+    "id": "1927693793",
+    "name": "再等冬天(Memories)",
+    "artist": "h3R3",
+    "type": "欧美",
+    "duration": 168,
+    "current_rank": 28,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 198233
+    }
+  },
+  {
+    "id": "2097443876",
+    "name": "碎碎念",
+    "artist": "队长",
+    "type": "欧美",
+    "duration": 132,
+    "current_rank": 29,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 7465
+    }
+  },
+  {
+    "id": "2756303345",
+    "name": "K歌之王 AIR (Day Version)",
+    "artist": "陈奕迅",
+    "type": "欧美",
+    "duration": 221,
+    "current_rank": 30,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 8369
+    }
+  },
+  {
+    "id": "3320330744",
+    "name": "爱就一个字 (live)",
+    "artist": "张信哲",
+    "type": "欧美",
+    "duration": 315,
+    "current_rank": 31,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 448
+    }
+  },
+  {
+    "id": "3317338656",
+    "name": "花千树",
+    "artist": "黄龄",
+    "type": "欧美",
+    "duration": 229,
+    "current_rank": 32,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 276
+    }
+  },
+  {
+    "id": "1301736461",
+    "name": "爱错",
+    "artist": "王力宏",
+    "type": "欧美",
+    "duration": 238,
+    "current_rank": 33,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 132538
+    }
+  },
+  {
+    "id": "553755659",
+    "name": "可不可以",
+    "artist": "张紫豪",
+    "type": "欧美",
+    "duration": 240,
+    "current_rank": 34,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 722637
+    }
+  },
+  {
+    "id": "3320401915",
+    "name": "爱丽丝卿 (Live)",
+    "artist": "谭晶",
+    "type": "欧美",
+    "duration": 230,
+    "current_rank": 35,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 511
+    }
+  },
+  {
+    "id": "2758538358",
+    "name": "冷空气",
+    "artist": "Zzh",
+    "type": "欧美",
+    "duration": 232,
+    "current_rank": 36,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1474
+    }
+  },
+  {
+    "id": "3320331607",
+    "name": "浪费 (live)",
+    "artist": "林宥嘉",
+    "type": "欧美",
+    "duration": 294,
+    "current_rank": 37,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 404
+    }
+  },
+  {
+    "id": "507364094",
+    "name": "无人知晓的我",
+    "artist": "黄丽玲",
+    "type": "欧美",
+    "duration": 213,
+    "current_rank": 38,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 112291
+    }
+  },
+  {
+    "id": "3320331551",
+    "name": "此生不换 (live)",
+    "artist": "黄霄雲",
+    "type": "欧美",
+    "duration": 244,
+    "current_rank": 39,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 412
+    }
+  },
+  {
+    "id": "479979440",
+    "name": "最初的记忆",
+    "artist": "徐佳莹",
+    "type": "欧美",
+    "duration": 256,
+    "current_rank": 40,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 81870
+    }
+  },
+  {
+    "id": "2663837607",
+    "name": "别哭了我爱你",
+    "artist": "不要杀死我的爱",
+    "type": "欧美",
+    "duration": 199,
+    "current_rank": 41,
+    "last_rank": 39,
+    "stats": {
+      "comment_count": 34803
+    }
+  },
+  {
+    "id": "2714874531",
+    "name": "白百合",
+    "artist": "bye",
+    "type": "欧美",
+    "duration": 186,
+    "current_rank": 42,
+    "last_rank": 22,
+    "stats": {
+      "comment_count": 20002
+    }
+  },
+  {
+    "id": "440207932",
+    "name": "关键词 (Live)",
+    "artist": "叶炫清",
+    "type": "欧美",
+    "duration": 234,
+    "current_rank": 43,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 10630
+    }
+  },
+  {
+    "id": "3313977596",
+    "name": "爱情讯息 (LIVE)",
+    "artist": "郭静",
+    "type": "欧美",
+    "duration": 161,
+    "current_rank": 44,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 466
+    }
+  },
+  {
+    "id": "1345571065",
+    "name": "遇见",
+    "artist": "郑润泽",
+    "type": "欧美",
+    "duration": 149,
+    "current_rank": 45,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 50785
+    }
+  },
+  {
+    "id": "3320401977",
+    "name": "告别旅行 (Live)",
+    "artist": "刘宇宁",
+    "type": "欧美",
+    "duration": 237,
+    "current_rank": 46,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 10762
+    }
+  },
+  {
+    "id": "2746857577",
+    "name": "暮色森林",
+    "artist": "欧阳娜娜",
+    "type": "欧美",
+    "duration": 176,
+    "current_rank": 47,
+    "last_rank": 12,
+    "stats": {
+      "comment_count": 1216
+    }
+  },
+  {
+    "id": "3320401957",
+    "name": "我所知道的修辞手法 (Live)",
+    "artist": "张靓颖",
+    "type": "欧美",
+    "duration": 223,
+    "current_rank": 48,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 237
+    }
+  },
+  {
+    "id": "316100",
+    "name": "雨爱",
+    "artist": "杨丞琳",
+    "type": "欧美",
+    "duration": 260,
+    "current_rank": 49,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 149326
+    }
+  },
+  {
+    "id": "3320401349",
+    "name": "我太穷了吧 (Live)",
+    "artist": "黄誉博",
+    "type": "欧美",
+    "duration": 203,
+    "current_rank": 50,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 390
+    }
+  },
+  {
+    "id": "3312354474",
+    "name": "Sleeping City Funk",
+    "artist": "DJ RAULIPUES",
+    "type": "欧美",
+    "duration": 101,
+    "current_rank": 51,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1106
+    }
+  },
+  {
+    "id": "405599119",
+    "name": "7 Years",
+    "artist": "Lukas Graham",
+    "type": "欧美",
+    "duration": 237,
+    "current_rank": 52,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 85206
+    }
+  },
+  {
+    "id": "2696398311",
+    "name": "蝶恋pt.2",
+    "artist": "梶",
+    "type": "欧美",
+    "duration": 120,
+    "current_rank": 53,
+    "last_rank": 87,
+    "stats": {
+      "comment_count": 23702
+    }
+  },
+  {
+    "id": "3319758074",
+    "name": "南音 (Soulboy 20th Anniversary Edition)",
+    "artist": "HOPICO",
+    "type": "欧美",
+    "duration": 207,
+    "current_rank": 54,
+    "last_rank": 67,
+    "stats": {
+      "comment_count": 824
+    }
+  },
+  {
+    "id": "254132",
+    "name": "会呼吸的痛",
+    "artist": "梁静茹",
+    "type": "欧美",
+    "duration": 272,
+    "current_rank": 55,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 42636
+    }
+  },
+  {
+    "id": "421423806",
+    "name": "小半",
+    "artist": "陈粒",
+    "type": "欧美",
+    "duration": 297,
+    "current_rank": 56,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 283076
+    }
+  },
+  {
+    "id": "1342951475",
+    "name": "ᴀʟʟ ɢᴏᴏᴅ",
+    "artist": "LuluSweety",
+    "type": "欧美",
+    "duration": 116,
+    "current_rank": 57,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 25647
+    }
+  },
+  {
+    "id": "3319969623",
+    "name": "说丰年",
+    "artist": "赵小童",
+    "type": "欧美",
+    "duration": 197,
+    "current_rank": 58,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1959
+    }
+  },
+  {
+    "id": "254485",
+    "name": "勇气",
+    "artist": "梁静茹",
+    "type": "欧美",
+    "duration": 239,
+    "current_rank": 59,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 101470
+    }
+  },
+  {
+    "id": "446512853",
+    "name": "Phone Kisses",
+    "artist": "suhmeduh",
+    "type": "欧美",
+    "duration": 122,
+    "current_rank": 60,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 69557
+    }
+  },
+  {
+    "id": "2688242045",
+    "name": "清醒梦",
+    "artist": "在虚无中永存",
+    "type": "欧美",
+    "duration": 110,
+    "current_rank": 61,
+    "last_rank": 58,
+    "stats": {
+      "comment_count": 15704
+    }
+  },
+  {
+    "id": "26540731",
+    "name": "잘 알지도 못하면서",
+    "artist": "金艺林",
+    "type": "欧美",
+    "duration": 317,
+    "current_rank": 62,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 41900
+    }
+  },
+  {
+    "id": "30352891",
+    "name": "牵丝戏",
+    "artist": "银临",
+    "type": "欧美",
+    "duration": 239,
+    "current_rank": 63,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 172118
+    }
+  },
+  {
+    "id": "3320330688",
+    "name": "永不失联的爱 (live)",
+    "artist": "周兴哲",
+    "type": "欧美",
+    "duration": 259,
+    "current_rank": 64,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 208
+    }
+  },
+  {
+    "id": "518894020",
+    "name": "Are You Lost",
+    "artist": "Park Bird",
+    "type": "欧美",
+    "duration": 167,
+    "current_rank": 65,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 140800
+    }
+  },
+  {
+    "id": "3313253205",
+    "name": "目撃！テト31世 (feat. 重音テト & 雨衣)",
+    "artist": "はろける",
+    "type": "欧美",
+    "duration": 141,
+    "current_rank": 66,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 3084
+    }
+  },
+  {
+    "id": "150633",
+    "name": "天天",
+    "artist": "陶喆",
+    "type": "欧美",
+    "duration": 255,
+    "current_rank": 67,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 62669
+    }
+  },
+  {
+    "id": "3320047162",
+    "name": "Secret Escape",
+    "artist": "塞壬唱片-MSR",
+    "type": "欧美",
+    "duration": 261,
+    "current_rank": 68,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 156
+    }
+  },
+  {
+    "id": "469998923",
+    "name": "别问很可怕",
+    "artist": "J. Sheon",
+    "type": "欧美",
+    "duration": 247,
+    "current_rank": 69,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 58022
+    }
+  },
+  {
+    "id": "3318981028",
+    "name": "慢慢来",
+    "artist": "Wiz_H张子豪",
+    "type": "欧美",
+    "duration": 167,
+    "current_rank": 70,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 254
+    }
+  },
+  {
+    "id": "420478436",
+    "name": "We Don't Talk Anymore (Mr. Collipark Remix)",
+    "artist": "Charlie Puth",
+    "type": "欧美",
+    "duration": 254,
+    "current_rank": 71,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 33563
+    }
+  },
+  {
+    "id": "441120471",
+    "name": "That's What I Like",
+    "artist": "Bruno Mars",
+    "type": "欧美",
+    "duration": 206,
+    "current_rank": 72,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 32520
+    }
+  },
+  {
+    "id": "2759345435",
+    "name": "不眠之夜",
+    "artist": "冰心",
+    "type": "欧美",
+    "duration": 170,
+    "current_rank": 73,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 114
+    }
+  },
+  {
+    "id": "3320331666",
+    "name": "MOVE!",
+    "artist": "雾都L4WUDU",
+    "type": "欧美",
+    "duration": 135,
+    "current_rank": 74,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 500
+    }
+  },
+  {
+    "id": "26440351",
+    "name": "蜘蛛糸モノポリー",
+    "artist": "sasakure.UK",
+    "type": "欧美",
+    "duration": 275,
+    "current_rank": 75,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 35225
+    }
+  },
+  {
+    "id": "2600238506",
+    "name": "慢",
+    "artist": "游客j6jsy",
+    "type": "欧美",
+    "duration": 166,
+    "current_rank": 76,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 2403
+    }
+  },
+  {
+    "id": "3315267578",
+    "name": "没曾想 (我们还是一步步走到了今天)",
+    "artist": "GoldenOcean",
+    "type": "欧美",
+    "duration": 168,
+    "current_rank": 77,
+    "last_rank": 68,
+    "stats": {
+      "comment_count": 563
+    }
+  },
+  {
+    "id": "2699424835",
+    "name": "幻想是痛的延续",
+    "artist": "氟西汀海",
+    "type": "欧美",
+    "duration": 125,
+    "current_rank": 78,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 3621
+    }
+  },
+  {
+    "id": "65528",
+    "name": "淘汰",
+    "artist": "陈奕迅",
+    "type": "欧美",
+    "duration": 285,
+    "current_rank": 79,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 172839
+    }
+  },
+  {
+    "id": "2608143525",
+    "name": "phone kisses",
+    "artist": "suhmeduh",
+    "type": "欧美",
+    "duration": 114,
+    "current_rank": 80,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 14056
+    }
+  },
+  {
+    "id": "2060567211",
+    "name": "Complicated",
+    "artist": "Dahl_",
+    "type": "欧美",
+    "duration": 146,
+    "current_rank": 81,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 2131
+    }
+  },
+  {
+    "id": "2631085561",
+    "name": "Sunflower Feelings",
+    "artist": "Kuzu Mellow",
+    "type": "欧美",
+    "duration": 99,
+    "current_rank": 82,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 2760
+    }
+  },
+  {
+    "id": "2694845967",
+    "name": "她需要",
+    "artist": "48000hz",
+    "type": "欧美",
+    "duration": 146,
+    "current_rank": 83,
+    "last_rank": 76,
+    "stats": {
+      "comment_count": 13706
+    }
+  },
+  {
+    "id": "294788",
+    "name": "玉兰花",
+    "artist": "邰肇玫",
+    "type": "欧美",
+    "duration": 195,
+    "current_rank": 84,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1138
+    }
+  },
+  {
+    "id": "405485737",
+    "name": "Try Everything",
+    "artist": "Shakira",
+    "type": "欧美",
+    "duration": 196,
+    "current_rank": 85,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 58541
+    }
+  },
+  {
+    "id": "1390430684",
+    "name": "Masquerade",
+    "artist": "Lindsey Stirling",
+    "type": "欧美",
+    "duration": 201,
+    "current_rank": 86,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 13862
+    }
+  },
+  {
+    "id": "256621",
+    "name": "至少还有你",
+    "artist": "林忆莲",
+    "type": "欧美",
+    "duration": 274,
+    "current_rank": 87,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 57046
+    }
+  },
+  {
+    "id": "3320078149",
+    "name": "你即银河",
+    "artist": "司南",
+    "type": "欧美",
+    "duration": 214,
+    "current_rank": 88,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 253
+    }
+  },
+  {
+    "id": "2751017120",
+    "name": "想你的夜",
+    "artist": "刘大拿",
+    "type": "欧美",
+    "duration": 212,
+    "current_rank": 89,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 919
+    }
+  },
+  {
+    "id": "3320665685",
+    "name": "杯盏人间",
+    "artist": "五色石南叶",
+    "type": "欧美",
+    "duration": 280,
+    "current_rank": 90,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 758
+    }
+  },
+  {
+    "id": "3314921130",
+    "name": "稀罕你",
+    "artist": "拿魄仑",
+    "type": "欧美",
+    "duration": 173,
+    "current_rank": 91,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 203
+    }
+  },
+  {
+    "id": "25727803",
+    "name": "修炼爱情",
+    "artist": "林俊杰",
+    "type": "欧美",
+    "duration": 287,
+    "current_rank": 92,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 207448
+    }
+  },
+  {
+    "id": "2161991028",
+    "name": "江南雪",
+    "artist": "礼越",
+    "type": "欧美",
+    "duration": 236,
+    "current_rank": 93,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 3479
+    }
+  },
+  {
+    "id": "2731002026",
+    "name": "你那边天气好不好 你好不好",
+    "artist": "恋愛幸运星",
+    "type": "欧美",
+    "duration": 127,
+    "current_rank": 94,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 6213
+    }
+  },
+  {
+    "id": "26093064",
+    "name": "Sacred Play Secret Place",
+    "artist": "Matryoshka",
+    "type": "欧美",
+    "duration": 317,
+    "current_rank": 95,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 129385
+    }
+  },
+  {
+    "id": "2747886054",
+    "name": "MONTAGEM SEM PARA 2",
+    "artist": "Lunak",
+    "type": "欧美",
+    "duration": 90,
+    "current_rank": 96,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 718
+    }
+  },
+  {
+    "id": "1913871308",
+    "name": "親愛なるあなたは火葬",
+    "artist": "虻瀬",
+    "type": "欧美",
+    "duration": 256,
+    "current_rank": 97,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 13212
+    }
+  },
+  {
+    "id": "2731865406",
+    "name": "离开我的依赖",
+    "artist": "四四真累",
+    "type": "欧美",
+    "duration": 219,
+    "current_rank": 98,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 656
+    }
+  },
+  {
+    "id": "2742200185",
+    "name": "AMICAMA(PHONK)",
+    "artist": "GTR7",
+    "type": "欧美",
+    "duration": 124,
+    "current_rank": 99,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 721
+    }
+  },
+  {
+    "id": "3319295986",
+    "name": "春闺仕女图",
+    "artist": "河图",
+    "type": "欧美",
+    "duration": 231,
+    "current_rank": 100,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 264
+    }
+  },
+  {
+    "id": "2747166493",
+    "name": "JANE DOE",
+    "artist": "米津玄師",
+    "type": "日语",
+    "duration": 236,
+    "current_rank": 1,
+    "last_rank": 0,
+    "stats": {
+      "comment_count": 5972
+    }
+  },
+  {
+    "id": "2749049796",
+    "name": "愛属性",
+    "artist": "ピノキオピー",
+    "type": "日语",
+    "duration": 173,
+    "current_rank": 2,
+    "last_rank": 1,
+    "stats": {
+      "comment_count": 12061
+    }
+  },
+  {
+    "id": "2737471087",
+    "name": "ドゥーマー",
+    "artist": "東京真中",
+    "type": "日语",
+    "duration": 148,
+    "current_rank": 3,
+    "last_rank": 5,
+    "stats": {
+      "comment_count": 1936
+    }
+  },
+  {
+    "id": "3314692780",
+    "name": "カイコ",
+    "artist": "DECO*27",
+    "type": "日语",
+    "duration": 151,
+    "current_rank": 4,
+    "last_rank": 2,
+    "stats": {
+      "comment_count": 2416
+    }
+  },
+  {
+    "id": "2735484466",
+    "name": "モニタリング (Best Friend Remix)",
+    "artist": "DECO*27",
+    "type": "日语",
+    "duration": 178,
+    "current_rank": 5,
+    "last_rank": 3,
+    "stats": {
+      "comment_count": 4362
+    }
+  },
+  {
+    "id": "2745026895",
+    "name": "IRIS OUT",
+    "artist": "米津玄師",
+    "type": "日语",
+    "duration": 151,
+    "current_rank": 6,
+    "last_rank": 4,
+    "stats": {
+      "comment_count": 4253
+    }
+  },
+  {
+    "id": "2707202386",
+    "name": "プロポーズ",
+    "artist": "なとり",
+    "type": "日语",
+    "duration": 178,
+    "current_rank": 7,
+    "last_rank": 8,
+    "stats": {
+      "comment_count": 2290
+    }
+  },
+  {
+    "id": "2755971761",
+    "name": "Little Bouquet",
+    "artist": "Aimer",
+    "type": "日语",
+    "duration": 251,
+    "current_rank": 8,
+    "last_rank": 12,
+    "stats": {
+      "comment_count": 607
+    }
+  },
+  {
+    "id": "2713954106",
+    "name": "Unslept",
+    "artist": "未來電波基地",
+    "type": "日语",
+    "duration": 130,
+    "current_rank": 9,
+    "last_rank": 6,
+    "stats": {
+      "comment_count": 3660
+    }
+  },
+  {
+    "id": "2716424334",
+    "name": "T氏の話を信じるな (feat. 初音ミク & 重音テト)",
+    "artist": "ピノキオピー",
+    "type": "日语",
+    "duration": 163,
+    "current_rank": 10,
+    "last_rank": 9,
+    "stats": {
+      "comment_count": 14524
+    }
+  },
+  {
+    "id": "478507889",
+    "name": "卡农（经典钢琴版）",
+    "artist": "dylanf",
+    "type": "古典",
+    "duration": 300,
+    "current_rank": 1,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 147929
+    }
+  },
+  {
+    "id": "1480560252",
+    "name": "舒伯特摇篮曲",
+    "artist": "舒伯特摇篮曲",
+    "type": "古典",
+    "duration": 140,
+    "current_rank": 2,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 403
+    }
+  },
+  {
+    "id": "1408854372",
+    "name": "Before You Left",
+    "artist": "Yehezkel Raz",
+    "type": "古典",
+    "duration": 110,
+    "current_rank": 3,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 3691
+    }
+  },
+  {
+    "id": "2108292677",
+    "name": "摇篮曲 舒伯特",
+    "artist": "古典留声机",
+    "type": "古典",
+    "duration": 78,
+    "current_rank": 4,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 68
+    }
+  },
+  {
+    "id": "1060914",
+    "name": "Nocturne No. 2 in E Flat Major, Op. 9, No. 2",
+    "artist": "Arthur Rubinstein",
+    "type": "古典",
+    "duration": 266,
+    "current_rank": 5,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 16961
+    }
+  },
+  {
+    "id": "1944983536",
+    "name": "贝多芬 钢琴曲《致爱丽丝》",
+    "artist": "天之籁音乐",
+    "type": "古典",
+    "duration": 180,
+    "current_rank": 6,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1430
+    }
+  },
+  {
+    "id": "1060910",
+    "name": "Nocturne No. 1 in B Flat Minor, Op. 9, No. 1",
+    "artist": "Arthur Rubinstein",
+    "type": "古典",
+    "duration": 327,
+    "current_rank": 7,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 8203
+    }
+  },
+  {
+    "id": "1501606",
+    "name": "Cello Suite No. 1 in G Major, BWV 1007:I. Prélude",
+    "artist": "Janos Starker",
+    "type": "古典",
+    "duration": 161,
+    "current_rank": 8,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 21053
+    }
+  },
+  {
+    "id": "18001009",
+    "name": "Goldberg Variations, BWV 988:Aria",
+    "artist": "Glenn Gould",
+    "type": "古典",
+    "duration": 185,
+    "current_rank": 9,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 6016
+    }
+  },
+  {
+    "id": "1394617453",
+    "name": "肖邦: 夜曲",
+    "artist": "Noble Music Project",
+    "type": "古典",
+    "duration": 248,
+    "current_rank": 10,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 3302
+    }
+  },
+  {
+    "id": "1442253642",
+    "name": "贝多芬: 《月光奏鸣曲》第一乐章, 作品27-2",
+    "artist": "Noble Music Project",
+    "type": "古典",
+    "duration": 316,
+    "current_rank": 11,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 7454
+    }
+  },
+  {
+    "id": "1482916319",
+    "name": "巴赫G弦上的咏叹调",
+    "artist": "巴赫G弦上的咏叹调",
+    "type": "古典",
+    "duration": 288,
+    "current_rank": 12,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 377
+    }
+  },
+  {
+    "id": "1966690719",
+    "name": "勃拉姆斯摇篮曲",
+    "artist": "nengcd",
+    "type": "古典",
+    "duration": 126,
+    "current_rank": 13,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 251
+    }
+  },
+  {
+    "id": "27682855",
+    "name": "Suite bergamasque, L.75 - 3. Clair de lune",
+    "artist": "Pascal Rogé",
+    "type": "古典",
+    "duration": 331,
+    "current_rank": 14,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 12072
+    }
+  },
+  {
+    "id": "1295212133",
+    "name": "A小調圓舞曲〈遺作〉waltz In A Minor B.150 Op. Posth",
+    "artist": "Zelimir Panic",
+    "type": "古典",
+    "duration": 152,
+    "current_rank": 15,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 13978
+    }
+  },
+  {
+    "id": "560780790",
+    "name": "Canon in D",
+    "artist": "Johann Pachelbel",
+    "type": "古典",
+    "duration": 245,
+    "current_rank": 16,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1046
+    }
+  },
+  {
+    "id": "1482129315",
+    "name": "舒伯特小夜曲",
+    "artist": "舒伯特小夜曲",
+    "type": "古典",
+    "duration": 249,
+    "current_rank": 17,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 643
+    }
+  },
+  {
+    "id": "1434268536",
+    "name": "莫扎特: 摇篮曲",
+    "artist": "Noble Music Project",
+    "type": "古典",
+    "duration": 153,
+    "current_rank": 18,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 818
+    }
+  },
+  {
+    "id": "27471609",
+    "name": "Cello Suite No. 1 in G Major, BWV 1007:I. Prelude",
+    "artist": "Alexander Rudin",
+    "type": "古典",
+    "duration": 149,
+    "current_rank": 19,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 11129
+    }
+  },
+  {
+    "id": "27708297",
+    "name": "Waltz No.19 in A minor, Op.posth.",
+    "artist": "Claudio Arrau",
+    "type": "古典",
+    "duration": 151,
+    "current_rank": 20,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 4235
+    }
+  },
+  {
+    "id": "27471615",
+    "name": "Clavierbüchlein for Anna Magdalena Bach, Book 2, BWV Anh. 113-132: Minuet in G Major, BWV Anh 114",
+    "artist": "Janos Sebestyen",
+    "type": "古典",
+    "duration": 94,
+    "current_rank": 21,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 9779
+    }
+  },
+  {
+    "id": "1853542075",
+    "name": "巴赫：十二平均律 C大调前奏曲 No.1",
+    "artist": "纳兰慧心",
+    "type": "古典",
+    "duration": 137,
+    "current_rank": 22,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 696
+    }
+  },
+  {
+    "id": "25480736",
+    "name": "Arioso (Adagio in G) from Cantata BWV 156 (Arr. Lloyd Webber)",
+    "artist": "Julian Lloyd Webber",
+    "type": "古典",
+    "duration": 171,
+    "current_rank": 23,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 4009
+    }
+  },
+  {
+    "id": "27540403",
+    "name": "Habanera from Carmen / La Cumparsita",
+    "artist": "Martynas",
+    "type": "古典",
+    "duration": 202,
+    "current_rank": 24,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 10420
+    }
+  },
+  {
+    "id": "1778976",
+    "name": "Prelude in C major BWV 846",
+    "artist": "Maurizio Pollini",
+    "type": "古典",
+    "duration": 112,
+    "current_rank": 25,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1967
+    }
+  },
+  {
+    "id": "1501797",
+    "name": "Arioso",
+    "artist": "Shuku Iwasaki",
+    "type": "古典",
+    "duration": 267,
+    "current_rank": 26,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 3486
+    }
+  },
+  {
+    "id": "1983571247",
+    "name": "小步舞曲（巴赫）",
+    "artist": "nengcd",
+    "type": "古典",
+    "duration": 120,
+    "current_rank": 27,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 229
+    }
+  },
+  {
+    "id": "34619045",
+    "name": "Richter: Dream 1 (before the wind blows it all away)",
+    "artist": "Max Richter",
+    "type": "古典",
+    "duration": 1111,
+    "current_rank": 28,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 9320
+    }
+  },
+  {
+    "id": "1847916790",
+    "name": "莫扎特：G大调小夜曲",
+    "artist": "纳兰慧心",
+    "type": "古典",
+    "duration": 106,
+    "current_rank": 29,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1261
+    }
+  },
+  {
+    "id": "39869702",
+    "name": "Sonata for 2 pianos in D, K.448:2. Andante",
+    "artist": "Ingrid Haebler",
+    "type": "古典",
+    "duration": 563,
+    "current_rank": 30,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 4624
+    }
+  },
+  {
+    "id": "26244421",
+    "name": "On the Nature of Daylight",
+    "artist": "Max Richter",
+    "type": "古典",
+    "duration": 374,
+    "current_rank": 31,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 4463
+    }
+  },
+  {
+    "id": "20768920",
+    "name": "8 Humoresques, Op. 101, B. 187:No. 7, Poco lento e grazioso (Transcribed by Oscar Morawetz for Violin, Cello & Orchestra)",
+    "artist": "Seiji Ozawa",
+    "type": "古典",
+    "duration": 209,
+    "current_rank": 32,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 9846
+    }
+  },
+  {
+    "id": "33638486",
+    "name": "Symphony No.9 in E minor, Op.95 \"From the New World\": IV.Allegro con fuoco",
+    "artist": "Herbert von Karajan",
+    "type": "古典",
+    "duration": 666,
+    "current_rank": 33,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 7833
+    }
+  },
+  {
+    "id": "1480548284",
+    "name": "莫扎特 摇篮曲",
+    "artist": "Wolfgang Amadeus Mozart",
+    "type": "古典",
+    "duration": 216,
+    "current_rank": 34,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 150
+    }
+  },
+  {
+    "id": "27471628",
+    "name": "The Well-Tempered Clavier, Book 1, BWV 846-869: I. Prelude and Fugue in C Major, BWV 846",
+    "artist": "Jeno Jando",
+    "type": "古典",
+    "duration": 265,
+    "current_rank": 35,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 3445
+    }
+  },
+  {
+    "id": "510882570",
+    "name": "Concerto In F Minor for Violin, String Orchestra and Continuo, Op. 8, No. 4, RV 297, \"L'inverno\" (Winter):Allegro non molto",
+    "artist": "Antonio Vivaldi",
+    "type": "古典",
+    "duration": 215,
+    "current_rank": 36,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1672
+    }
+  },
+  {
+    "id": "1901862214",
+    "name": "贝多芬 欢乐颂（第九交响曲钢琴版）",
+    "artist": "Wendy Anderson",
+    "type": "古典",
+    "duration": 105,
+    "current_rank": 37,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1058
+    }
+  },
+  {
+    "id": "34766098",
+    "name": "Lullaby (Wiegenlied, Op. 49, No. 4)",
+    "artist": "马友友",
+    "type": "古典",
+    "duration": 109,
+    "current_rank": 38,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1051
+    }
+  },
+  {
+    "id": "1435563616",
+    "name": "Suite No. 7 in G Minor, HWV 432/6: VI. Passacaglia for Piano",
+    "artist": "Kassia",
+    "type": "古典",
+    "duration": 157,
+    "current_rank": 39,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1135
+    }
+  },
+  {
+    "id": "27708290",
+    "name": "Waltz No.10 in B Minor, Op.69 No.2",
+    "artist": "Claudio Arrau",
+    "type": "古典",
+    "duration": 304,
+    "current_rank": 40,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1993
+    }
+  },
+  {
+    "id": "117218",
+    "name": "La Campanella",
+    "artist": "李云迪",
+    "type": "古典",
+    "duration": 285,
+    "current_rank": 41,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 11132
+    }
+  },
+  {
+    "id": "1940308971",
+    "name": "g小调的巴赫（大提琴&钢琴）",
+    "artist": "倪椤",
+    "type": "古典",
+    "duration": 201,
+    "current_rank": 42,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 423
+    }
+  },
+  {
+    "id": "5105959",
+    "name": "Salut D’amour Op. 12",
+    "artist": "Edward Elgar",
+    "type": "古典",
+    "duration": 202,
+    "current_rank": 43,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 4789
+    }
+  },
+  {
+    "id": "39869701",
+    "name": "Sonata for 2 pianos in D, K.448:1. Allegro con spirito",
+    "artist": "Ingrid Haebler",
+    "type": "古典",
+    "duration": 503,
+    "current_rank": 44,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 5494
+    }
+  },
+  {
+    "id": "2123727",
+    "name": "The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 \"Winter\":I. Allegro non molto",
+    "artist": "Anne-Sophie Mutter",
+    "type": "古典",
+    "duration": 210,
+    "current_rank": 45,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 3881
+    }
+  },
+  {
+    "id": "1458867",
+    "name": "Requiem in D Minor, K. 626: 3. Sequentia: Lacrimosa",
+    "artist": "Wiener Singverein",
+    "type": "古典",
+    "duration": 188,
+    "current_rank": 46,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1200
+    }
+  },
+  {
+    "id": "29539584",
+    "name": "Swan Lake (Suite), Op. 20a, TH. 219:I. Scene - Swan Theme",
+    "artist": "Berliner Philharmoniker",
+    "type": "古典",
+    "duration": 183,
+    "current_rank": 47,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 2804
+    }
+  },
+  {
+    "id": "22006156",
+    "name": "Piano Concerto No. 23 in A Major, K. 488:II. Adagio",
+    "artist": "Vladimir Horowitz",
+    "type": "古典",
+    "duration": 334,
+    "current_rank": 48,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 4076
+    }
+  },
+  {
+    "id": "27598898",
+    "name": "Pathetique III",
+    "artist": "Cuba Percussion",
+    "type": "古典",
+    "duration": 216,
+    "current_rank": 49,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 5537
+    }
+  },
+  {
+    "id": "1458550",
+    "name": "Voices of Spring, Op.410 (Frühlingsstimmen) - vocal version",
+    "artist": "Kathleen Battle",
+    "type": "古典",
+    "duration": 511,
+    "current_rank": 50,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 6565
+    }
+  },
+  {
+    "id": "1331826172",
+    "name": "She Was Running",
+    "artist": "Max Richter",
+    "type": "古典",
+    "duration": 128,
+    "current_rank": 51,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1802
+    }
+  },
+  {
+    "id": "1220287",
+    "name": "Humoresque",
+    "artist": "David Garrett",
+    "type": "古典",
+    "duration": 246,
+    "current_rank": 52,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 4635
+    }
+  },
+  {
+    "id": "1060948",
+    "name": "Nocturne No. 13 in C Minor, Op. 48, No. 1",
+    "artist": "Arthur Rubinstein",
+    "type": "古典",
+    "duration": 351,
+    "current_rank": 53,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1751
+    }
+  },
+  {
+    "id": "1822521762",
+    "name": "月光曲 贝多芬（第一乐章）",
+    "artist": "离羽墨",
+    "type": "古典",
+    "duration": 294,
+    "current_rank": 54,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 2462
+    }
+  },
+  {
+    "id": "27200546",
+    "name": "Les saisons (The Seasons), Op. 37b:No. 6. June: Barcarolle",
+    "artist": "Ilona Prunyi",
+    "type": "古典",
+    "duration": 293,
+    "current_rank": 55,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 5877
+    }
+  },
+  {
+    "id": "18565939",
+    "name": "A Gift of a Thistle (from Braveheart)",
+    "artist": "Catrin Finch",
+    "type": "古典",
+    "duration": 189,
+    "current_rank": 56,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 5274
+    }
+  },
+  {
+    "id": "1855681994",
+    "name": "德彪西: 月光",
+    "artist": "贵族音乐古典",
+    "type": "古典",
+    "duration": 281,
+    "current_rank": 57,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 254
+    }
+  },
+  {
+    "id": "31260307",
+    "name": "3 Old Viennese Dances:II. Liebesleid",
+    "artist": "Yo-Yo Ma",
+    "type": "古典",
+    "duration": 215,
+    "current_rank": 58,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 2751
+    }
+  },
+  {
+    "id": "1501158853",
+    "name": "13 Pieces for Piano, Op. 76:II. Etude",
+    "artist": "王健",
+    "type": "古典",
+    "duration": 168,
+    "current_rank": 59,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 157
+    }
+  },
+  {
+    "id": "31134128",
+    "name": "Passacaille",
+    "artist": "Bronn Journey",
+    "type": "古典",
+    "duration": 204,
+    "current_rank": 60,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 792
+    }
+  },
+  {
+    "id": "1331822743",
+    "name": "Whispers",
+    "artist": "Max Richter",
+    "type": "古典",
+    "duration": 221,
+    "current_rank": 61,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 3156
+    }
+  },
+  {
+    "id": "665751",
+    "name": "Beethoven's Piano Sonata No. 8, Pathetique",
+    "artist": "上原ひろみ",
+    "type": "古典",
+    "duration": 313,
+    "current_rank": 62,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 710
+    }
+  },
+  {
+    "id": "1049224",
+    "name": "España Cani",
+    "artist": "André Rieu",
+    "type": "古典",
+    "duration": 122,
+    "current_rank": 63,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 8441
+    }
+  },
+  {
+    "id": "1145380",
+    "name": "Clair de Lune (from Suite Bergamasque)",
+    "artist": "Kun Woo Paik",
+    "type": "古典",
+    "duration": 343,
+    "current_rank": 64,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 7676
+    }
+  },
+  {
+    "id": "1458558",
+    "name": "An der schönen blauen Donau, Op.314",
+    "artist": "Wiener Philharmoniker",
+    "type": "古典",
+    "duration": 618,
+    "current_rank": 65,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 4301
+    }
+  },
+  {
+    "id": "1060967",
+    "name": "Nocturne No. 19 in E Minor, Op. 72, No. 1",
+    "artist": "Arthur Rubinstein",
+    "type": "古典",
+    "duration": 282,
+    "current_rank": 66,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1179
+    }
+  },
+  {
+    "id": "1452441726",
+    "name": "Moonlight Sonata",
+    "artist": "Marcin",
+    "type": "古典",
+    "duration": 330,
+    "current_rank": 67,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 275
+    }
+  },
+  {
+    "id": "1302877408",
+    "name": "a小调圆舞曲(Off Vocal)",
+    "artist": "ACK",
+    "type": "古典",
+    "duration": 163,
+    "current_rank": 68,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 2378
+    }
+  },
+  {
+    "id": "1491384650",
+    "name": "Canon in D",
+    "artist": "Brooklyn Duo",
+    "type": "古典",
+    "duration": 295,
+    "current_rank": 69,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1077
+    }
+  },
+  {
+    "id": "5168414",
+    "name": "Schwanengesang, D.957:Ständchen",
+    "artist": "Arthur Grumiaux",
+    "type": "古典",
+    "duration": 159,
+    "current_rank": 70,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1475
+    }
+  },
+  {
+    "id": "29150369",
+    "name": "Gyménopédie N°1",
+    "artist": "Ophélie Gaillard",
+    "type": "古典",
+    "duration": 177,
+    "current_rank": 71,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1183
+    }
+  },
+  {
+    "id": "114295",
+    "name": "La campanella in G-Sharp Minor (From \"Grandes études de Paganini\", S. 141 / 3)",
+    "artist": "郎朗",
+    "type": "古典",
+    "duration": 288,
+    "current_rank": 72,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 6896
+    }
+  },
+  {
+    "id": "2123686",
+    "name": "The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\":I. Allegro",
+    "artist": "Anne-Sophie Mutter",
+    "type": "古典",
+    "duration": 198,
+    "current_rank": 73,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 4751
+    }
+  },
+  {
+    "id": "1606090",
+    "name": "Canon In D",
+    "artist": "Josh Vietti",
+    "type": "古典",
+    "duration": 193,
+    "current_rank": 74,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 3175
+    }
+  },
+  {
+    "id": "32696188",
+    "name": "Ballade No.1 In G Minor, Op.23",
+    "artist": "Krystian Zimerman",
+    "type": "古典",
+    "duration": 578,
+    "current_rank": 75,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 4150
+    }
+  },
+  {
+    "id": "1990476",
+    "name": "Violin Concerto No.2 In B Minor, Op.7, MS.48:3. Rondo à la clochette, 'La campanella'",
+    "artist": "Charles Dutoit",
+    "type": "古典",
+    "duration": 544,
+    "current_rank": 76,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 4408
+    }
+  },
+  {
+    "id": "1060955",
+    "name": "Nocturne No. 15 in F Minor, Op. 55, No. 1",
+    "artist": "Arthur Rubinstein",
+    "type": "古典",
+    "duration": 341,
+    "current_rank": 77,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1022
+    }
+  },
+  {
+    "id": "18565932",
+    "name": "Sicilienne, Op. 78",
+    "artist": "Erdo Groot",
+    "type": "古典",
+    "duration": 225,
+    "current_rank": 78,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1514
+    }
+  },
+  {
+    "id": "464730373",
+    "name": "Carmen:Act I: L'amour est un oiseau rebelle",
+    "artist": "Raoul Jobin",
+    "type": "古典",
+    "duration": 217,
+    "current_rank": 79,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 457
+    }
+  },
+  {
+    "id": "1294831945",
+    "name": "Concerto in D Minor (After Alessandro Marcello), BWV 974: II. Adagio",
+    "artist": "Alexandra Streliski",
+    "type": "古典",
+    "duration": 287,
+    "current_rank": 80,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 585
+    }
+  },
+  {
+    "id": "1060937",
+    "name": "Nocturne No. 10 in A Flat Major, Op. 32, No. 2",
+    "artist": "Arthur Rubinstein",
+    "type": "古典",
+    "duration": 348,
+    "current_rank": 81,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1025
+    }
+  },
+  {
+    "id": "2640187",
+    "name": "Soleá Canon",
+    "artist": "Carlos Gomez",
+    "type": "古典",
+    "duration": 275,
+    "current_rank": 82,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 4875
+    }
+  },
+  {
+    "id": "2663190280",
+    "name": "维瓦尔第《四季》 “冬” 第一乐章 - I. Allegro non molto",
+    "artist": "天之籁音乐",
+    "type": "古典",
+    "duration": 223,
+    "current_rank": 83,
+    "last_rank": 83,
+    "stats": {
+      "comment_count": 106
+    }
+  },
+  {
+    "id": "26878877",
+    "name": "Suite No.3 in D, BWV 1068:2. Air",
+    "artist": "Johann Sebastian Bach",
+    "type": "古典",
+    "duration": 366,
+    "current_rank": 84,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1365
+    }
+  },
+  {
+    "id": "456094670",
+    "name": "Three Worlds: Music From Woolf Works / Mrs Dalloway:Meeting Again",
+    "artist": "Max Richter",
+    "type": "古典",
+    "duration": 367,
+    "current_rank": 85,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1743
+    }
+  },
+  {
+    "id": "1910899366",
+    "name": "莫扎特 土耳其进行曲",
+    "artist": "Wendy Anderson",
+    "type": "古典",
+    "duration": 230,
+    "current_rank": 86,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 292
+    }
+  },
+  {
+    "id": "1049118",
+    "name": "Skaters' Waltz",
+    "artist": "André Rieu",
+    "type": "古典",
+    "duration": 346,
+    "current_rank": 87,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1688
+    }
+  },
+  {
+    "id": "2776537",
+    "name": "Hungarian Dance No.5 in G Minor, WoO 1 No.5 - Orchestrated by Martin Schmeling (?-1943) - Hungarian Dance No.5 In G Minor, WoO 1",
+    "artist": "Wiener Philharmoniker",
+    "type": "古典",
+    "duration": 139,
+    "current_rank": 88,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 2112
+    }
+  },
+  {
+    "id": "1295212153",
+    "name": "C小調夜曲〈遺作〉nocturne No.21 In C Minor Op. Posth B. 108",
+    "artist": "Zelimir Panic",
+    "type": "古典",
+    "duration": 214,
+    "current_rank": 89,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1075
+    }
+  },
+  {
+    "id": "27471624",
+    "name": "St. Matthew Passion, BWV 244: Erbarme dich, mein Gott",
+    "artist": "Ibolya Verebics",
+    "type": "古典",
+    "duration": 430,
+    "current_rank": 90,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 274
+    }
+  },
+  {
+    "id": "3541224",
+    "name": "Piano Concerto No.2 In C Minor, Op.18:1. Moderato",
+    "artist": "Sviatoslav Richter",
+    "type": "古典",
+    "duration": 673,
+    "current_rank": 91,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 3905
+    }
+  },
+  {
+    "id": "2123708",
+    "name": "The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 \"Summer\":III. Presto",
+    "artist": "Anne-Sophie Mutter",
+    "type": "古典",
+    "duration": 168,
+    "current_rank": 92,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 3811
+    }
+  },
+  {
+    "id": "1463536807",
+    "name": "Lacrimosa",
+    "artist": "Vienna Mozart Orchestra",
+    "type": "古典",
+    "duration": 200,
+    "current_rank": 93,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1227
+    }
+  },
+  {
+    "id": "18000639",
+    "name": "Prelude & Fugue No. 1 in C Major, BWV 846:Prelude",
+    "artist": "Glenn Gould",
+    "type": "古典",
+    "duration": 142,
+    "current_rank": 94,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 2170
+    }
+  },
+  {
+    "id": "1394618519",
+    "name": "圣桑: 天鹅",
+    "artist": "Noble Music Project",
+    "type": "古典",
+    "duration": 128,
+    "current_rank": 95,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1148
+    }
+  },
+  {
+    "id": "22006389",
+    "name": "Kinderszenen, Op.15:7. Träumerei",
+    "artist": "Vladimir Horowitz",
+    "type": "古典",
+    "duration": 154,
+    "current_rank": 96,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 2743
+    }
+  },
+  {
+    "id": "1927617802",
+    "name": "贝多芬命运交响曲（第五交响曲）",
+    "artist": "Wendy Anderson",
+    "type": "古典",
+    "duration": 424,
+    "current_rank": 97,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 672
+    }
+  },
+  {
+    "id": "1442253641",
+    "name": "莫扎特: 土耳其进行曲",
+    "artist": "Noble Music Project",
+    "type": "古典",
+    "duration": 129,
+    "current_rank": 98,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 203
+    }
+  },
+  {
+    "id": "1049199",
+    "name": "Overture (William Tell)",
+    "artist": "André Rieu",
+    "type": "古典",
+    "duration": 146,
+    "current_rank": 99,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 15904
+    }
+  },
+  {
+    "id": "26818410",
+    "name": "Impromptu No. 4 in C sharp minor, Op. 66 'Fantaisie-Impromptu': Allegro agitato",
+    "artist": "Anatol Ugorski",
+    "type": "古典",
+    "duration": 331,
+    "current_rank": 100,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1980
+    }
+  },
+  {
+    "id": "3316968660",
+    "name": "昔涟",
+    "artist": "张韶涵",
+    "type": "电子",
+    "duration": 186,
+    "current_rank": 1,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 8140
+    }
+  },
+  {
+    "id": "2755332551",
+    "name": "DAMIDAMI",
+    "artist": "Sihan",
+    "type": "电子",
+    "duration": 191,
+    "current_rank": 2,
+    "last_rank": 0,
+    "stats": {
+      "comment_count": 2799
+    }
+  },
+  {
+    "id": "2747166493",
+    "name": "JANE DOE",
+    "artist": "米津玄師",
+    "type": "电子",
+    "duration": 236,
+    "current_rank": 3,
+    "last_rank": 1,
+    "stats": {
+      "comment_count": 5972
+    }
+  },
+  {
+    "id": "2722510685",
+    "name": "耀斑",
+    "artist": "HOYO-MiX",
+    "type": "电子",
+    "duration": 213,
+    "current_rank": 4,
+    "last_rank": 2,
+    "stats": {
+      "comment_count": 18284
+    }
+  },
+  {
+    "id": "2709812973",
+    "name": "拂晓 Proi Proi",
+    "artist": "HOYO-MiX",
+    "type": "电子",
+    "duration": 238,
+    "current_rank": 5,
+    "last_rank": 3,
+    "stats": {
+      "comment_count": 10429
+    }
+  },
+  {
+    "id": "2745026895",
+    "name": "IRIS OUT",
+    "artist": "米津玄師",
+    "type": "电子",
+    "duration": 151,
+    "current_rank": 6,
+    "last_rank": 4,
+    "stats": {
+      "comment_count": 4253
+    }
+  },
+  {
+    "id": "3316971855",
+    "name": "Ripples of Past Reverie",
+    "artist": "Cassie Wei",
+    "type": "电子",
+    "duration": 186,
+    "current_rank": 7,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 538
+    }
+  },
+  {
+    "id": "2755971761",
+    "name": "Little Bouquet",
+    "artist": "Aimer",
+    "type": "电子",
+    "duration": 251,
+    "current_rank": 8,
+    "last_rank": 7,
+    "stats": {
+      "comment_count": 607
+    }
+  },
+  {
+    "id": "2727103300",
+    "name": "太陽が昇らない世界 - A World Where the Sun Never Rises",
+    "artist": "Aimer",
+    "type": "电子",
+    "duration": 170,
+    "current_rank": 9,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 2213
+    }
+  },
+  {
+    "id": "2750140001",
+    "name": "提瓦特民谣",
+    "artist": "宴宁",
+    "type": "电子",
+    "duration": 217,
+    "current_rank": 10,
+    "last_rank": 6,
+    "stats": {
+      "comment_count": 2603
+    }
+  },
+  {
+    "id": "2727103261",
+    "name": "残酷な夜に輝け - Shine in the Cruel Night",
+    "artist": "LiSA",
+    "type": "电子",
+    "duration": 383,
+    "current_rank": 11,
+    "last_rank": 72,
+    "stats": {
+      "comment_count": 2549
+    }
+  },
+  {
+    "id": "2756019215",
+    "name": "新月的摇篮曲（其一）：伴月同眠 Lullaby of the New Moon (I): Somnias a Luna",
+    "artist": "HOYO-MiX",
+    "type": "电子",
+    "duration": 129,
+    "current_rank": 12,
+    "last_rank": 8,
+    "stats": {
+      "comment_count": 662
+    }
+  },
+  {
+    "id": "3312018325",
+    "name": "Little Bouquet",
+    "artist": "Aimer",
+    "type": "电子",
+    "duration": 251,
+    "current_rank": 13,
+    "last_rank": 5,
+    "stats": {
+      "comment_count": 433
+    }
+  },
+  {
+    "id": "2707332868",
+    "name": "TIAN TIAN",
+    "artist": "Mili",
+    "type": "电子",
+    "duration": 248,
+    "current_rank": 14,
+    "last_rank": 12,
+    "stats": {
+      "comment_count": 6485
+    }
+  },
+  {
+    "id": "2756019200",
+    "name": "挪德卡莱 Nod-Krai",
+    "artist": "AURORA",
+    "type": "电子",
+    "duration": 260,
+    "current_rank": 15,
+    "last_rank": 11,
+    "stats": {
+      "comment_count": 1105
+    }
+  },
+  {
+    "id": "2748705216",
+    "name": "Pastoral",
+    "artist": "Aimer",
+    "type": "电子",
+    "duration": 245,
+    "current_rank": 16,
+    "last_rank": 13,
+    "stats": {
+      "comment_count": 1033
+    }
+  },
+  {
+    "id": "2753957634",
+    "name": "When We Were the Most Beautiful",
+    "artist": "ヒグチアイ",
+    "type": "电子",
+    "duration": 342,
+    "current_rank": 17,
+    "last_rank": 9,
+    "stats": {
+      "comment_count": 1610
+    }
+  },
+  {
+    "id": "2742468679",
+    "name": "in your blue eyes",
+    "artist": "Ave Mujica",
+    "type": "电子",
+    "duration": 222,
+    "current_rank": 18,
+    "last_rank": 14,
+    "stats": {
+      "comment_count": 3049
+    }
+  },
+  {
+    "id": "2750093263",
+    "name": "VISIONS （『仮面ライダーゼッツ』主題歌）",
+    "artist": "NAQT VANE",
+    "type": "电子",
+    "duration": 183,
+    "current_rank": 19,
+    "last_rank": 15,
+    "stats": {
+      "comment_count": 609
+    }
+  },
+  {
+    "id": "2751940573",
+    "name": "Let's Go!! Rider Kick (TeddyLoid Edit)",
+    "artist": "TeddyLoid",
+    "type": "电子",
+    "duration": 213,
+    "current_rank": 20,
+    "last_rank": 16,
+    "stats": {
+      "comment_count": 498
+    }
+  },
+  {
+    "id": "2719303315",
+    "name": "革命道中 - On The Way",
+    "artist": "アイナ・ジ・エンド",
+    "type": "电子",
+    "duration": 197,
+    "current_rank": 21,
+    "last_rank": 18,
+    "stats": {
+      "comment_count": 2353
+    }
+  },
+  {
+    "id": "2759492052",
+    "name": "うつくしじごく",
+    "artist": "Reol",
+    "type": "电子",
+    "duration": 231,
+    "current_rank": 22,
+    "last_rank": 10,
+    "stats": {
+      "comment_count": 311
+    }
+  },
+  {
+    "id": "3312019243",
+    "name": "Little Bouquet (Instrumental)",
+    "artist": "Aimer",
+    "type": "电子",
+    "duration": 251,
+    "current_rank": 23,
+    "last_rank": 27,
+    "stats": {
+      "comment_count": 165
+    }
+  },
+  {
+    "id": "2736706230",
+    "name": "BATTLEPLAN ARCLIGHT",
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 224,
+    "current_rank": 24,
+    "last_rank": 19,
+    "stats": {
+      "comment_count": 1907
+    }
+  },
+  {
+    "id": "3312719598",
+    "name": "MAGIC",
+    "artist": "Ado",
+    "type": "电子",
+    "duration": 172,
+    "current_rank": 25,
+    "last_rank": 17,
+    "stats": {
+      "comment_count": 792
+    }
+  },
+  {
+    "id": "2722447989",
+    "name": "致以无名的抗争者",
+    "artist": "鸣潮先约电台",
+    "type": "电子",
+    "duration": 241,
+    "current_rank": 26,
+    "last_rank": 21,
+    "stats": {
+      "comment_count": 2150
+    }
+  },
+  {
+    "id": "2720129362",
+    "name": "RUNNING FOR YOUR LIFE",
+    "artist": "鸣潮先约电台",
+    "type": "电子",
+    "duration": 230,
+    "current_rank": 27,
+    "last_rank": 22,
+    "stats": {
+      "comment_count": 1981
+    }
+  },
+  {
+    "id": "2751351950",
+    "name": "反常光谱",
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 195,
+    "current_rank": 28,
+    "last_rank": 20,
+    "stats": {
+      "comment_count": 895
+    }
+  },
+  {
+    "id": "2741315465",
+    "name": "エガクミライ",
+    "artist": "MyGO!!!!!",
+    "type": "电子",
+    "duration": 239,
+    "current_rank": 29,
+    "last_rank": 23,
+    "stats": {
+      "comment_count": 2484
+    }
+  },
+  {
+    "id": "3319350063",
+    "name": "作曲家专属 EP-《弗雷德里克的协奏曲》",
+    "artist": "第五人格",
+    "type": "电子",
+    "duration": 144,
+    "current_rank": 30,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 273
+    }
+  },
+  {
+    "id": "2756018761",
+    "name": "晚祷的铃歌 Dzwony na nieszpory",
+    "artist": "HOYO-MiX",
+    "type": "电子",
+    "duration": 103,
+    "current_rank": 31,
+    "last_rank": 28,
+    "stats": {
+      "comment_count": 219
+    }
+  },
+  {
+    "id": "2719777632",
+    "name": "于深空见证的",
+    "artist": "恋与深空",
+    "type": "电子",
+    "duration": 298,
+    "current_rank": 32,
+    "last_rank": 26,
+    "stats": {
+      "comment_count": 3462
+    }
+  },
+  {
+    "id": "2751379003",
+    "name": "Sealed",
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 277,
+    "current_rank": 33,
+    "last_rank": 25,
+    "stats": {
+      "comment_count": 410
+    }
+  },
+  {
+    "id": "3319348213",
+    "name": "弗雷德里克的协奏曲",
+    "artist": "第五人格",
+    "type": "电子",
+    "duration": 143,
+    "current_rank": 34,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 237
+    }
+  },
+  {
+    "id": "2723338530",
+    "name": "ムリムリ進化論",
+    "artist": "七音阿卡莉",
+    "type": "电子",
+    "duration": 195,
+    "current_rank": 35,
+    "last_rank": 29,
+    "stats": {
+      "comment_count": 1756
+    }
+  },
+  {
+    "id": "2745230448",
+    "name": "My Color",
+    "artist": "DAIKI(AWSM.)",
+    "type": "电子",
+    "duration": 290,
+    "current_rank": 36,
+    "last_rank": 32,
+    "stats": {
+      "comment_count": 173
+    }
+  },
+  {
+    "id": "2751940571",
+    "name": "RIDER, RIDER",
+    "artist": "TeddyLoid",
+    "type": "电子",
+    "duration": 170,
+    "current_rank": 37,
+    "last_rank": 46,
+    "stats": {
+      "comment_count": 131
+    }
+  },
+  {
+    "id": "2753833710",
+    "name": "ありふれてたい",
+    "artist": "花譜",
+    "type": "电子",
+    "duration": 169,
+    "current_rank": 38,
+    "last_rank": 30,
+    "stats": {
+      "comment_count": 222
+    }
+  },
+  {
+    "id": "2721328674",
+    "name": "再会",
+    "artist": "Vaundy",
+    "type": "电子",
+    "duration": 260,
+    "current_rank": 39,
+    "last_rank": 31,
+    "stats": {
+      "comment_count": 1966
+    }
+  },
+  {
+    "id": "2711809790",
+    "name": "不及",
+    "artist": "苏诗丁",
+    "type": "电子",
+    "duration": 290,
+    "current_rank": 40,
+    "last_rank": 33,
+    "stats": {
+      "comment_count": 1354
+    }
+  },
+  {
+    "id": "2716065075",
+    "name": "ハレの日に - Harenohini",
+    "artist": "汐れいら",
+    "type": "电子",
+    "duration": 277,
+    "current_rank": 41,
+    "last_rank": 38,
+    "stats": {
+      "comment_count": 756
+    }
+  },
+  {
+    "id": "2755406555",
+    "name": "Paper Boat",
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 212,
+    "current_rank": 42,
+    "last_rank": 35,
+    "stats": {
+      "comment_count": 250
+    }
+  },
+  {
+    "id": "2732276292",
+    "name": "母神傩",
+    "artist": "以闪亮之名",
+    "type": "电子",
+    "duration": 194,
+    "current_rank": 43,
+    "last_rank": 43,
+    "stats": {
+      "comment_count": 566
+    }
+  },
+  {
+    "id": "2743433276",
+    "name": "リリィ",
+    "artist": "上田麗奈",
+    "type": "电子",
+    "duration": 257,
+    "current_rank": 44,
+    "last_rank": 41,
+    "stats": {
+      "comment_count": 207
+    }
+  },
+  {
+    "id": "3312019244",
+    "name": "Pastoral (TV Size)",
+    "artist": "Aimer",
+    "type": "电子",
+    "duration": 91,
+    "current_rank": 45,
+    "last_rank": 47,
+    "stats": {
+      "comment_count": 48
+    }
+  },
+  {
+    "id": "2724022963",
+    "name": "Behind the Curtain",
+    "artist": "无期迷途",
+    "type": "电子",
+    "duration": 165,
+    "current_rank": 46,
+    "last_rank": 45,
+    "stats": {
+      "comment_count": 1287
+    }
+  },
+  {
+    "id": "2715126338",
+    "name": "Hello",
+    "artist": "Furui Riho",
+    "type": "电子",
+    "duration": 232,
+    "current_rank": 47,
+    "last_rank": 42,
+    "stats": {
+      "comment_count": 697
+    }
+  },
+  {
+    "id": "2725549814",
+    "name": "迷っちゃうわ",
+    "artist": "フィロソフィーのダンス",
+    "type": "电子",
+    "duration": 218,
+    "current_rank": 48,
+    "last_rank": 44,
+    "stats": {
+      "comment_count": 763
+    }
+  },
+  {
+    "id": "2735863130",
+    "name": "NAME==逻各斯？秘所思",
+    "artist": "八奈见杏菜",
+    "type": "电子",
+    "duration": 205,
+    "current_rank": 49,
+    "last_rank": 37,
+    "stats": {
+      "comment_count": 131
+    }
+  },
+  {
+    "id": "2755639815",
+    "name": "プラットフォーム",
+    "artist": "Uru",
+    "type": "电子",
+    "duration": 210,
+    "current_rank": 50,
+    "last_rank": 48,
+    "stats": {
+      "comment_count": 150
+    }
+  },
+  {
+    "id": "2756034903",
+    "name": "永夜与破晓的誓刃 To Light the Aeon Dark",
+    "artist": "HOYO-MiX",
+    "type": "电子",
+    "duration": 191,
+    "current_rank": 51,
+    "last_rank": 49,
+    "stats": {
+      "comment_count": 179
+    }
+  },
+  {
+    "id": "2721416237",
+    "name": "春天对花所做的事",
+    "artist": "恋与深空",
+    "type": "电子",
+    "duration": 236,
+    "current_rank": 52,
+    "last_rank": 51,
+    "stats": {
+      "comment_count": 782
+    }
+  },
+  {
+    "id": "2756019205",
+    "name": "飘曳的眠梦 The Swinging Motion of the Hulls",
+    "artist": "HOYO-MiX",
+    "type": "电子",
+    "duration": 133,
+    "current_rank": 53,
+    "last_rank": 39,
+    "stats": {
+      "comment_count": 180
+    }
+  },
+  {
+    "id": "2718562172",
+    "name": "主角",
+    "artist": "世界之外",
+    "type": "电子",
+    "duration": 297,
+    "current_rank": 54,
+    "last_rank": 50,
+    "stats": {
+      "comment_count": 1941
+    }
+  },
+  {
+    "id": "2736380062",
+    "name": "凝固的浪花（转载）",
+    "artist": "八奈见杏菜",
+    "type": "电子",
+    "duration": 110,
+    "current_rank": 55,
+    "last_rank": 52,
+    "stats": {
+      "comment_count": 272
+    }
+  },
+  {
+    "id": "2721697533",
+    "name": "Mirage (OP Theme to Call of the Night Season 2)",
+    "artist": "Creepy Nuts",
+    "type": "电子",
+    "duration": 138,
+    "current_rank": 56,
+    "last_rank": 53,
+    "stats": {
+      "comment_count": 1087
+    }
+  },
+  {
+    "id": "2754204398",
+    "name": "咆哮 - HOKO",
+    "artist": "友成空",
+    "type": "电子",
+    "duration": 209,
+    "current_rank": 57,
+    "last_rank": 40,
+    "stats": {
+      "comment_count": 131
+    }
+  },
+  {
+    "id": "3313795894",
+    "name": "as trailer",
+    "artist": "早見沙織",
+    "type": "电子",
+    "duration": 198,
+    "current_rank": 58,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 51
+    }
+  },
+  {
+    "id": "2712336626",
+    "name": "Grow on My Time",
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 240,
+    "current_rank": 59,
+    "last_rank": 62,
+    "stats": {
+      "comment_count": 2000
+    }
+  },
+  {
+    "id": "2747528475",
+    "name": "インフェリア",
+    "artist": "シユイ",
+    "type": "电子",
+    "duration": 219,
+    "current_rank": 60,
+    "last_rank": 58,
+    "stats": {
+      "comment_count": 136
+    }
+  },
+  {
+    "id": "2748947666",
+    "name": "Remnants (Hikaru and Yoshiki)",
+    "artist": "梅田修一朗",
+    "type": "电子",
+    "duration": 90,
+    "current_rank": 61,
+    "last_rank": 91,
+    "stats": {
+      "comment_count": 118
+    }
+  },
+  {
+    "id": "2756018768",
+    "name": "游步欣愉 Gladsome Ramble",
+    "artist": "HOYO-MiX",
+    "type": "电子",
+    "duration": 131,
+    "current_rank": 62,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 119
+    }
+  },
+  {
+    "id": "2749389579",
+    "name": "Stare In Wonder",
+    "artist": "BE:FIRST",
+    "type": "电子",
+    "duration": 197,
+    "current_rank": 63,
+    "last_rank": 77,
+    "stats": {
+      "comment_count": 125
+    }
+  },
+  {
+    "id": "2723357459",
+    "name": "惊蛰时",
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 210,
+    "current_rank": 64,
+    "last_rank": 63,
+    "stats": {
+      "comment_count": 1012
+    }
+  },
+  {
+    "id": "3313987952",
+    "name": "ハローミューズ",
+    "artist": "佐藤日向",
+    "type": "电子",
+    "duration": 287,
+    "current_rank": 65,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 78
+    }
+  },
+  {
+    "id": "2724725170",
+    "name": "End of Days",
+    "artist": "ReoNa",
+    "type": "电子",
+    "duration": 242,
+    "current_rank": 66,
+    "last_rank": 57,
+    "stats": {
+      "comment_count": 339
+    }
+  },
+  {
+    "id": "2751351951",
+    "name": "无序频谱",
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 164,
+    "current_rank": 67,
+    "last_rank": 59,
+    "stats": {
+      "comment_count": 334
+    }
+  },
+  {
+    "id": "2743175270",
+    "name": "《Call the Shot》",
+    "artist": "第五人格",
+    "type": "电子",
+    "duration": 172,
+    "current_rank": 68,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 625
+    }
+  },
+  {
+    "id": "2721698290",
+    "name": "まなざしは光",
+    "artist": "キタニタツヤ",
+    "type": "电子",
+    "duration": 207,
+    "current_rank": 69,
+    "last_rank": 68,
+    "stats": {
+      "comment_count": 629
+    }
+  },
+  {
+    "id": "2751938831",
+    "name": "Spider Beat",
+    "artist": "TeddyLoid",
+    "type": "电子",
+    "duration": 176,
+    "current_rank": 70,
+    "last_rank": 65,
+    "stats": {
+      "comment_count": 97
+    }
+  },
+  {
+    "id": "2718563207",
+    "name": "喝彩",
+    "artist": "世界之外",
+    "type": "电子",
+    "duration": 241,
+    "current_rank": 71,
+    "last_rank": 69,
+    "stats": {
+      "comment_count": 1207
+    }
+  },
+  {
+    "id": "2757943684",
+    "name": "It's My Justice",
+    "artist": "TeddyLoid",
+    "type": "电子",
+    "duration": 164,
+    "current_rank": 72,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 39
+    }
+  },
+  {
+    "id": "2743214030",
+    "name": "美梦必须成真",
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 152,
+    "current_rank": 73,
+    "last_rank": 75,
+    "stats": {
+      "comment_count": 427
+    }
+  },
+  {
+    "id": "2739356640",
+    "name": "我曾在...",
+    "artist": "无期迷途",
+    "type": "电子",
+    "duration": 219,
+    "current_rank": 74,
+    "last_rank": 67,
+    "stats": {
+      "comment_count": 490
+    }
+  },
+  {
+    "id": "2726915797",
+    "name": "あなたはかいぶつ",
+    "artist": "TOOBOE",
+    "type": "电子",
+    "duration": 171,
+    "current_rank": 75,
+    "last_rank": 64,
+    "stats": {
+      "comment_count": 558
+    }
+  },
+  {
+    "id": "2721762189",
+    "name": "no man's world",
+    "artist": "音羽-otoha-",
+    "type": "电子",
+    "duration": 258,
+    "current_rank": 76,
+    "last_rank": 73,
+    "stats": {
+      "comment_count": 436
+    }
+  },
+  {
+    "id": "2745371115",
+    "name": "To My Savior",
+    "artist": "Zhevincia",
+    "type": "电子",
+    "duration": 120,
+    "current_rank": 77,
+    "last_rank": 90,
+    "stats": {
+      "comment_count": 231
+    }
+  },
+  {
+    "id": "2751352316",
+    "name": "星の鼓動",
+    "artist": "こはならむ",
+    "type": "电子",
+    "duration": 230,
+    "current_rank": 78,
+    "last_rank": 87,
+    "stats": {
+      "comment_count": 254
+    }
+  },
+  {
+    "id": "2724130094",
+    "name": "ラストルック",
+    "artist": "須田景凪",
+    "type": "电子",
+    "duration": 187,
+    "current_rank": 79,
+    "last_rank": 80,
+    "stats": {
+      "comment_count": 153
+    }
+  },
+  {
+    "id": "2757219978",
+    "name": "Against the Rising Tide",
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 126,
+    "current_rank": 80,
+    "last_rank": 66,
+    "stats": {
+      "comment_count": 214
+    }
+  },
+  {
+    "id": "2726248734",
+    "name": "らしさ",
+    "artist": "Official髭男dism",
+    "type": "电子",
+    "duration": 302,
+    "current_rank": 81,
+    "last_rank": 78,
+    "stats": {
+      "comment_count": 505
+    }
+  },
+  {
+    "id": "2721332245",
+    "name": "Feel",
+    "artist": "羊文学",
+    "type": "电子",
+    "duration": 245,
+    "current_rank": 82,
+    "last_rank": 70,
+    "stats": {
+      "comment_count": 345
+    }
+  },
+  {
+    "id": "2758133115",
+    "name": "Drown Out the Noise and Push Through the Trash",
+    "artist": "RAISE A SUILEN",
+    "type": "电子",
+    "duration": 216,
+    "current_rank": 83,
+    "last_rank": 54,
+    "stats": {
+      "comment_count": 86
+    }
+  },
+  {
+    "id": "2717604506",
+    "name": "かごめかごめ",
+    "artist": "オーイシマサヨシ",
+    "type": "电子",
+    "duration": 177,
+    "current_rank": 84,
+    "last_rank": 83,
+    "stats": {
+      "comment_count": 1413
+    }
+  },
+  {
+    "id": "2751940572",
+    "name": "I am Tackle!",
+    "artist": "TeddyLoid",
+    "type": "电子",
+    "duration": 184,
+    "current_rank": 85,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 105
+    }
+  },
+  {
+    "id": "3313987317",
+    "name": "昔語りふたりぼっち",
+    "artist": "生田輝",
+    "type": "电子",
+    "duration": 277,
+    "current_rank": 86,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 58
+    }
+  },
+  {
+    "id": "2736705380",
+    "name": "LEVIATION",
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 180,
+    "current_rank": 87,
+    "last_rank": 84,
+    "stats": {
+      "comment_count": 545
+    }
+  },
+  {
+    "id": "2722052934",
+    "name": "マリー",
+    "artist": "Myuk",
+    "type": "电子",
+    "duration": 211,
+    "current_rank": 88,
+    "last_rank": 86,
+    "stats": {
+      "comment_count": 246
+    }
+  },
+  {
+    "id": "2739596242",
+    "name": "追夏",
+    "artist": "时空中的绘旅人",
+    "type": "电子",
+    "duration": 74,
+    "current_rank": 89,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 844
+    }
+  },
+  {
+    "id": "2707321635",
+    "name": "Graceful Punishment",
+    "artist": "Cascade of…",
+    "type": "电子",
+    "duration": 259,
+    "current_rank": 90,
+    "last_rank": 81,
+    "stats": {
+      "comment_count": 690
+    }
+  },
+  {
+    "id": "2733034343",
+    "name": "SOLO LEVELING WORKOUT (DARK ARIA/4eVR Remix by Yuki Tsujimura)",
+    "artist": "澤野弘之",
+    "type": "电子",
+    "duration": 346,
+    "current_rank": 91,
+    "last_rank": 93,
+    "stats": {
+      "comment_count": 301
+    }
+  },
+  {
+    "id": "2706706011",
+    "name": "ハッピーラッキーチャッピー",
+    "artist": "ano",
+    "type": "电子",
+    "duration": 184,
+    "current_rank": 92,
+    "last_rank": 94,
+    "stats": {
+      "comment_count": 1244
+    }
+  },
+  {
+    "id": "2730145369",
+    "name": "Before the beginning",
+    "artist": "暖暖",
+    "type": "电子",
+    "duration": 181,
+    "current_rank": 93,
+    "last_rank": 92,
+    "stats": {
+      "comment_count": 1013
+    }
+  },
+  {
+    "id": "2733684683",
+    "name": "Butterfly～愛・アイヤー～",
+    "artist": "96猫",
+    "type": "电子",
+    "duration": 186,
+    "current_rank": 94,
+    "last_rank": 76,
+    "stats": {
+      "comment_count": 349
+    }
+  },
+  {
+    "id": "3313987318",
+    "name": "Unfinished Song",
+    "artist": "富田麻帆",
+    "type": "电子",
+    "duration": 292,
+    "current_rank": 95,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 36
+    }
+  },
+  {
+    "id": "2709403466",
+    "name": "The After",
+    "artist": "塞壬唱片-MSR",
+    "type": "电子",
+    "duration": 260,
+    "current_rank": 96,
+    "last_rank": 96,
+    "stats": {
+      "comment_count": 1055
+    }
+  },
+  {
+    "id": "2751938830",
+    "name": "Legion of Hell",
+    "artist": "TeddyLoid",
+    "type": "电子",
+    "duration": 218,
+    "current_rank": 97,
+    "last_rank": 85,
+    "stats": {
+      "comment_count": 242
+    }
+  },
+  {
+    "id": "2758133114",
+    "name": "FIVE as ONE",
+    "artist": "RAISE A SUILEN",
+    "type": "电子",
+    "duration": 255,
+    "current_rank": 98,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 38
+    }
+  },
+  {
+    "id": "2749738591",
+    "name": "Black Flame",
+    "artist": "KID PHENOMENON",
+    "type": "电子",
+    "duration": 210,
+    "current_rank": 99,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 119
+    }
+  },
+  {
+    "id": "2724131075",
+    "name": "灯火",
+    "artist": "DUSTCELL",
+    "type": "电子",
+    "duration": 210,
+    "current_rank": 100,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 332
+    }
+  },
+  {
+    "id": "2759426653",
+    "name": "跟悲伤结了帐",
+    "artist": "Gareth.T",
+    "type": "中文说唱",
+    "duration": 183,
+    "current_rank": 1,
+    "last_rank": 0,
+    "stats": {
+      "comment_count": 20281
+    }
+  },
+  {
+    "id": "3318010850",
+    "name": "亮剑",
+    "artist": "盛宇D-SHINE",
+    "type": "中文说唱",
+    "duration": 148,
+    "current_rank": 2,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1634
+    }
+  },
+  {
+    "id": "3312738881",
+    "name": "BLACKBIRRRD",
+    "artist": "GALI",
+    "type": "中文说唱",
+    "duration": 189,
+    "current_rank": 3,
+    "last_rank": 1,
+    "stats": {
+      "comment_count": 3790
+    }
+  },
+  {
+    "id": "2749525442",
+    "name": "唤水剑",
+    "artist": "SASIOVERLXRD",
+    "type": "中文说唱",
+    "duration": 165,
+    "current_rank": 4,
+    "last_rank": 2,
+    "stats": {
+      "comment_count": 7096
+    }
+  },
+  {
+    "id": "2749525429",
+    "name": "天生痛苦",
+    "artist": "SASIOVERLXRD",
+    "type": "中文说唱",
+    "duration": 117,
+    "current_rank": 5,
+    "last_rank": 3,
+    "stats": {
+      "comment_count": 8022
+    }
+  },
+  {
+    "id": "2755030698",
+    "name": "懂不？",
+    "artist": "艾志恒Asen",
+    "type": "中文说唱",
+    "duration": 165,
+    "current_rank": 6,
+    "last_rank": 4,
+    "stats": {
+      "comment_count": 8222
+    }
+  },
+  {
+    "id": "3315209589",
+    "name": "街头流行",
+    "artist": "艾洛樱Aluvin",
+    "type": "中文说唱",
+    "duration": 196,
+    "current_rank": 7,
+    "last_rank": 13,
+    "stats": {
+      "comment_count": 1515
+    }
+  },
+  {
+    "id": "2757535734",
+    "name": "生活麻辣烫",
+    "artist": "王齐铭WatchMe",
+    "type": "中文说唱",
+    "duration": 184,
+    "current_rank": 8,
+    "last_rank": 5,
+    "stats": {
+      "comment_count": 10824
+    }
+  },
+  {
+    "id": "2753714634",
+    "name": "Hotel Lobby",
+    "artist": "马思唯",
+    "type": "中文说唱",
+    "duration": 200,
+    "current_rank": 9,
+    "last_rank": 6,
+    "stats": {
+      "comment_count": 2758
+    }
+  },
+  {
+    "id": "2754174746",
+    "name": "英雄",
+    "artist": "艾志恒Asen",
+    "type": "中文说唱",
+    "duration": 183,
+    "current_rank": 10,
+    "last_rank": 10,
+    "stats": {
+      "comment_count": 23083
+    }
+  },
+  {
+    "id": "3312623223",
+    "name": "LV",
+    "artist": "APMOZART",
+    "type": "中文说唱",
+    "duration": 182,
+    "current_rank": 11,
+    "last_rank": 9,
+    "stats": {
+      "comment_count": 15916
+    }
+  },
+  {
+    "id": "2749755008",
+    "name": "杏冷淡freestyle",
+    "artist": "柴行敏",
+    "type": "中文说唱",
+    "duration": 123,
+    "current_rank": 12,
+    "last_rank": 11,
+    "stats": {
+      "comment_count": 4219
+    }
+  },
+  {
+    "id": "2754175477",
+    "name": "在雨后醒来",
+    "artist": "艾志恒Asen",
+    "type": "中文说唱",
+    "duration": 245,
+    "current_rank": 13,
+    "last_rank": 15,
+    "stats": {
+      "comment_count": 25699
+    }
+  },
+  {
+    "id": "3312190219",
+    "name": "短裙 (MiniSkirt)",
+    "artist": "OuttaWave",
+    "type": "中文说唱",
+    "duration": 164,
+    "current_rank": 14,
+    "last_rank": 8,
+    "stats": {
+      "comment_count": 1551
+    }
+  },
+  {
+    "id": "2751267244",
+    "name": "不得了Freestyle",
+    "artist": "王齐铭WatchMe",
+    "type": "中文说唱",
+    "duration": 140,
+    "current_rank": 15,
+    "last_rank": 12,
+    "stats": {
+      "comment_count": 4458
+    }
+  },
+  {
+    "id": "2756052140",
+    "name": "明天天明",
+    "artist": "海洋Bo",
+    "type": "中文说唱",
+    "duration": 213,
+    "current_rank": 16,
+    "last_rank": 40,
+    "stats": {
+      "comment_count": 267
+    }
+  },
+  {
+    "id": "2757535735",
+    "name": "五小区",
+    "artist": "王齐铭WatchMe",
+    "type": "中文说唱",
+    "duration": 161,
+    "current_rank": 17,
+    "last_rank": 14,
+    "stats": {
+      "comment_count": 1690
+    }
+  },
+  {
+    "id": "3316584402",
+    "name": "回声",
+    "artist": "杭异凡",
+    "type": "中文说唱",
+    "duration": 208,
+    "current_rank": 18,
+    "last_rank": 7,
+    "stats": {
+      "comment_count": 1682
+    }
+  },
+  {
+    "id": "3312206017",
+    "name": "万花筒写轮眼",
+    "artist": "BOBBYNOPEACE",
+    "type": "中文说唱",
+    "duration": 144,
+    "current_rank": 19,
+    "last_rank": 16,
+    "stats": {
+      "comment_count": 27024
+    }
+  },
+  {
+    "id": "2749440963",
+    "name": "不后悔",
+    "artist": "宝石Gem",
+    "type": "中文说唱",
+    "duration": 209,
+    "current_rank": 20,
+    "last_rank": 17,
+    "stats": {
+      "comment_count": 1561
+    }
+  },
+  {
+    "id": "3318040610",
+    "name": "雨和雨",
+    "artist": "马赫mood",
+    "type": "中文说唱",
+    "duration": 258,
+    "current_rank": 21,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1431
+    }
+  },
+  {
+    "id": "2753714636",
+    "name": "登录",
+    "artist": "马思唯",
+    "type": "中文说唱",
+    "duration": 156,
+    "current_rank": 22,
+    "last_rank": 24,
+    "stats": {
+      "comment_count": 29612
+    }
+  },
+  {
+    "id": "2754175476",
+    "name": "Dear Mama",
+    "artist": "艾志恒Asen",
+    "type": "中文说唱",
+    "duration": 134,
+    "current_rank": 23,
+    "last_rank": 21,
+    "stats": {
+      "comment_count": 6268
+    }
+  },
+  {
+    "id": "3312734747",
+    "name": "Pretty",
+    "artist": "王鹤棣",
+    "type": "中文说唱",
+    "duration": 195,
+    "current_rank": 24,
+    "last_rank": 35,
+    "stats": {
+      "comment_count": 4887
+    }
+  },
+  {
+    "id": "3312623966",
+    "name": "赢家圈子",
+    "artist": "APMOZART",
+    "type": "中文说唱",
+    "duration": 186,
+    "current_rank": 25,
+    "last_rank": 18,
+    "stats": {
+      "comment_count": 2038
+    }
+  },
+  {
+    "id": "2758524840",
+    "name": "瞳孔",
+    "artist": "三火flame",
+    "type": "中文说唱",
+    "duration": 123,
+    "current_rank": 26,
+    "last_rank": 25,
+    "stats": {
+      "comment_count": 1587
+    }
+  },
+  {
+    "id": "2749440964",
+    "name": "五百",
+    "artist": "宝石Gem",
+    "type": "中文说唱",
+    "duration": 188,
+    "current_rank": 27,
+    "last_rank": 30,
+    "stats": {
+      "comment_count": 3273
+    }
+  },
+  {
+    "id": "3315254859",
+    "name": "花伞",
+    "artist": "亞細亞曠世奇才",
+    "type": "中文说唱",
+    "duration": 194,
+    "current_rank": 28,
+    "last_rank": 22,
+    "stats": {
+      "comment_count": 1535
+    }
+  },
+  {
+    "id": "2754174752",
+    "name": "你给的恨",
+    "artist": "艾志恒Asen",
+    "type": "中文说唱",
+    "duration": 188,
+    "current_rank": 29,
+    "last_rank": 28,
+    "stats": {
+      "comment_count": 3250
+    }
+  },
+  {
+    "id": "2754174747",
+    "name": "嘻哈脑壳",
+    "artist": "艾志恒Asen",
+    "type": "中文说唱",
+    "duration": 179,
+    "current_rank": 30,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 4226
+    }
+  },
+  {
+    "id": "2755082611",
+    "name": "One night in 解放碑",
+    "artist": "王齐铭WatchMe",
+    "type": "中文说唱",
+    "duration": 162,
+    "current_rank": 31,
+    "last_rank": 20,
+    "stats": {
+      "comment_count": 4362
+    }
+  },
+  {
+    "id": "2747401481",
+    "name": "炸弹爱",
+    "artist": "africakid",
+    "type": "中文说唱",
+    "duration": 166,
+    "current_rank": 32,
+    "last_rank": 41,
+    "stats": {
+      "comment_count": 2258
+    }
+  },
+  {
+    "id": "2754510819",
+    "name": "那就赚",
+    "artist": "EvilJoker",
+    "type": "中文说唱",
+    "duration": 179,
+    "current_rank": 33,
+    "last_rank": 37,
+    "stats": {
+      "comment_count": 822
+    }
+  },
+  {
+    "id": "3312960389",
+    "name": "永玄定鼎",
+    "artist": "MULA SAKEE",
+    "type": "中文说唱",
+    "duration": 247,
+    "current_rank": 34,
+    "last_rank": 23,
+    "stats": {
+      "comment_count": 4199
+    }
+  },
+  {
+    "id": "2755363089",
+    "name": "危险温度",
+    "artist": "程思源",
+    "type": "中文说唱",
+    "duration": 152,
+    "current_rank": 35,
+    "last_rank": 33,
+    "stats": {
+      "comment_count": 1020
+    }
+  },
+  {
+    "id": "2757535738",
+    "name": "男子汉",
+    "artist": "王齐铭WatchMe",
+    "type": "中文说唱",
+    "duration": 163,
+    "current_rank": 36,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 666
+    }
+  },
+  {
+    "id": "2757538156",
+    "name": "老生常谈Freestyle",
+    "artist": "王齐铭WatchMe",
+    "type": "中文说唱",
+    "duration": 129,
+    "current_rank": 37,
+    "last_rank": 31,
+    "stats": {
+      "comment_count": 573
+    }
+  },
+  {
+    "id": "2759793307",
+    "name": "不听嘻哈才是一件很嘻哈的事",
+    "artist": "福来",
+    "type": "中文说唱",
+    "duration": 193,
+    "current_rank": 38,
+    "last_rank": 34,
+    "stats": {
+      "comment_count": 1907
+    }
+  },
+  {
+    "id": "3312202510",
+    "name": "哥这儿才叫日子 (feat. Capper)",
+    "artist": "Cool-Aid陈轶伦",
+    "type": "中文说唱",
+    "duration": 148,
+    "current_rank": 39,
+    "last_rank": 32,
+    "stats": {
+      "comment_count": 650
+    }
+  },
+  {
+    "id": "3312623232",
+    "name": "Like ovo",
+    "artist": "APMOZART",
+    "type": "中文说唱",
+    "duration": 164,
+    "current_rank": 40,
+    "last_rank": 26,
+    "stats": {
+      "comment_count": 1945
+    }
+  },
+  {
+    "id": "2753714638",
+    "name": "钻石车子票子",
+    "artist": "马思唯",
+    "type": "中文说唱",
+    "duration": 195,
+    "current_rank": 41,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 2400
+    }
+  },
+  {
+    "id": "2746893225",
+    "name": "耐寒体质",
+    "artist": "FEEEleven",
+    "type": "中文说唱",
+    "duration": 180,
+    "current_rank": 42,
+    "last_rank": 39,
+    "stats": {
+      "comment_count": 5490
+    }
+  },
+  {
+    "id": "3317670133",
+    "name": "rain rain",
+    "artist": "Yaka",
+    "type": "中文说唱",
+    "duration": 149,
+    "current_rank": 43,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 210
+    }
+  },
+  {
+    "id": "2756382547",
+    "name": "局子街",
+    "artist": "零赫兹0HZ",
+    "type": "中文说唱",
+    "duration": 165,
+    "current_rank": 44,
+    "last_rank": 49,
+    "stats": {
+      "comment_count": 516
+    }
+  },
+  {
+    "id": "2749524734",
+    "name": "紧身衣",
+    "artist": "SASIOVERLXRD",
+    "type": "中文说唱",
+    "duration": 150,
+    "current_rank": 45,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 2308
+    }
+  },
+  {
+    "id": "2752898270",
+    "name": "OHHO",
+    "artist": "UD",
+    "type": "中文说唱",
+    "duration": 98,
+    "current_rank": 46,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 1171
+    }
+  },
+  {
+    "id": "2753713693",
+    "name": "T0",
+    "artist": "马思唯",
+    "type": "中文说唱",
+    "duration": 144,
+    "current_rank": 47,
+    "last_rank": 46,
+    "stats": {
+      "comment_count": 1641
+    }
+  },
+  {
+    "id": "2758227085",
+    "name": "才发现最喜欢是过万圣节",
+    "artist": "河南说唱之神",
+    "type": "中文说唱",
+    "duration": 133,
+    "current_rank": 48,
+    "last_rank": 42,
+    "stats": {
+      "comment_count": 2522
+    }
+  },
+  {
+    "id": "3317821067",
+    "name": "过饱和夏天",
+    "artist": "扣子COOZI",
+    "type": "中文说唱",
+    "duration": 133,
+    "current_rank": 49,
+    "last_rank": "等于当前排名",
+    "stats": {
+      "comment_count": 108
+    }
+  },
+  {
+    "id": "2750708474",
+    "name": "他们从未离去",
+    "artist": "Rapeter",
+    "type": "中文说唱",
+    "duration": 169,
+    "current_rank": 50,
+    "last_rank": 48,
+    "stats": {
+      "comment_count": 513
+    }
+  }
+]
