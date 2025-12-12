@@ -1,0 +1,194 @@
+{
+  "playlist_info": {
+    "id": "12225155968",
+    "name": "欧美R&B",
+    "type": "R&B",
+    "fav_count": "28389",
+    "share_count": "325",
+    "comment_count": "117",
+    "song_count": 10,
+    "update_time": "2025-12-12 17:56:14"
+  },
+  "songs": [
+    {
+      "id": "2738731694",
+      "name": "never meant to hurt you",
+      "artist": "Demxntia",
+      "album": "grief",
+      "pic_url": "http://p2.music.126.net/B1Z_l8fWDbzBmk6j4zvBIg==/109951171911656403.jpg",
+      "last_rank": 0,
+      "current_rank": 1,
+      "type": "R&B",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2738731694.mp3",
+      "duration": 135,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 4283
+      }
+    },
+    {
+      "id": "526116053",
+      "name": "50 Feet",
+      "artist": "SoMo",
+      "album": "50 Feet",
+      "pic_url": "http://p2.music.126.net/-uGrdpcVwLIMEx6NXGaNrQ==/109951163168473869.jpg",
+      "last_rank": "等于当前排名",
+      "current_rank": 2,
+      "type": "R&B",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=526116053.mp3",
+      "duration": 185,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 47222
+      }
+    },
+    {
+      "id": "19827042",
+      "name": "Call You Tonight",
+      "artist": "Whitney Houston",
+      "album": "I Look To You",
+      "pic_url": "http://p2.music.126.net/0rCqvshmixfyHpQYxd1LsQ==/109951165987301859.jpg",
+      "last_rank": "等于当前排名",
+      "current_rank": 3,
+      "type": "R&B",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=19827042.mp3",
+      "duration": 250,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 53959
+      }
+    },
+    {
+      "id": "2047237457",
+      "name": "Sweet Boy",
+      "artist": "Malcolm Todd",
+      "album": "Sweet Boy",
+      "pic_url": "http://p2.music.126.net/fzFFqnMvi7IYnvkjcTYJ4g==/109951169645729919.jpg",
+      "last_rank": "等于当前排名",
+      "current_rank": 4,
+      "type": "R&B",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2047237457.mp3",
+      "duration": 180,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 1685
+      }
+    },
+    {
+      "id": "1616018",
+      "name": "Fallin' Out",
+      "artist": "Keyshia Cole",
+      "album": "Just Like You",
+      "pic_url": "http://p2.music.126.net/r0dmfJPpIlnk-BOhIKFj5A==/109951166240148979.jpg",
+      "last_rank": "等于当前排名",
+      "current_rank": 5,
+      "type": "R&B",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=1616018.mp3",
+      "duration": 267,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 28955
+      }
+    },
+    {
+      "id": "441120471",
+      "name": "That's What I Like",
+      "artist": "Bruno Mars",
+      "album": "24K Magic",
+      "pic_url": "http://p2.music.126.net/O0rmDv7U7uhLpyPs7YPp-w==/109951166232338422.jpg",
+      "last_rank": "等于当前排名",
+      "current_rank": 6,
+      "type": "R&B",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=441120471.mp3",
+      "duration": 206,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 34207
+      }
+    },
+    {
+      "id": "442867526",
+      "name": "Die For You",
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "pic_url": "http://p2.music.126.net/9i2hrhQfRPNbTWD6YVAQXg==/109951167103667631.jpg",
+      "last_rank": "等于当前排名",
+      "current_rank": 7,
+      "type": "R&B",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=442867526.mp3",
+      "duration": 260,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 48891
+      }
+    },
+    {
+      "id": "2051548110",
+      "name": "Nothin' on Me",
+      "artist": "Leah Marie Perez",
+      "album": "Nothin' on Me",
+      "pic_url": "http://p2.music.126.net/qT1Smiu67dPuPfELwgXH8g==/109951168647276075.jpg",
+      "last_rank": "等于当前排名",
+      "current_rank": 8,
+      "type": "R&B",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2051548110.mp3",
+      "duration": 217,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 21061
+      }
+    },
+    {
+      "id": "22494904",
+      "name": "Alive",
+      "artist": "Blue",
+      "album": "The Platinum Collection",
+      "pic_url": "http://p2.music.126.net/P_CsDGSqG6HFMw3jt0NcHw==/109951169371417360.jpg",
+      "last_rank": "等于当前排名",
+      "current_rank": 9,
+      "type": "R&B",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=22494904.mp3",
+      "duration": 219,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 16720
+      }
+    },
+    {
+      "id": "18851296",
+      "name": "Put A Little Umph In It (Album Version)",
+      "artist": "Jagged Edge",
+      "album": "Baby Makin' Project",
+      "pic_url": "http://p2.music.126.net/srhPZctu6o3hIry4wk4p2A==/109951167126495910.jpg",
+      "last_rank": "等于当前排名",
+      "current_rank": 10,
+      "type": "R&B",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=18851296.mp3",
+      "duration": 211,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 19266
+      }
+    }
+  ]
+}

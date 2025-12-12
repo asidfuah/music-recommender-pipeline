@@ -1,0 +1,194 @@
+{
+  "playlist_info": {
+    "id": "5059633707",
+    "name": "摇滚榜",
+    "type": "摇滚",
+    "fav_count": "89851",
+    "share_count": "1649",
+    "comment_count": "2939",
+    "song_count": 10,
+    "update_time": "2025-12-12 17:54:48"
+  },
+  "songs": [
+    {
+      "id": "2738715964",
+      "name": "染春",
+      "artist": "回春丹",
+      "album": "大把时间璀璨",
+      "pic_url": "http://p2.music.126.net/_gJgbfqTgWH2T1vk1Br1ig==/109951171911478103.jpg",
+      "last_rank": 6,
+      "current_rank": 1,
+      "type": "摇滚",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2738715964.mp3",
+      "duration": 206,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 2430
+      }
+    },
+    {
+      "id": "3317918565",
+      "name": "问米",
+      "artist": "出血林",
+      "album": "问米",
+      "pic_url": "http://p2.music.126.net/7jQs0YXvkK_T8FQlSQjY_w==/109951172282398487.jpg",
+      "last_rank": 5,
+      "current_rank": 2,
+      "type": "摇滚",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=3317918565.mp3",
+      "duration": 221,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 533
+      }
+    },
+    {
+      "id": "2744534597",
+      "name": "心房",
+      "artist": "犬儒乐队",
+      "album": "心房",
+      "pic_url": "http://p2.music.126.net/mXcruATpSaUXK3VzTlDaCw==/109951172002478984.jpg",
+      "last_rank": 11,
+      "current_rank": 3,
+      "type": "摇滚",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2744534597.mp3",
+      "duration": 562,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 3122
+      }
+    },
+    {
+      "id": "2745413584",
+      "name": "给我",
+      "artist": "犬儒乐队",
+      "album": "心房",
+      "pic_url": "http://p2.music.126.net/mXcruATpSaUXK3VzTlDaCw==/109951172002478984.jpg",
+      "last_rank": 9,
+      "current_rank": 4,
+      "type": "摇滚",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2745413584.mp3",
+      "duration": 370,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 1888
+      }
+    },
+    {
+      "id": "2745413582",
+      "name": "白鸟",
+      "artist": "犬儒乐队",
+      "album": "心房",
+      "pic_url": "http://p2.music.126.net/mXcruATpSaUXK3VzTlDaCw==/109951172002478984.jpg",
+      "last_rank": 10,
+      "current_rank": 5,
+      "type": "摇滚",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2745413582.mp3",
+      "duration": 411,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 1578
+      }
+    },
+    {
+      "id": "2750672007",
+      "name": "Fruit Fly",
+      "artist": "窦靖童",
+      "album": "Fruit Fly",
+      "pic_url": "http://p2.music.126.net/77rQOnTqQSCHlfrYeVLPvQ==/109951172077509584.jpg",
+      "last_rank": 23,
+      "current_rank": 6,
+      "type": "摇滚",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2750672007.mp3",
+      "duration": 334,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 11287
+      }
+    },
+    {
+      "id": "2738715961",
+      "name": "喝彩",
+      "artist": "回春丹",
+      "album": "大把时间璀璨",
+      "pic_url": "http://p2.music.126.net/_gJgbfqTgWH2T1vk1Br1ig==/109951171911478103.jpg",
+      "last_rank": 13,
+      "current_rank": 7,
+      "type": "摇滚",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2738715961.mp3",
+      "duration": 195,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 4236
+      }
+    },
+    {
+      "id": "3326385091",
+      "name": "Kalpa起源（Live）",
+      "artist": "声音玩具",
+      "album": "Kalpa起源（Live）",
+      "pic_url": "http://p2.music.126.net/KJoT_TAoLUZvG1JWZYHhXA==/109951172408517324.jpg",
+      "last_rank": "等于当前排名",
+      "current_rank": 8,
+      "type": "摇滚",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=3326385091.mp3",
+      "duration": 584,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 977
+      }
+    },
+    {
+      "id": "2748711423",
+      "name": "雨季",
+      "artist": "盘尼西林",
+      "album": "雨季",
+      "pic_url": "http://p2.music.126.net/GSj3j_Vjfgd2aGZ9WjfLcQ==/109951172051390398.jpg",
+      "last_rank": 17,
+      "current_rank": 9,
+      "type": "摇滚",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2748711423.mp3",
+      "duration": 205,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 637
+      }
+    },
+    {
+      "id": "2758137943",
+      "name": "理想主义",
+      "artist": "秋野乐队",
+      "album": "理想主义",
+      "pic_url": "http://p2.music.126.net/HooSI4y1S8GFrQPEXvurpQ==/109951172321472446.jpg",
+      "last_rank": 14,
+      "current_rank": 10,
+      "type": "摇滚",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2758137943.mp3",
+      "duration": 218,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 3358
+      }
+    }
+  ]
+}

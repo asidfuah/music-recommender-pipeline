@@ -1,0 +1,194 @@
+{
+  "playlist_info": {
+    "id": "14028249541",
+    "name": "全球说唱榜",
+    "type": "欧美说唱",
+    "fav_count": "4939",
+    "share_count": "54",
+    "comment_count": "129",
+    "song_count": 10,
+    "update_time": "2025-12-12 17:53:14"
+  },
+  "songs": [
+    {
+      "id": "2727830332",
+      "name": "Sugar On My Tongue",
+      "artist": "Tyler, The Creator",
+      "album": "DON'T TAP THE GLASS",
+      "pic_url": "http://p1.music.126.net/AsxT0boZLN1hOLL28nMOzA==/109951171496882163.jpg",
+      "last_rank": 0,
+      "current_rank": 1,
+      "type": "欧美说唱",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2727830332.mp3",
+      "duration": 153,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 7587
+      }
+    },
+    {
+      "id": "2754092574",
+      "name": "Fendi 2",
+      "artist": "Rakhim",
+      "album": "Fendi 2",
+      "pic_url": "http://p1.music.126.net/0CPiTpRhwyThXg8iARhD1g==/109951172131899920.jpg",
+      "last_rank": 1,
+      "current_rank": 2,
+      "type": "欧美说唱",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2754092574.mp3",
+      "duration": 90,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 560
+      }
+    },
+    {
+      "id": "3320892015",
+      "name": "Polluted Pink (TwoMix)",
+      "artist": "LivinForThePlanet",
+      "album": "Around The Glyph",
+      "pic_url": "http://p1.music.126.net/x8isTwBHIXQqejfrx8-WgA==/109951172330866362.jpg",
+      "last_rank": 39,
+      "current_rank": 3,
+      "type": "欧美说唱",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=3320892015.mp3",
+      "duration": 169,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 162
+      }
+    },
+    {
+      "id": "3316370398",
+      "name": "Pulse",
+      "artist": "Ray Saetta",
+      "album": "Pulse",
+      "pic_url": "http://p1.music.126.net/q1zEeuAprTf7AYlNd-wt2g==/109951172261354460.jpg",
+      "last_rank": 3,
+      "current_rank": 4,
+      "type": "欧美说唱",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=3316370398.mp3",
+      "duration": 187,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 187
+      }
+    },
+    {
+      "id": "2758208876",
+      "name": "TURN UP",
+      "artist": "PlaqueBoyMax",
+      "album": "TURN UP",
+      "pic_url": "http://p1.music.126.net/7OMD1tfyQeX6s3enF3fVqg==/109951172185154906.jpg",
+      "last_rank": 2,
+      "current_rank": 5,
+      "type": "欧美说唱",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2758208876.mp3",
+      "duration": 153,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 1087
+      }
+    },
+    {
+      "id": "2756262377",
+      "name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+      "artist": "Ty Dolla $ign",
+      "album": "TYCOON",
+      "pic_url": "http://p1.music.126.net/2qd_IruqwdjDTYbtGtXPKw==/109951172160601240.jpg",
+      "last_rank": 5,
+      "current_rank": 6,
+      "type": "欧美说唱",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2756262377.mp3",
+      "duration": 132,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 475
+      }
+    },
+    {
+      "id": "2750679125",
+      "name": "gigolo",
+      "artist": "bbno$",
+      "album": "gigolo",
+      "pic_url": "http://p1.music.126.net/HP7ElbhdqrKEQBGZY4AsKQ==/109951172077679894.jpg",
+      "last_rank": 7,
+      "current_rank": 7,
+      "type": "欧美说唱",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2750679125.mp3",
+      "duration": 118,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 619
+      }
+    },
+    {
+      "id": "3322252467",
+      "name": "Booga",
+      "artist": "Central Cee",
+      "album": "Booga",
+      "pic_url": "http://p1.music.126.net/_fpvyveyT3JcHB1U999WAQ==/109951172349183927.jpg",
+      "last_rank": 4,
+      "current_rank": 8,
+      "type": "欧美说唱",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=3322252467.mp3",
+      "duration": 112,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 687
+      }
+    },
+    {
+      "id": "2725907767",
+      "name": "in my zone",
+      "artist": "VALORANT",
+      "album": "in my zone",
+      "pic_url": "http://p1.music.126.net/gjuQRMcNIEY5PeQGVS1LDg==/109951171465108516.jpg",
+      "last_rank": 6,
+      "current_rank": 9,
+      "type": "欧美说唱",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2725907767.mp3",
+      "duration": 172,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 6768
+      }
+    },
+    {
+      "id": "2722724910",
+      "name": "What Did I Miss?",
+      "artist": "Drake",
+      "album": "What Did I Miss?",
+      "pic_url": "http://p1.music.126.net/h2kmeVqSPLeCQQKCwfqw-w==/109951171406392588.jpg",
+      "last_rank": 9,
+      "current_rank": 10,
+      "type": "欧美说唱",
+      "mp3_url": "https://music.163.com/song/media/outer/url?id=2722724910.mp3",
+      "duration": 194,
+      "stats": {
+        "like_count": 0,
+        "favorite_count": 0,
+        "share_count": 0,
+        "comment_count": 3667
+      }
+    }
+  ]
+}
